@@ -1,0 +1,18 @@
+case,median_saving_pct,share_storage_pct,share_positive_pct
+Base case,0.0,32.83422459893048,32.83422459893048
+Capacity cost 10 M$ per MGD,0.0,10.106951871657754,10.106951871657754
+Capacity cost 40 M$ per MGD,0.0,48.23529411764706,48.23529411764706
+Tank cost x 0.5,2.1663429378013226,63.101604278074866,63.101604278074866
+Tank cost x 2,0.0,12.620320855614972,12.620320855614972
+Electricity x 0.6,0.0,32.83422459893048,32.83422459893048
+Electricity x 2,0.0,32.83422459893048,32.83422459893048
+No capacity charge,0.0,32.83422459893048,32.83422459893048
+Capacity charge 150 k$ per MW-yr,0.0,32.83422459893048,32.83422459893048
+3 cycles of concentration,0.0,32.83422459893048,32.83422459893048
+6 cycles of concentration,0.0,32.83422459893048,32.83422459893048
+No dry-backup capital,1.1278695347209555,62.51336898395722,62.780748663101605
+Dry-backup capital 100 $ per kW IT,0.0,32.83422459893048,32.83422459893048
+Dry-backup capital 300 $ per kW IT,0.0,32.83422459893048,32.83422459893048
+Dry mode at the 24 K range with the COP at the entering temperature and dry coolers sized for that range (optimistic bound),0.0,49.411764705882355,49.411764705882355
+Dry mode at the 24 K range with the COP at the leaving temperature and dry coolers sized for that range,0.0,32.83422459893048,32.83422459893048
+Both chillers at a conventional 6 K range with the COP at the leaving temperature,0.0,32.83422459893048,32.83422459893048

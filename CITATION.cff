@@ -1,0 +1,27 @@
+cff-version: 1.2.0
+message: "If you use this code or these data, please cite the article and this repository."
+type: software
+title: "Storage and capacity rather than volume govern the water needs of United States data centers: analysis code and data"
+version: "v5"
+date-released: 2026-10-10
+license: MIT
+repository-code: "https://github.com/SAAAHco/DataCenter_Water_Storage_Yield"
+keywords:
+  - data centers
+  - water supply
+  - storage-yield analysis
+  - peak demand
+  - evaporative cooling
+  - dry cooling
+  - grid peak coincidence
+authors:
+  - family-names: Ashkanani
+    given-names: Zainab
+    email: ashkanani@tamu.edu
+    affiliation: "Texas A&M Energy Institute and Biological and Agricultural Engineering Department, Texas A&M University"
+  - family-names: Pappas
+    given-names: Konstantinos
+    affiliation: "Texas A&M Energy Institute, Biological and Agricultural Engineering Department and Bush School of Government and Public Service, Texas A&M University"
+  - family-names: Mohtar
+    given-names: Rabi
+    affiliation: "Texas A&M Energy Institute, Biological and Agricultural Engineering Department and Zachry Department of Civil and Environmental Engineering, Texas A&M University"

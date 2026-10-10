@@ -1,0 +1,2529 @@
+run,headroom_def,h,regime,threshold,design,state,sites,servable,kept_own,moved,unservable,unservable_mw,own_attributed
+low_50,mdd,0.1,no_storage,10000,water_priority,Alabama,2,2,2,0,0,0.0,2
+low_50,mdd,0.1,no_storage,10000,water_priority,Arizona,9,9,4,5,0,0.0,4
+low_50,mdd,0.1,no_storage,10000,water_priority,California,14,14,14,0,0,0.0,14
+low_50,mdd,0.1,no_storage,10000,water_priority,Colorado,2,2,2,0,0,0.0,2
+low_50,mdd,0.1,no_storage,10000,water_priority,Florida,2,2,2,0,0,0.0,2
+low_50,mdd,0.1,no_storage,10000,water_priority,Georgia,9,9,8,1,0,0.0,8
+low_50,mdd,0.1,no_storage,10000,water_priority,Illinois,11,11,4,7,0,0.0,11
+low_50,mdd,0.1,no_storage,10000,water_priority,Iowa,9,9,8,1,0,0.0,9
+low_50,mdd,0.1,no_storage,10000,water_priority,Kentucky,2,2,0,2,0,0.0,0
+low_50,mdd,0.1,no_storage,10000,water_priority,Massachusetts,1,1,1,0,0,0.0,1
+low_50,mdd,0.1,no_storage,10000,water_priority,Minnesota,1,1,1,0,0,0.0,1
+low_50,mdd,0.1,no_storage,10000,water_priority,Missouri,1,1,1,0,0,0.0,1
+low_50,mdd,0.1,no_storage,10000,water_priority,Nebraska,6,6,4,2,0,0.0,6
+low_50,mdd,0.1,no_storage,10000,water_priority,Nevada,5,5,5,0,0,0.0,5
+low_50,mdd,0.1,no_storage,10000,water_priority,New Jersey,6,6,4,2,0,0.0,6
+low_50,mdd,0.1,no_storage,10000,water_priority,New York,6,6,6,0,0,0.0,6
+low_50,mdd,0.1,no_storage,10000,water_priority,North Carolina,4,4,1,3,0,0.0,4
+low_50,mdd,0.1,no_storage,10000,water_priority,North Dakota,6,6,2,4,0,0.0,2
+low_50,mdd,0.1,no_storage,10000,water_priority,Ohio,3,3,2,1,0,0.0,3
+low_50,mdd,0.1,no_storage,10000,water_priority,Oklahoma,1,1,1,0,0,0.0,1
+low_50,mdd,0.1,no_storage,10000,water_priority,Oregon,10,10,8,2,0,0.0,9
+low_50,mdd,0.1,no_storage,10000,water_priority,Pennsylvania,7,7,3,4,0,0.0,6
+low_50,mdd,0.1,no_storage,10000,water_priority,South Carolina,3,3,0,3,0,0.0,3
+low_50,mdd,0.1,no_storage,10000,water_priority,Tennessee,2,2,2,0,0,0.0,2
+low_50,mdd,0.1,no_storage,10000,water_priority,Texas,34,34,25,9,0,0.0,34
+low_50,mdd,0.1,no_storage,10000,water_priority,Utah,4,4,4,0,0,0.0,4
+low_50,mdd,0.1,no_storage,10000,water_priority,Virginia,52,52,25,27,0,0.0,34
+low_50,mdd,0.1,no_storage,10000,water_priority,Washington,8,6,0,6,2,72.0,0
+low_50,mdd,0.1,no_storage,10000,water_priority,Wyoming,2,2,1,1,0,0.0,1
+low_50,mdd,0.1,storage,10000,water_priority,Alabama,2,2,2,0,0,0.0,2
+low_50,mdd,0.1,storage,10000,water_priority,Arizona,9,9,4,5,0,0.0,4
+low_50,mdd,0.1,storage,10000,water_priority,California,14,14,14,0,0,0.0,14
+low_50,mdd,0.1,storage,10000,water_priority,Colorado,2,2,2,0,0,0.0,2
+low_50,mdd,0.1,storage,10000,water_priority,Florida,2,2,2,0,0,0.0,2
+low_50,mdd,0.1,storage,10000,water_priority,Georgia,9,9,8,1,0,0.0,8
+low_50,mdd,0.1,storage,10000,water_priority,Illinois,11,11,7,4,0,0.0,11
+low_50,mdd,0.1,storage,10000,water_priority,Iowa,9,9,9,0,0,0.0,9
+low_50,mdd,0.1,storage,10000,water_priority,Kentucky,2,2,0,2,0,0.0,0
+low_50,mdd,0.1,storage,10000,water_priority,Massachusetts,1,1,1,0,0,0.0,1
+low_50,mdd,0.1,storage,10000,water_priority,Minnesota,1,1,1,0,0,0.0,1
+low_50,mdd,0.1,storage,10000,water_priority,Missouri,1,1,1,0,0,0.0,1
+low_50,mdd,0.1,storage,10000,water_priority,Nebraska,6,6,6,0,0,0.0,6
+low_50,mdd,0.1,storage,10000,water_priority,Nevada,5,5,5,0,0,0.0,5
+low_50,mdd,0.1,storage,10000,water_priority,New Jersey,6,6,6,0,0,0.0,6
+low_50,mdd,0.1,storage,10000,water_priority,New York,6,6,6,0,0,0.0,6
+low_50,mdd,0.1,storage,10000,water_priority,North Carolina,4,4,3,1,0,0.0,4
+low_50,mdd,0.1,storage,10000,water_priority,North Dakota,6,6,2,4,0,0.0,2
+low_50,mdd,0.1,storage,10000,water_priority,Ohio,3,3,3,0,0,0.0,3
+low_50,mdd,0.1,storage,10000,water_priority,Oklahoma,1,1,1,0,0,0.0,1
+low_50,mdd,0.1,storage,10000,water_priority,Oregon,10,10,9,1,0,0.0,9
+low_50,mdd,0.1,storage,10000,water_priority,Pennsylvania,7,7,6,1,0,0.0,6
+low_50,mdd,0.1,storage,10000,water_priority,South Carolina,3,3,0,3,0,0.0,3
+low_50,mdd,0.1,storage,10000,water_priority,Tennessee,2,2,2,0,0,0.0,2
+low_50,mdd,0.1,storage,10000,water_priority,Texas,34,34,31,3,0,0.0,34
+low_50,mdd,0.1,storage,10000,water_priority,Utah,4,4,4,0,0,0.0,4
+low_50,mdd,0.1,storage,10000,water_priority,Virginia,52,52,26,26,0,0.0,34
+low_50,mdd,0.1,storage,10000,water_priority,Washington,8,8,0,8,0,0.0,0
+low_50,mdd,0.1,storage,10000,water_priority,Wyoming,2,2,1,1,0,0.0,1
+low_50,mdd,0.25,no_storage,10000,water_priority,Alabama,2,2,2,0,0,0.0,2
+low_50,mdd,0.25,no_storage,10000,water_priority,Arizona,9,9,4,5,0,0.0,4
+low_50,mdd,0.25,no_storage,10000,water_priority,California,14,14,14,0,0,0.0,14
+low_50,mdd,0.25,no_storage,10000,water_priority,Colorado,2,2,2,0,0,0.0,2
+low_50,mdd,0.25,no_storage,10000,water_priority,Florida,2,2,2,0,0,0.0,2
+low_50,mdd,0.25,no_storage,10000,water_priority,Georgia,9,9,8,1,0,0.0,8
+low_50,mdd,0.25,no_storage,10000,water_priority,Illinois,11,11,7,4,0,0.0,11
+low_50,mdd,0.25,no_storage,10000,water_priority,Iowa,9,9,9,0,0,0.0,9
+low_50,mdd,0.25,no_storage,10000,water_priority,Kentucky,2,2,0,2,0,0.0,0
+low_50,mdd,0.25,no_storage,10000,water_priority,Massachusetts,1,1,1,0,0,0.0,1
+low_50,mdd,0.25,no_storage,10000,water_priority,Minnesota,1,1,1,0,0,0.0,1
+low_50,mdd,0.25,no_storage,10000,water_priority,Missouri,1,1,1,0,0,0.0,1
+low_50,mdd,0.25,no_storage,10000,water_priority,Nebraska,6,6,6,0,0,0.0,6
+low_50,mdd,0.25,no_storage,10000,water_priority,Nevada,5,5,5,0,0,0.0,5
+low_50,mdd,0.25,no_storage,10000,water_priority,New Jersey,6,6,6,0,0,0.0,6
+low_50,mdd,0.25,no_storage,10000,water_priority,New York,6,6,6,0,0,0.0,6
+low_50,mdd,0.25,no_storage,10000,water_priority,North Carolina,4,4,4,0,0,0.0,4
+low_50,mdd,0.25,no_storage,10000,water_priority,North Dakota,6,6,2,4,0,0.0,2
+low_50,mdd,0.25,no_storage,10000,water_priority,Ohio,3,3,3,0,0,0.0,3
+low_50,mdd,0.25,no_storage,10000,water_priority,Oklahoma,1,1,1,0,0,0.0,1
+low_50,mdd,0.25,no_storage,10000,water_priority,Oregon,10,10,9,1,0,0.0,9
+low_50,mdd,0.25,no_storage,10000,water_priority,Pennsylvania,7,7,6,1,0,0.0,6
+low_50,mdd,0.25,no_storage,10000,water_priority,South Carolina,3,3,1,2,0,0.0,3
+low_50,mdd,0.25,no_storage,10000,water_priority,Tennessee,2,2,2,0,0,0.0,2
+low_50,mdd,0.25,no_storage,10000,water_priority,Texas,34,34,34,0,0,0.0,34
+low_50,mdd,0.25,no_storage,10000,water_priority,Utah,4,4,4,0,0,0.0,4
+low_50,mdd,0.25,no_storage,10000,water_priority,Virginia,52,52,26,26,0,0.0,34
+low_50,mdd,0.25,no_storage,10000,water_priority,Washington,8,8,0,8,0,0.0,0
+low_50,mdd,0.25,no_storage,10000,water_priority,Wyoming,2,2,1,1,0,0.0,1
+low_50,mdd,0.25,storage,10000,water_priority,Alabama,2,2,2,0,0,0.0,2
+low_50,mdd,0.25,storage,10000,water_priority,Arizona,9,9,4,5,0,0.0,4
+low_50,mdd,0.25,storage,10000,water_priority,California,14,14,14,0,0,0.0,14
+low_50,mdd,0.25,storage,10000,water_priority,Colorado,2,2,2,0,0,0.0,2
+low_50,mdd,0.25,storage,10000,water_priority,Florida,2,2,2,0,0,0.0,2
+low_50,mdd,0.25,storage,10000,water_priority,Georgia,9,9,8,1,0,0.0,8
+low_50,mdd,0.25,storage,10000,water_priority,Illinois,11,11,10,1,0,0.0,11
+low_50,mdd,0.25,storage,10000,water_priority,Iowa,9,9,9,0,0,0.0,9
+low_50,mdd,0.25,storage,10000,water_priority,Kentucky,2,2,0,2,0,0.0,0
+low_50,mdd,0.25,storage,10000,water_priority,Massachusetts,1,1,1,0,0,0.0,1
+low_50,mdd,0.25,storage,10000,water_priority,Minnesota,1,1,1,0,0,0.0,1
+low_50,mdd,0.25,storage,10000,water_priority,Missouri,1,1,1,0,0,0.0,1
+low_50,mdd,0.25,storage,10000,water_priority,Nebraska,6,6,6,0,0,0.0,6
+low_50,mdd,0.25,storage,10000,water_priority,Nevada,5,5,5,0,0,0.0,5
+low_50,mdd,0.25,storage,10000,water_priority,New Jersey,6,6,6,0,0,0.0,6
+low_50,mdd,0.25,storage,10000,water_priority,New York,6,6,6,0,0,0.0,6
+low_50,mdd,0.25,storage,10000,water_priority,North Carolina,4,4,4,0,0,0.0,4
+low_50,mdd,0.25,storage,10000,water_priority,North Dakota,6,6,2,4,0,0.0,2
+low_50,mdd,0.25,storage,10000,water_priority,Ohio,3,3,3,0,0,0.0,3
+low_50,mdd,0.25,storage,10000,water_priority,Oklahoma,1,1,1,0,0,0.0,1
+low_50,mdd,0.25,storage,10000,water_priority,Oregon,10,10,9,1,0,0.0,9
+low_50,mdd,0.25,storage,10000,water_priority,Pennsylvania,7,7,6,1,0,0.0,6
+low_50,mdd,0.25,storage,10000,water_priority,South Carolina,3,3,1,2,0,0.0,3
+low_50,mdd,0.25,storage,10000,water_priority,Tennessee,2,2,2,0,0,0.0,2
+low_50,mdd,0.25,storage,10000,water_priority,Texas,34,34,34,0,0,0.0,34
+low_50,mdd,0.25,storage,10000,water_priority,Utah,4,4,4,0,0,0.0,4
+low_50,mdd,0.25,storage,10000,water_priority,Virginia,52,52,28,24,0,0.0,34
+low_50,mdd,0.25,storage,10000,water_priority,Washington,8,8,0,8,0,0.0,0
+low_50,mdd,0.25,storage,10000,water_priority,Wyoming,2,2,1,1,0,0.0,1
+low_50,mdd,0.5,no_storage,10000,water_priority,Alabama,2,2,2,0,0,0.0,2
+low_50,mdd,0.5,no_storage,10000,water_priority,Arizona,9,9,4,5,0,0.0,4
+low_50,mdd,0.5,no_storage,10000,water_priority,California,14,14,14,0,0,0.0,14
+low_50,mdd,0.5,no_storage,10000,water_priority,Colorado,2,2,2,0,0,0.0,2
+low_50,mdd,0.5,no_storage,10000,water_priority,Florida,2,2,2,0,0,0.0,2
+low_50,mdd,0.5,no_storage,10000,water_priority,Georgia,9,9,8,1,0,0.0,8
+low_50,mdd,0.5,no_storage,10000,water_priority,Illinois,11,11,9,2,0,0.0,11
+low_50,mdd,0.5,no_storage,10000,water_priority,Iowa,9,9,9,0,0,0.0,9
+low_50,mdd,0.5,no_storage,10000,water_priority,Kentucky,2,2,0,2,0,0.0,0
+low_50,mdd,0.5,no_storage,10000,water_priority,Massachusetts,1,1,1,0,0,0.0,1
+low_50,mdd,0.5,no_storage,10000,water_priority,Minnesota,1,1,1,0,0,0.0,1
+low_50,mdd,0.5,no_storage,10000,water_priority,Missouri,1,1,1,0,0,0.0,1
+low_50,mdd,0.5,no_storage,10000,water_priority,Nebraska,6,6,6,0,0,0.0,6
+low_50,mdd,0.5,no_storage,10000,water_priority,Nevada,5,5,5,0,0,0.0,5
+low_50,mdd,0.5,no_storage,10000,water_priority,New Jersey,6,6,6,0,0,0.0,6
+low_50,mdd,0.5,no_storage,10000,water_priority,New York,6,6,6,0,0,0.0,6
+low_50,mdd,0.5,no_storage,10000,water_priority,North Carolina,4,4,4,0,0,0.0,4
+low_50,mdd,0.5,no_storage,10000,water_priority,North Dakota,6,6,2,4,0,0.0,2
+low_50,mdd,0.5,no_storage,10000,water_priority,Ohio,3,3,3,0,0,0.0,3
+low_50,mdd,0.5,no_storage,10000,water_priority,Oklahoma,1,1,1,0,0,0.0,1
+low_50,mdd,0.5,no_storage,10000,water_priority,Oregon,10,10,9,1,0,0.0,9
+low_50,mdd,0.5,no_storage,10000,water_priority,Pennsylvania,7,7,6,1,0,0.0,6
+low_50,mdd,0.5,no_storage,10000,water_priority,South Carolina,3,3,2,1,0,0.0,3
+low_50,mdd,0.5,no_storage,10000,water_priority,Tennessee,2,2,2,0,0,0.0,2
+low_50,mdd,0.5,no_storage,10000,water_priority,Texas,34,34,34,0,0,0.0,34
+low_50,mdd,0.5,no_storage,10000,water_priority,Utah,4,4,4,0,0,0.0,4
+low_50,mdd,0.5,no_storage,10000,water_priority,Virginia,52,52,28,24,0,0.0,34
+low_50,mdd,0.5,no_storage,10000,water_priority,Washington,8,8,0,8,0,0.0,0
+low_50,mdd,0.5,no_storage,10000,water_priority,Wyoming,2,2,1,1,0,0.0,1
+low_50,mdd,0.5,storage,10000,water_priority,Alabama,2,2,2,0,0,0.0,2
+low_50,mdd,0.5,storage,10000,water_priority,Arizona,9,9,4,5,0,0.0,4
+low_50,mdd,0.5,storage,10000,water_priority,California,14,14,14,0,0,0.0,14
+low_50,mdd,0.5,storage,10000,water_priority,Colorado,2,2,2,0,0,0.0,2
+low_50,mdd,0.5,storage,10000,water_priority,Florida,2,2,2,0,0,0.0,2
+low_50,mdd,0.5,storage,10000,water_priority,Georgia,9,9,8,1,0,0.0,8
+low_50,mdd,0.5,storage,10000,water_priority,Illinois,11,11,11,0,0,0.0,11
+low_50,mdd,0.5,storage,10000,water_priority,Iowa,9,9,9,0,0,0.0,9
+low_50,mdd,0.5,storage,10000,water_priority,Kentucky,2,2,0,2,0,0.0,0
+low_50,mdd,0.5,storage,10000,water_priority,Massachusetts,1,1,1,0,0,0.0,1
+low_50,mdd,0.5,storage,10000,water_priority,Minnesota,1,1,1,0,0,0.0,1
+low_50,mdd,0.5,storage,10000,water_priority,Missouri,1,1,1,0,0,0.0,1
+low_50,mdd,0.5,storage,10000,water_priority,Nebraska,6,6,6,0,0,0.0,6
+low_50,mdd,0.5,storage,10000,water_priority,Nevada,5,5,5,0,0,0.0,5
+low_50,mdd,0.5,storage,10000,water_priority,New Jersey,6,6,6,0,0,0.0,6
+low_50,mdd,0.5,storage,10000,water_priority,New York,6,6,6,0,0,0.0,6
+low_50,mdd,0.5,storage,10000,water_priority,North Carolina,4,4,4,0,0,0.0,4
+low_50,mdd,0.5,storage,10000,water_priority,North Dakota,6,6,2,4,0,0.0,2
+low_50,mdd,0.5,storage,10000,water_priority,Ohio,3,3,3,0,0,0.0,3
+low_50,mdd,0.5,storage,10000,water_priority,Oklahoma,1,1,1,0,0,0.0,1
+low_50,mdd,0.5,storage,10000,water_priority,Oregon,10,10,9,1,0,0.0,9
+low_50,mdd,0.5,storage,10000,water_priority,Pennsylvania,7,7,6,1,0,0.0,6
+low_50,mdd,0.5,storage,10000,water_priority,South Carolina,3,3,3,0,0,0.0,3
+low_50,mdd,0.5,storage,10000,water_priority,Tennessee,2,2,2,0,0,0.0,2
+low_50,mdd,0.5,storage,10000,water_priority,Texas,34,34,34,0,0,0.0,34
+low_50,mdd,0.5,storage,10000,water_priority,Utah,4,4,4,0,0,0.0,4
+low_50,mdd,0.5,storage,10000,water_priority,Virginia,52,52,32,20,0,0.0,34
+low_50,mdd,0.5,storage,10000,water_priority,Washington,8,8,0,8,0,0.0,0
+low_50,mdd,0.5,storage,10000,water_priority,Wyoming,2,2,1,1,0,0.0,1
+low_50,avg,0.25,no_storage,10000,water_priority,Alabama,2,2,2,0,0,0.0,2
+low_50,avg,0.25,no_storage,10000,water_priority,Arizona,9,9,4,5,0,0.0,4
+low_50,avg,0.25,no_storage,10000,water_priority,California,14,14,14,0,0,0.0,14
+low_50,avg,0.25,no_storage,10000,water_priority,Colorado,2,2,2,0,0,0.0,2
+low_50,avg,0.25,no_storage,10000,water_priority,Florida,2,2,2,0,0,0.0,2
+low_50,avg,0.25,no_storage,10000,water_priority,Georgia,9,9,8,1,0,0.0,8
+low_50,avg,0.25,no_storage,10000,water_priority,Illinois,11,11,5,6,0,0.0,11
+low_50,avg,0.25,no_storage,10000,water_priority,Iowa,9,9,8,1,0,0.0,9
+low_50,avg,0.25,no_storage,10000,water_priority,Kentucky,2,2,0,2,0,0.0,0
+low_50,avg,0.25,no_storage,10000,water_priority,Massachusetts,1,1,1,0,0,0.0,1
+low_50,avg,0.25,no_storage,10000,water_priority,Minnesota,1,1,1,0,0,0.0,1
+low_50,avg,0.25,no_storage,10000,water_priority,Missouri,1,1,1,0,0,0.0,1
+low_50,avg,0.25,no_storage,10000,water_priority,Nebraska,6,6,5,1,0,0.0,6
+low_50,avg,0.25,no_storage,10000,water_priority,Nevada,5,5,5,0,0,0.0,5
+low_50,avg,0.25,no_storage,10000,water_priority,New Jersey,6,6,5,1,0,0.0,6
+low_50,avg,0.25,no_storage,10000,water_priority,New York,6,6,6,0,0,0.0,6
+low_50,avg,0.25,no_storage,10000,water_priority,North Carolina,4,4,1,3,0,0.0,4
+low_50,avg,0.25,no_storage,10000,water_priority,North Dakota,6,6,2,4,0,0.0,2
+low_50,avg,0.25,no_storage,10000,water_priority,Ohio,3,3,3,0,0,0.0,3
+low_50,avg,0.25,no_storage,10000,water_priority,Oklahoma,1,1,1,0,0,0.0,1
+low_50,avg,0.25,no_storage,10000,water_priority,Oregon,10,10,8,2,0,0.0,9
+low_50,avg,0.25,no_storage,10000,water_priority,Pennsylvania,7,7,3,4,0,0.0,6
+low_50,avg,0.25,no_storage,10000,water_priority,South Carolina,3,3,0,3,0,0.0,3
+low_50,avg,0.25,no_storage,10000,water_priority,Tennessee,2,2,2,0,0,0.0,2
+low_50,avg,0.25,no_storage,10000,water_priority,Texas,34,34,25,9,0,0.0,34
+low_50,avg,0.25,no_storage,10000,water_priority,Utah,4,4,4,0,0,0.0,4
+low_50,avg,0.25,no_storage,10000,water_priority,Virginia,52,52,25,27,0,0.0,34
+low_50,avg,0.25,no_storage,10000,water_priority,Washington,8,6,0,6,2,72.0,0
+low_50,avg,0.25,no_storage,10000,water_priority,Wyoming,2,2,1,1,0,0.0,1
+low_50,avg,0.25,storage,10000,water_priority,Alabama,2,2,2,0,0,0.0,2
+low_50,avg,0.25,storage,10000,water_priority,Arizona,9,9,4,5,0,0.0,4
+low_50,avg,0.25,storage,10000,water_priority,California,14,14,14,0,0,0.0,14
+low_50,avg,0.25,storage,10000,water_priority,Colorado,2,2,2,0,0,0.0,2
+low_50,avg,0.25,storage,10000,water_priority,Florida,2,2,2,0,0,0.0,2
+low_50,avg,0.25,storage,10000,water_priority,Georgia,9,9,8,1,0,0.0,8
+low_50,avg,0.25,storage,10000,water_priority,Illinois,11,11,8,3,0,0.0,11
+low_50,avg,0.25,storage,10000,water_priority,Iowa,9,9,9,0,0,0.0,9
+low_50,avg,0.25,storage,10000,water_priority,Kentucky,2,2,0,2,0,0.0,0
+low_50,avg,0.25,storage,10000,water_priority,Massachusetts,1,1,1,0,0,0.0,1
+low_50,avg,0.25,storage,10000,water_priority,Minnesota,1,1,1,0,0,0.0,1
+low_50,avg,0.25,storage,10000,water_priority,Missouri,1,1,1,0,0,0.0,1
+low_50,avg,0.25,storage,10000,water_priority,Nebraska,6,6,6,0,0,0.0,6
+low_50,avg,0.25,storage,10000,water_priority,Nevada,5,5,5,0,0,0.0,5
+low_50,avg,0.25,storage,10000,water_priority,New Jersey,6,6,6,0,0,0.0,6
+low_50,avg,0.25,storage,10000,water_priority,New York,6,6,6,0,0,0.0,6
+low_50,avg,0.25,storage,10000,water_priority,North Carolina,4,4,3,1,0,0.0,4
+low_50,avg,0.25,storage,10000,water_priority,North Dakota,6,6,2,4,0,0.0,2
+low_50,avg,0.25,storage,10000,water_priority,Ohio,3,3,3,0,0,0.0,3
+low_50,avg,0.25,storage,10000,water_priority,Oklahoma,1,1,1,0,0,0.0,1
+low_50,avg,0.25,storage,10000,water_priority,Oregon,10,10,9,1,0,0.0,9
+low_50,avg,0.25,storage,10000,water_priority,Pennsylvania,7,7,6,1,0,0.0,6
+low_50,avg,0.25,storage,10000,water_priority,South Carolina,3,3,1,2,0,0.0,3
+low_50,avg,0.25,storage,10000,water_priority,Tennessee,2,2,2,0,0,0.0,2
+low_50,avg,0.25,storage,10000,water_priority,Texas,34,34,32,2,0,0.0,34
+low_50,avg,0.25,storage,10000,water_priority,Utah,4,4,4,0,0,0.0,4
+low_50,avg,0.25,storage,10000,water_priority,Virginia,52,52,26,26,0,0.0,34
+low_50,avg,0.25,storage,10000,water_priority,Washington,8,8,0,8,0,0.0,0
+low_50,avg,0.25,storage,10000,water_priority,Wyoming,2,2,1,1,0,0.0,1
+moderate_50,mdd,0.1,no_storage,10000,water_priority,Alabama,3,3,3,0,0,0.0,3
+moderate_50,mdd,0.1,no_storage,10000,water_priority,Arizona,14,14,6,8,0,0.0,6
+moderate_50,mdd,0.1,no_storage,10000,water_priority,California,21,21,21,0,0,0.0,21
+moderate_50,mdd,0.1,no_storage,10000,water_priority,Colorado,3,3,3,0,0,0.0,3
+moderate_50,mdd,0.1,no_storage,10000,water_priority,Florida,3,3,3,0,0,0.0,3
+moderate_50,mdd,0.1,no_storage,10000,water_priority,Georgia,14,14,13,1,0,0.0,13
+moderate_50,mdd,0.1,no_storage,10000,water_priority,Illinois,16,16,7,9,0,0.0,16
+moderate_50,mdd,0.1,no_storage,10000,water_priority,Iowa,14,14,13,1,0,0.0,14
+moderate_50,mdd,0.1,no_storage,10000,water_priority,Kentucky,3,3,0,3,0,0.0,0
+moderate_50,mdd,0.1,no_storage,10000,water_priority,Massachusetts,2,2,2,0,0,0.0,2
+moderate_50,mdd,0.1,no_storage,10000,water_priority,Michigan,1,1,1,0,0,0.0,1
+moderate_50,mdd,0.1,no_storage,10000,water_priority,Minnesota,1,1,1,0,0,0.0,1
+moderate_50,mdd,0.1,no_storage,10000,water_priority,Missouri,2,2,2,0,0,0.0,2
+moderate_50,mdd,0.1,no_storage,10000,water_priority,Montana,1,1,1,0,0,0.0,1
+moderate_50,mdd,0.1,no_storage,10000,water_priority,Nebraska,8,8,5,3,0,0.0,7
+moderate_50,mdd,0.1,no_storage,10000,water_priority,Nevada,7,7,7,0,0,0.0,7
+moderate_50,mdd,0.1,no_storage,10000,water_priority,New Jersey,9,9,7,2,0,0.0,9
+moderate_50,mdd,0.1,no_storage,10000,water_priority,New York,9,9,7,2,0,0.0,7
+moderate_50,mdd,0.1,no_storage,10000,water_priority,North Carolina,6,6,1,5,0,0.0,6
+moderate_50,mdd,0.1,no_storage,10000,water_priority,North Dakota,8,8,4,4,0,0.0,4
+moderate_50,mdd,0.1,no_storage,10000,water_priority,Ohio,5,5,2,3,0,0.0,5
+moderate_50,mdd,0.1,no_storage,10000,water_priority,Oklahoma,2,2,2,0,0,0.0,2
+moderate_50,mdd,0.1,no_storage,10000,water_priority,Oregon,14,14,8,6,0,0.0,12
+moderate_50,mdd,0.1,no_storage,10000,water_priority,Pennsylvania,10,10,3,7,0,0.0,9
+moderate_50,mdd,0.1,no_storage,10000,water_priority,South Carolina,4,4,1,3,0,0.0,4
+moderate_50,mdd,0.1,no_storage,10000,water_priority,Tennessee,3,3,3,0,0,0.0,3
+moderate_50,mdd,0.1,no_storage,10000,water_priority,Texas,49,49,32,17,0,0.0,49
+moderate_50,mdd,0.1,no_storage,10000,water_priority,Utah,5,5,5,0,0,0.0,5
+moderate_50,mdd,0.1,no_storage,10000,water_priority,Virginia,76,76,37,39,0,0.0,53
+moderate_50,mdd,0.1,no_storage,10000,water_priority,Washington,11,6,0,6,5,180.0,0
+moderate_50,mdd,0.1,no_storage,10000,water_priority,Wyoming,4,4,3,1,0,0.0,3
+moderate_50,mdd,0.1,storage,10000,water_priority,Alabama,3,3,3,0,0,0.0,3
+moderate_50,mdd,0.1,storage,10000,water_priority,Arizona,14,14,6,8,0,0.0,6
+moderate_50,mdd,0.1,storage,10000,water_priority,California,21,21,21,0,0,0.0,21
+moderate_50,mdd,0.1,storage,10000,water_priority,Colorado,3,3,3,0,0,0.0,3
+moderate_50,mdd,0.1,storage,10000,water_priority,Florida,3,3,3,0,0,0.0,3
+moderate_50,mdd,0.1,storage,10000,water_priority,Georgia,14,14,13,1,0,0.0,13
+moderate_50,mdd,0.1,storage,10000,water_priority,Illinois,16,16,12,4,0,0.0,16
+moderate_50,mdd,0.1,storage,10000,water_priority,Iowa,14,14,14,0,0,0.0,14
+moderate_50,mdd,0.1,storage,10000,water_priority,Kentucky,3,3,0,3,0,0.0,0
+moderate_50,mdd,0.1,storage,10000,water_priority,Massachusetts,2,2,2,0,0,0.0,2
+moderate_50,mdd,0.1,storage,10000,water_priority,Michigan,1,1,1,0,0,0.0,1
+moderate_50,mdd,0.1,storage,10000,water_priority,Minnesota,1,1,1,0,0,0.0,1
+moderate_50,mdd,0.1,storage,10000,water_priority,Missouri,2,2,2,0,0,0.0,2
+moderate_50,mdd,0.1,storage,10000,water_priority,Montana,1,1,1,0,0,0.0,1
+moderate_50,mdd,0.1,storage,10000,water_priority,Nebraska,8,8,7,1,0,0.0,7
+moderate_50,mdd,0.1,storage,10000,water_priority,Nevada,7,7,7,0,0,0.0,7
+moderate_50,mdd,0.1,storage,10000,water_priority,New Jersey,9,9,9,0,0,0.0,9
+moderate_50,mdd,0.1,storage,10000,water_priority,New York,9,9,7,2,0,0.0,7
+moderate_50,mdd,0.1,storage,10000,water_priority,North Carolina,6,6,3,3,0,0.0,6
+moderate_50,mdd,0.1,storage,10000,water_priority,North Dakota,8,8,4,4,0,0.0,4
+moderate_50,mdd,0.1,storage,10000,water_priority,Ohio,5,5,4,1,0,0.0,5
+moderate_50,mdd,0.1,storage,10000,water_priority,Oklahoma,2,2,2,0,0,0.0,2
+moderate_50,mdd,0.1,storage,10000,water_priority,Oregon,14,14,12,2,0,0.0,12
+moderate_50,mdd,0.1,storage,10000,water_priority,Pennsylvania,10,10,6,4,0,0.0,9
+moderate_50,mdd,0.1,storage,10000,water_priority,South Carolina,4,4,1,3,0,0.0,4
+moderate_50,mdd,0.1,storage,10000,water_priority,Tennessee,3,3,3,0,0,0.0,3
+moderate_50,mdd,0.1,storage,10000,water_priority,Texas,49,49,38,11,0,0.0,49
+moderate_50,mdd,0.1,storage,10000,water_priority,Utah,5,5,5,0,0,0.0,5
+moderate_50,mdd,0.1,storage,10000,water_priority,Virginia,76,76,42,34,0,0.0,53
+moderate_50,mdd,0.1,storage,10000,water_priority,Washington,11,11,0,11,0,0.0,0
+moderate_50,mdd,0.1,storage,10000,water_priority,Wyoming,4,4,3,1,0,0.0,3
+moderate_50,mdd,0.25,no_storage,10000,water_priority,Alabama,3,3,3,0,0,0.0,3
+moderate_50,mdd,0.25,no_storage,10000,water_priority,Arizona,14,14,6,8,0,0.0,6
+moderate_50,mdd,0.25,no_storage,10000,water_priority,California,21,21,21,0,0,0.0,21
+moderate_50,mdd,0.25,no_storage,10000,water_priority,Colorado,3,3,3,0,0,0.0,3
+moderate_50,mdd,0.25,no_storage,10000,water_priority,Florida,3,3,3,0,0,0.0,3
+moderate_50,mdd,0.25,no_storage,10000,water_priority,Georgia,14,14,13,1,0,0.0,13
+moderate_50,mdd,0.25,no_storage,10000,water_priority,Illinois,16,16,12,4,0,0.0,16
+moderate_50,mdd,0.25,no_storage,10000,water_priority,Iowa,14,14,14,0,0,0.0,14
+moderate_50,mdd,0.25,no_storage,10000,water_priority,Kentucky,3,3,0,3,0,0.0,0
+moderate_50,mdd,0.25,no_storage,10000,water_priority,Massachusetts,2,2,2,0,0,0.0,2
+moderate_50,mdd,0.25,no_storage,10000,water_priority,Michigan,1,1,1,0,0,0.0,1
+moderate_50,mdd,0.25,no_storage,10000,water_priority,Minnesota,1,1,1,0,0,0.0,1
+moderate_50,mdd,0.25,no_storage,10000,water_priority,Missouri,2,2,2,0,0,0.0,2
+moderate_50,mdd,0.25,no_storage,10000,water_priority,Montana,1,1,1,0,0,0.0,1
+moderate_50,mdd,0.25,no_storage,10000,water_priority,Nebraska,8,8,7,1,0,0.0,7
+moderate_50,mdd,0.25,no_storage,10000,water_priority,Nevada,7,7,7,0,0,0.0,7
+moderate_50,mdd,0.25,no_storage,10000,water_priority,New Jersey,9,9,9,0,0,0.0,9
+moderate_50,mdd,0.25,no_storage,10000,water_priority,New York,9,9,7,2,0,0.0,7
+moderate_50,mdd,0.25,no_storage,10000,water_priority,North Carolina,6,6,4,2,0,0.0,6
+moderate_50,mdd,0.25,no_storage,10000,water_priority,North Dakota,8,8,4,4,0,0.0,4
+moderate_50,mdd,0.25,no_storage,10000,water_priority,Ohio,5,5,5,0,0,0.0,5
+moderate_50,mdd,0.25,no_storage,10000,water_priority,Oklahoma,2,2,2,0,0,0.0,2
+moderate_50,mdd,0.25,no_storage,10000,water_priority,Oregon,14,14,11,3,0,0.0,12
+moderate_50,mdd,0.25,no_storage,10000,water_priority,Pennsylvania,10,10,7,3,0,0.0,9
+moderate_50,mdd,0.25,no_storage,10000,water_priority,South Carolina,4,4,2,2,0,0.0,4
+moderate_50,mdd,0.25,no_storage,10000,water_priority,Tennessee,3,3,3,0,0,0.0,3
+moderate_50,mdd,0.25,no_storage,10000,water_priority,Texas,49,49,44,5,0,0.0,49
+moderate_50,mdd,0.25,no_storage,10000,water_priority,Utah,5,5,5,0,0,0.0,5
+moderate_50,mdd,0.25,no_storage,10000,water_priority,Virginia,76,76,42,34,0,0.0,53
+moderate_50,mdd,0.25,no_storage,10000,water_priority,Washington,11,11,0,11,0,0.0,0
+moderate_50,mdd,0.25,no_storage,10000,water_priority,Wyoming,4,4,3,1,0,0.0,3
+moderate_50,mdd,0.25,storage,10000,water_priority,Alabama,3,3,3,0,0,0.0,3
+moderate_50,mdd,0.25,storage,10000,water_priority,Arizona,14,14,6,8,0,0.0,6
+moderate_50,mdd,0.25,storage,10000,water_priority,California,21,21,21,0,0,0.0,21
+moderate_50,mdd,0.25,storage,10000,water_priority,Colorado,3,3,3,0,0,0.0,3
+moderate_50,mdd,0.25,storage,10000,water_priority,Florida,3,3,3,0,0,0.0,3
+moderate_50,mdd,0.25,storage,10000,water_priority,Georgia,14,14,13,1,0,0.0,13
+moderate_50,mdd,0.25,storage,10000,water_priority,Illinois,16,16,15,1,0,0.0,16
+moderate_50,mdd,0.25,storage,10000,water_priority,Iowa,14,14,14,0,0,0.0,14
+moderate_50,mdd,0.25,storage,10000,water_priority,Kentucky,3,3,0,3,0,0.0,0
+moderate_50,mdd,0.25,storage,10000,water_priority,Massachusetts,2,2,2,0,0,0.0,2
+moderate_50,mdd,0.25,storage,10000,water_priority,Michigan,1,1,1,0,0,0.0,1
+moderate_50,mdd,0.25,storage,10000,water_priority,Minnesota,1,1,1,0,0,0.0,1
+moderate_50,mdd,0.25,storage,10000,water_priority,Missouri,2,2,2,0,0,0.0,2
+moderate_50,mdd,0.25,storage,10000,water_priority,Montana,1,1,1,0,0,0.0,1
+moderate_50,mdd,0.25,storage,10000,water_priority,Nebraska,8,8,7,1,0,0.0,7
+moderate_50,mdd,0.25,storage,10000,water_priority,Nevada,7,7,7,0,0,0.0,7
+moderate_50,mdd,0.25,storage,10000,water_priority,New Jersey,9,9,9,0,0,0.0,9
+moderate_50,mdd,0.25,storage,10000,water_priority,New York,9,9,7,2,0,0.0,7
+moderate_50,mdd,0.25,storage,10000,water_priority,North Carolina,6,6,6,0,0,0.0,6
+moderate_50,mdd,0.25,storage,10000,water_priority,North Dakota,8,8,4,4,0,0.0,4
+moderate_50,mdd,0.25,storage,10000,water_priority,Ohio,5,5,5,0,0,0.0,5
+moderate_50,mdd,0.25,storage,10000,water_priority,Oklahoma,2,2,2,0,0,0.0,2
+moderate_50,mdd,0.25,storage,10000,water_priority,Oregon,14,14,12,2,0,0.0,12
+moderate_50,mdd,0.25,storage,10000,water_priority,Pennsylvania,10,10,9,1,0,0.0,9
+moderate_50,mdd,0.25,storage,10000,water_priority,South Carolina,4,4,2,2,0,0.0,4
+moderate_50,mdd,0.25,storage,10000,water_priority,Tennessee,3,3,3,0,0,0.0,3
+moderate_50,mdd,0.25,storage,10000,water_priority,Texas,49,49,49,0,0,0.0,49
+moderate_50,mdd,0.25,storage,10000,water_priority,Utah,5,5,5,0,0,0.0,5
+moderate_50,mdd,0.25,storage,10000,water_priority,Virginia,76,76,44,32,0,0.0,53
+moderate_50,mdd,0.25,storage,10000,water_priority,Washington,11,11,0,11,0,0.0,0
+moderate_50,mdd,0.25,storage,10000,water_priority,Wyoming,4,4,3,1,0,0.0,3
+moderate_50,mdd,0.5,no_storage,10000,water_priority,Alabama,3,3,3,0,0,0.0,3
+moderate_50,mdd,0.5,no_storage,10000,water_priority,Arizona,14,14,6,8,0,0.0,6
+moderate_50,mdd,0.5,no_storage,10000,water_priority,California,21,21,21,0,0,0.0,21
+moderate_50,mdd,0.5,no_storage,10000,water_priority,Colorado,3,3,3,0,0,0.0,3
+moderate_50,mdd,0.5,no_storage,10000,water_priority,Florida,3,3,3,0,0,0.0,3
+moderate_50,mdd,0.5,no_storage,10000,water_priority,Georgia,14,14,13,1,0,0.0,13
+moderate_50,mdd,0.5,no_storage,10000,water_priority,Illinois,16,16,14,2,0,0.0,16
+moderate_50,mdd,0.5,no_storage,10000,water_priority,Iowa,14,14,14,0,0,0.0,14
+moderate_50,mdd,0.5,no_storage,10000,water_priority,Kentucky,3,3,0,3,0,0.0,0
+moderate_50,mdd,0.5,no_storage,10000,water_priority,Massachusetts,2,2,2,0,0,0.0,2
+moderate_50,mdd,0.5,no_storage,10000,water_priority,Michigan,1,1,1,0,0,0.0,1
+moderate_50,mdd,0.5,no_storage,10000,water_priority,Minnesota,1,1,1,0,0,0.0,1
+moderate_50,mdd,0.5,no_storage,10000,water_priority,Missouri,2,2,2,0,0,0.0,2
+moderate_50,mdd,0.5,no_storage,10000,water_priority,Montana,1,1,1,0,0,0.0,1
+moderate_50,mdd,0.5,no_storage,10000,water_priority,Nebraska,8,8,7,1,0,0.0,7
+moderate_50,mdd,0.5,no_storage,10000,water_priority,Nevada,7,7,7,0,0,0.0,7
+moderate_50,mdd,0.5,no_storage,10000,water_priority,New Jersey,9,9,9,0,0,0.0,9
+moderate_50,mdd,0.5,no_storage,10000,water_priority,New York,9,9,7,2,0,0.0,7
+moderate_50,mdd,0.5,no_storage,10000,water_priority,North Carolina,6,6,6,0,0,0.0,6
+moderate_50,mdd,0.5,no_storage,10000,water_priority,North Dakota,8,8,4,4,0,0.0,4
+moderate_50,mdd,0.5,no_storage,10000,water_priority,Ohio,5,5,5,0,0,0.0,5
+moderate_50,mdd,0.5,no_storage,10000,water_priority,Oklahoma,2,2,2,0,0,0.0,2
+moderate_50,mdd,0.5,no_storage,10000,water_priority,Oregon,14,14,12,2,0,0.0,12
+moderate_50,mdd,0.5,no_storage,10000,water_priority,Pennsylvania,10,10,9,1,0,0.0,9
+moderate_50,mdd,0.5,no_storage,10000,water_priority,South Carolina,4,4,3,1,0,0.0,4
+moderate_50,mdd,0.5,no_storage,10000,water_priority,Tennessee,3,3,3,0,0,0.0,3
+moderate_50,mdd,0.5,no_storage,10000,water_priority,Texas,49,49,49,0,0,0.0,49
+moderate_50,mdd,0.5,no_storage,10000,water_priority,Utah,5,5,5,0,0,0.0,5
+moderate_50,mdd,0.5,no_storage,10000,water_priority,Virginia,76,76,44,32,0,0.0,53
+moderate_50,mdd,0.5,no_storage,10000,water_priority,Washington,11,11,0,11,0,0.0,0
+moderate_50,mdd,0.5,no_storage,10000,water_priority,Wyoming,4,4,3,1,0,0.0,3
+moderate_50,mdd,0.5,storage,10000,water_priority,Alabama,3,3,3,0,0,0.0,3
+moderate_50,mdd,0.5,storage,10000,water_priority,Arizona,14,14,6,8,0,0.0,6
+moderate_50,mdd,0.5,storage,10000,water_priority,California,21,21,21,0,0,0.0,21
+moderate_50,mdd,0.5,storage,10000,water_priority,Colorado,3,3,3,0,0,0.0,3
+moderate_50,mdd,0.5,storage,10000,water_priority,Florida,3,3,3,0,0,0.0,3
+moderate_50,mdd,0.5,storage,10000,water_priority,Georgia,14,14,13,1,0,0.0,13
+moderate_50,mdd,0.5,storage,10000,water_priority,Illinois,16,16,16,0,0,0.0,16
+moderate_50,mdd,0.5,storage,10000,water_priority,Iowa,14,14,14,0,0,0.0,14
+moderate_50,mdd,0.5,storage,10000,water_priority,Kentucky,3,3,0,3,0,0.0,0
+moderate_50,mdd,0.5,storage,10000,water_priority,Massachusetts,2,2,2,0,0,0.0,2
+moderate_50,mdd,0.5,storage,10000,water_priority,Michigan,1,1,1,0,0,0.0,1
+moderate_50,mdd,0.5,storage,10000,water_priority,Minnesota,1,1,1,0,0,0.0,1
+moderate_50,mdd,0.5,storage,10000,water_priority,Missouri,2,2,2,0,0,0.0,2
+moderate_50,mdd,0.5,storage,10000,water_priority,Montana,1,1,1,0,0,0.0,1
+moderate_50,mdd,0.5,storage,10000,water_priority,Nebraska,8,8,7,1,0,0.0,7
+moderate_50,mdd,0.5,storage,10000,water_priority,Nevada,7,7,7,0,0,0.0,7
+moderate_50,mdd,0.5,storage,10000,water_priority,New Jersey,9,9,9,0,0,0.0,9
+moderate_50,mdd,0.5,storage,10000,water_priority,New York,9,9,7,2,0,0.0,7
+moderate_50,mdd,0.5,storage,10000,water_priority,North Carolina,6,6,6,0,0,0.0,6
+moderate_50,mdd,0.5,storage,10000,water_priority,North Dakota,8,8,4,4,0,0.0,4
+moderate_50,mdd,0.5,storage,10000,water_priority,Ohio,5,5,5,0,0,0.0,5
+moderate_50,mdd,0.5,storage,10000,water_priority,Oklahoma,2,2,2,0,0,0.0,2
+moderate_50,mdd,0.5,storage,10000,water_priority,Oregon,14,14,12,2,0,0.0,12
+moderate_50,mdd,0.5,storage,10000,water_priority,Pennsylvania,10,10,9,1,0,0.0,9
+moderate_50,mdd,0.5,storage,10000,water_priority,South Carolina,4,4,4,0,0,0.0,4
+moderate_50,mdd,0.5,storage,10000,water_priority,Tennessee,3,3,3,0,0,0.0,3
+moderate_50,mdd,0.5,storage,10000,water_priority,Texas,49,49,49,0,0,0.0,49
+moderate_50,mdd,0.5,storage,10000,water_priority,Utah,5,5,5,0,0,0.0,5
+moderate_50,mdd,0.5,storage,10000,water_priority,Virginia,76,76,48,28,0,0.0,53
+moderate_50,mdd,0.5,storage,10000,water_priority,Washington,11,11,0,11,0,0.0,0
+moderate_50,mdd,0.5,storage,10000,water_priority,Wyoming,4,4,3,1,0,0.0,3
+moderate_50,avg,0.25,no_storage,10000,water_priority,Alabama,3,3,3,0,0,0.0,3
+moderate_50,avg,0.25,no_storage,10000,water_priority,Arizona,14,14,6,8,0,0.0,6
+moderate_50,avg,0.25,no_storage,10000,water_priority,California,21,21,21,0,0,0.0,21
+moderate_50,avg,0.25,no_storage,10000,water_priority,Colorado,3,3,3,0,0,0.0,3
+moderate_50,avg,0.25,no_storage,10000,water_priority,Florida,3,3,3,0,0,0.0,3
+moderate_50,avg,0.25,no_storage,10000,water_priority,Georgia,14,14,13,1,0,0.0,13
+moderate_50,avg,0.25,no_storage,10000,water_priority,Illinois,16,16,8,8,0,0.0,16
+moderate_50,avg,0.25,no_storage,10000,water_priority,Iowa,14,14,13,1,0,0.0,14
+moderate_50,avg,0.25,no_storage,10000,water_priority,Kentucky,3,3,0,3,0,0.0,0
+moderate_50,avg,0.25,no_storage,10000,water_priority,Massachusetts,2,2,2,0,0,0.0,2
+moderate_50,avg,0.25,no_storage,10000,water_priority,Michigan,1,1,1,0,0,0.0,1
+moderate_50,avg,0.25,no_storage,10000,water_priority,Minnesota,1,1,1,0,0,0.0,1
+moderate_50,avg,0.25,no_storage,10000,water_priority,Missouri,2,2,2,0,0,0.0,2
+moderate_50,avg,0.25,no_storage,10000,water_priority,Montana,1,1,1,0,0,0.0,1
+moderate_50,avg,0.25,no_storage,10000,water_priority,Nebraska,8,8,6,2,0,0.0,7
+moderate_50,avg,0.25,no_storage,10000,water_priority,Nevada,7,7,7,0,0,0.0,7
+moderate_50,avg,0.25,no_storage,10000,water_priority,New Jersey,9,9,8,1,0,0.0,9
+moderate_50,avg,0.25,no_storage,10000,water_priority,New York,9,9,7,2,0,0.0,7
+moderate_50,avg,0.25,no_storage,10000,water_priority,North Carolina,6,6,1,5,0,0.0,6
+moderate_50,avg,0.25,no_storage,10000,water_priority,North Dakota,8,8,4,4,0,0.0,4
+moderate_50,avg,0.25,no_storage,10000,water_priority,Ohio,5,5,3,2,0,0.0,5
+moderate_50,avg,0.25,no_storage,10000,water_priority,Oklahoma,2,2,2,0,0,0.0,2
+moderate_50,avg,0.25,no_storage,10000,water_priority,Oregon,14,14,8,6,0,0.0,12
+moderate_50,avg,0.25,no_storage,10000,water_priority,Pennsylvania,10,10,3,7,0,0.0,9
+moderate_50,avg,0.25,no_storage,10000,water_priority,South Carolina,4,4,1,3,0,0.0,4
+moderate_50,avg,0.25,no_storage,10000,water_priority,Tennessee,3,3,3,0,0,0.0,3
+moderate_50,avg,0.25,no_storage,10000,water_priority,Texas,49,49,32,17,0,0.0,49
+moderate_50,avg,0.25,no_storage,10000,water_priority,Utah,5,5,5,0,0,0.0,5
+moderate_50,avg,0.25,no_storage,10000,water_priority,Virginia,76,76,41,35,0,0.0,53
+moderate_50,avg,0.25,no_storage,10000,water_priority,Washington,11,6,0,6,5,180.0,0
+moderate_50,avg,0.25,no_storage,10000,water_priority,Wyoming,4,4,3,1,0,0.0,3
+moderate_50,avg,0.25,storage,10000,water_priority,Alabama,3,3,3,0,0,0.0,3
+moderate_50,avg,0.25,storage,10000,water_priority,Arizona,14,14,6,8,0,0.0,6
+moderate_50,avg,0.25,storage,10000,water_priority,California,21,21,21,0,0,0.0,21
+moderate_50,avg,0.25,storage,10000,water_priority,Colorado,3,3,3,0,0,0.0,3
+moderate_50,avg,0.25,storage,10000,water_priority,Florida,3,3,3,0,0,0.0,3
+moderate_50,avg,0.25,storage,10000,water_priority,Georgia,14,14,13,1,0,0.0,13
+moderate_50,avg,0.25,storage,10000,water_priority,Illinois,16,16,13,3,0,0.0,16
+moderate_50,avg,0.25,storage,10000,water_priority,Iowa,14,14,14,0,0,0.0,14
+moderate_50,avg,0.25,storage,10000,water_priority,Kentucky,3,3,0,3,0,0.0,0
+moderate_50,avg,0.25,storage,10000,water_priority,Massachusetts,2,2,2,0,0,0.0,2
+moderate_50,avg,0.25,storage,10000,water_priority,Michigan,1,1,1,0,0,0.0,1
+moderate_50,avg,0.25,storage,10000,water_priority,Minnesota,1,1,1,0,0,0.0,1
+moderate_50,avg,0.25,storage,10000,water_priority,Missouri,2,2,2,0,0,0.0,2
+moderate_50,avg,0.25,storage,10000,water_priority,Montana,1,1,1,0,0,0.0,1
+moderate_50,avg,0.25,storage,10000,water_priority,Nebraska,8,8,7,1,0,0.0,7
+moderate_50,avg,0.25,storage,10000,water_priority,Nevada,7,7,7,0,0,0.0,7
+moderate_50,avg,0.25,storage,10000,water_priority,New Jersey,9,9,9,0,0,0.0,9
+moderate_50,avg,0.25,storage,10000,water_priority,New York,9,9,7,2,0,0.0,7
+moderate_50,avg,0.25,storage,10000,water_priority,North Carolina,6,6,3,3,0,0.0,6
+moderate_50,avg,0.25,storage,10000,water_priority,North Dakota,8,8,4,4,0,0.0,4
+moderate_50,avg,0.25,storage,10000,water_priority,Ohio,5,5,5,0,0,0.0,5
+moderate_50,avg,0.25,storage,10000,water_priority,Oklahoma,2,2,2,0,0,0.0,2
+moderate_50,avg,0.25,storage,10000,water_priority,Oregon,14,14,12,2,0,0.0,12
+moderate_50,avg,0.25,storage,10000,water_priority,Pennsylvania,10,10,7,3,0,0.0,9
+moderate_50,avg,0.25,storage,10000,water_priority,South Carolina,4,4,2,2,0,0.0,4
+moderate_50,avg,0.25,storage,10000,water_priority,Tennessee,3,3,3,0,0,0.0,3
+moderate_50,avg,0.25,storage,10000,water_priority,Texas,49,49,39,10,0,0.0,49
+moderate_50,avg,0.25,storage,10000,water_priority,Utah,5,5,5,0,0,0.0,5
+moderate_50,avg,0.25,storage,10000,water_priority,Virginia,76,76,42,34,0,0.0,53
+moderate_50,avg,0.25,storage,10000,water_priority,Washington,11,11,0,11,0,0.0,0
+moderate_50,avg,0.25,storage,10000,water_priority,Wyoming,4,4,3,1,0,0.0,3
+high_50,mdd,0.1,no_storage,10000,water_priority,Alabama,9,9,8,1,0,0.0,8
+high_50,mdd,0.1,no_storage,10000,water_priority,Arizona,38,38,17,21,0,0.0,17
+high_50,mdd,0.1,no_storage,10000,water_priority,California,56,56,52,4,0,0.0,56
+high_50,mdd,0.1,no_storage,10000,water_priority,Colorado,9,9,9,0,0,0.0,9
+high_50,mdd,0.1,no_storage,10000,water_priority,Connecticut,1,1,0,1,0,0.0,1
+high_50,mdd,0.1,no_storage,10000,water_priority,Florida,8,8,8,0,0,0.0,8
+high_50,mdd,0.1,no_storage,10000,water_priority,Georgia,37,37,34,3,0,0.0,34
+high_50,mdd,0.1,no_storage,10000,water_priority,Illinois,45,45,22,23,0,0.0,44
+high_50,mdd,0.1,no_storage,10000,water_priority,Indiana,1,1,1,0,0,0.0,1
+high_50,mdd,0.1,no_storage,10000,water_priority,Iowa,37,37,30,7,0,0.0,34
+high_50,mdd,0.1,no_storage,10000,water_priority,Kentucky,9,9,1,8,0,0.0,2
+high_50,mdd,0.1,no_storage,10000,water_priority,Massachusetts,6,6,3,3,0,0.0,6
+high_50,mdd,0.1,no_storage,10000,water_priority,Michigan,3,3,3,0,0,0.0,3
+high_50,mdd,0.1,no_storage,10000,water_priority,Minnesota,5,5,2,3,0,0.0,5
+high_50,mdd,0.1,no_storage,10000,water_priority,Missouri,5,5,5,0,0,0.0,5
+high_50,mdd,0.1,no_storage,10000,water_priority,Montana,3,3,3,0,0,0.0,3
+high_50,mdd,0.1,no_storage,10000,water_priority,Nebraska,24,24,16,8,0,0.0,22
+high_50,mdd,0.1,no_storage,10000,water_priority,Nevada,20,20,20,0,0,0.0,20
+high_50,mdd,0.1,no_storage,10000,water_priority,New Jersey,24,24,13,11,0,0.0,19
+high_50,mdd,0.1,no_storage,10000,water_priority,New Mexico,2,2,1,1,0,0.0,1
+high_50,mdd,0.1,no_storage,10000,water_priority,New York,24,24,14,10,0,0.0,15
+high_50,mdd,0.1,no_storage,10000,water_priority,North Carolina,16,10,1,9,6,216.0,16
+high_50,mdd,0.1,no_storage,10000,water_priority,North Dakota,23,9,6,3,14,504.0,8
+high_50,mdd,0.1,no_storage,10000,water_priority,Ohio,14,14,7,7,0,0.0,13
+high_50,mdd,0.1,no_storage,10000,water_priority,Oklahoma,7,4,3,1,3,108.0,3
+high_50,mdd,0.1,no_storage,10000,water_priority,Oregon,39,39,18,21,0,0.0,34
+high_50,mdd,0.1,no_storage,10000,water_priority,Pennsylvania,28,26,5,21,2,72.0,25
+high_50,mdd,0.1,no_storage,10000,water_priority,South Carolina,12,12,4,8,0,0.0,12
+high_50,mdd,0.1,no_storage,10000,water_priority,Tennessee,8,8,6,2,0,0.0,8
+high_50,mdd,0.1,no_storage,10000,water_priority,Texas,133,133,74,59,0,0.0,133
+high_50,mdd,0.1,no_storage,10000,water_priority,Utah,15,15,15,0,0,0.0,15
+high_50,mdd,0.1,no_storage,10000,water_priority,Virginia,206,150,65,85,56,2016.0,153
+high_50,mdd,0.1,no_storage,10000,water_priority,Washington,31,6,1,5,25,900.0,2
+high_50,mdd,0.1,no_storage,10000,water_priority,Wyoming,11,11,4,7,0,0.0,6
+high_50,mdd,0.1,storage,10000,water_priority,Alabama,9,9,8,1,0,0.0,8
+high_50,mdd,0.1,storage,10000,water_priority,Arizona,38,38,17,21,0,0.0,17
+high_50,mdd,0.1,storage,10000,water_priority,California,56,56,54,2,0,0.0,56
+high_50,mdd,0.1,storage,10000,water_priority,Colorado,9,9,9,0,0,0.0,9
+high_50,mdd,0.1,storage,10000,water_priority,Connecticut,1,1,1,0,0,0.0,1
+high_50,mdd,0.1,storage,10000,water_priority,Florida,8,8,8,0,0,0.0,8
+high_50,mdd,0.1,storage,10000,water_priority,Georgia,37,37,34,3,0,0.0,34
+high_50,mdd,0.1,storage,10000,water_priority,Illinois,45,45,36,9,0,0.0,44
+high_50,mdd,0.1,storage,10000,water_priority,Indiana,1,1,1,0,0,0.0,1
+high_50,mdd,0.1,storage,10000,water_priority,Iowa,37,37,34,3,0,0.0,34
+high_50,mdd,0.1,storage,10000,water_priority,Kentucky,9,9,2,7,0,0.0,2
+high_50,mdd,0.1,storage,10000,water_priority,Massachusetts,6,6,6,0,0,0.0,6
+high_50,mdd,0.1,storage,10000,water_priority,Michigan,3,3,3,0,0,0.0,3
+high_50,mdd,0.1,storage,10000,water_priority,Minnesota,5,5,5,0,0,0.0,5
+high_50,mdd,0.1,storage,10000,water_priority,Missouri,5,5,5,0,0,0.0,5
+high_50,mdd,0.1,storage,10000,water_priority,Montana,3,3,3,0,0,0.0,3
+high_50,mdd,0.1,storage,10000,water_priority,Nebraska,24,24,19,5,0,0.0,22
+high_50,mdd,0.1,storage,10000,water_priority,Nevada,20,20,20,0,0,0.0,20
+high_50,mdd,0.1,storage,10000,water_priority,New Jersey,24,24,17,7,0,0.0,19
+high_50,mdd,0.1,storage,10000,water_priority,New Mexico,2,2,1,1,0,0.0,1
+high_50,mdd,0.1,storage,10000,water_priority,New York,24,24,15,9,0,0.0,15
+high_50,mdd,0.1,storage,10000,water_priority,North Carolina,16,16,3,13,0,0.0,16
+high_50,mdd,0.1,storage,10000,water_priority,North Dakota,23,23,8,15,0,0.0,8
+high_50,mdd,0.1,storage,10000,water_priority,Ohio,14,14,11,3,0,0.0,13
+high_50,mdd,0.1,storage,10000,water_priority,Oklahoma,7,7,3,4,0,0.0,3
+high_50,mdd,0.1,storage,10000,water_priority,Oregon,39,39,30,9,0,0.0,34
+high_50,mdd,0.1,storage,10000,water_priority,Pennsylvania,28,28,9,19,0,0.0,25
+high_50,mdd,0.1,storage,10000,water_priority,South Carolina,12,12,7,5,0,0.0,12
+high_50,mdd,0.1,storage,10000,water_priority,Tennessee,8,8,8,0,0,0.0,8
+high_50,mdd,0.1,storage,10000,water_priority,Texas,133,133,86,47,0,0.0,133
+high_50,mdd,0.1,storage,10000,water_priority,Utah,15,15,15,0,0,0.0,15
+high_50,mdd,0.1,storage,10000,water_priority,Virginia,206,206,102,104,0,0.0,153
+high_50,mdd,0.1,storage,10000,water_priority,Washington,31,18,2,16,13,468.0,2
+high_50,mdd,0.1,storage,10000,water_priority,Wyoming,11,11,6,5,0,0.0,6
+high_50,mdd,0.25,no_storage,10000,water_priority,Alabama,9,9,8,1,0,0.0,8
+high_50,mdd,0.25,no_storage,10000,water_priority,Arizona,38,38,17,21,0,0.0,17
+high_50,mdd,0.25,no_storage,10000,water_priority,California,56,56,54,2,0,0.0,56
+high_50,mdd,0.25,no_storage,10000,water_priority,Colorado,9,9,9,0,0,0.0,9
+high_50,mdd,0.25,no_storage,10000,water_priority,Connecticut,1,1,1,0,0,0.0,1
+high_50,mdd,0.25,no_storage,10000,water_priority,Florida,8,8,8,0,0,0.0,8
+high_50,mdd,0.25,no_storage,10000,water_priority,Georgia,37,37,34,3,0,0.0,34
+high_50,mdd,0.25,no_storage,10000,water_priority,Illinois,45,45,36,9,0,0.0,44
+high_50,mdd,0.25,no_storage,10000,water_priority,Indiana,1,1,1,0,0,0.0,1
+high_50,mdd,0.25,no_storage,10000,water_priority,Iowa,37,37,34,3,0,0.0,34
+high_50,mdd,0.25,no_storage,10000,water_priority,Kentucky,9,9,2,7,0,0.0,2
+high_50,mdd,0.25,no_storage,10000,water_priority,Massachusetts,6,6,6,0,0,0.0,6
+high_50,mdd,0.25,no_storage,10000,water_priority,Michigan,3,3,3,0,0,0.0,3
+high_50,mdd,0.25,no_storage,10000,water_priority,Minnesota,5,5,5,0,0,0.0,5
+high_50,mdd,0.25,no_storage,10000,water_priority,Missouri,5,5,5,0,0,0.0,5
+high_50,mdd,0.25,no_storage,10000,water_priority,Montana,3,3,3,0,0,0.0,3
+high_50,mdd,0.25,no_storage,10000,water_priority,Nebraska,24,24,19,5,0,0.0,22
+high_50,mdd,0.25,no_storage,10000,water_priority,Nevada,20,20,20,0,0,0.0,20
+high_50,mdd,0.25,no_storage,10000,water_priority,New Jersey,24,24,17,7,0,0.0,19
+high_50,mdd,0.25,no_storage,10000,water_priority,New Mexico,2,2,1,1,0,0.0,1
+high_50,mdd,0.25,no_storage,10000,water_priority,New York,24,24,15,9,0,0.0,15
+high_50,mdd,0.25,no_storage,10000,water_priority,North Carolina,16,16,4,12,0,0.0,16
+high_50,mdd,0.25,no_storage,10000,water_priority,North Dakota,23,23,8,15,0,0.0,8
+high_50,mdd,0.25,no_storage,10000,water_priority,Ohio,14,14,13,1,0,0.0,13
+high_50,mdd,0.25,no_storage,10000,water_priority,Oklahoma,7,7,3,4,0,0.0,3
+high_50,mdd,0.25,no_storage,10000,water_priority,Oregon,39,39,27,12,0,0.0,34
+high_50,mdd,0.25,no_storage,10000,water_priority,Pennsylvania,28,28,10,18,0,0.0,25
+high_50,mdd,0.25,no_storage,10000,water_priority,South Carolina,12,12,10,2,0,0.0,12
+high_50,mdd,0.25,no_storage,10000,water_priority,Tennessee,8,8,8,0,0,0.0,8
+high_50,mdd,0.25,no_storage,10000,water_priority,Texas,133,133,101,32,0,0.0,133
+high_50,mdd,0.25,no_storage,10000,water_priority,Utah,15,15,15,0,0,0.0,15
+high_50,mdd,0.25,no_storage,10000,water_priority,Virginia,206,206,108,98,0,0.0,153
+high_50,mdd,0.25,no_storage,10000,water_priority,Washington,31,17,2,15,14,504.0,2
+high_50,mdd,0.25,no_storage,10000,water_priority,Wyoming,11,11,6,5,0,0.0,6
+high_50,mdd,0.25,storage,10000,water_priority,Alabama,9,9,8,1,0,0.0,8
+high_50,mdd,0.25,storage,10000,water_priority,Arizona,38,38,17,21,0,0.0,17
+high_50,mdd,0.25,storage,10000,water_priority,California,56,56,56,0,0,0.0,56
+high_50,mdd,0.25,storage,10000,water_priority,Colorado,9,9,9,0,0,0.0,9
+high_50,mdd,0.25,storage,10000,water_priority,Connecticut,1,1,1,0,0,0.0,1
+high_50,mdd,0.25,storage,10000,water_priority,Florida,8,8,8,0,0,0.0,8
+high_50,mdd,0.25,storage,10000,water_priority,Georgia,37,37,34,3,0,0.0,34
+high_50,mdd,0.25,storage,10000,water_priority,Illinois,45,45,42,3,0,0.0,44
+high_50,mdd,0.25,storage,10000,water_priority,Indiana,1,1,1,0,0,0.0,1
+high_50,mdd,0.25,storage,10000,water_priority,Iowa,37,37,34,3,0,0.0,34
+high_50,mdd,0.25,storage,10000,water_priority,Kentucky,9,9,2,7,0,0.0,2
+high_50,mdd,0.25,storage,10000,water_priority,Massachusetts,6,6,6,0,0,0.0,6
+high_50,mdd,0.25,storage,10000,water_priority,Michigan,3,3,3,0,0,0.0,3
+high_50,mdd,0.25,storage,10000,water_priority,Minnesota,5,5,5,0,0,0.0,5
+high_50,mdd,0.25,storage,10000,water_priority,Missouri,5,5,5,0,0,0.0,5
+high_50,mdd,0.25,storage,10000,water_priority,Montana,3,3,3,0,0,0.0,3
+high_50,mdd,0.25,storage,10000,water_priority,Nebraska,24,24,22,2,0,0.0,22
+high_50,mdd,0.25,storage,10000,water_priority,Nevada,20,20,20,0,0,0.0,20
+high_50,mdd,0.25,storage,10000,water_priority,New Jersey,24,24,19,5,0,0.0,19
+high_50,mdd,0.25,storage,10000,water_priority,New Mexico,2,2,1,1,0,0.0,1
+high_50,mdd,0.25,storage,10000,water_priority,New York,24,24,15,9,0,0.0,15
+high_50,mdd,0.25,storage,10000,water_priority,North Carolina,16,16,7,9,0,0.0,16
+high_50,mdd,0.25,storage,10000,water_priority,North Dakota,23,23,8,15,0,0.0,8
+high_50,mdd,0.25,storage,10000,water_priority,Ohio,14,14,13,1,0,0.0,13
+high_50,mdd,0.25,storage,10000,water_priority,Oklahoma,7,7,3,4,0,0.0,3
+high_50,mdd,0.25,storage,10000,water_priority,Oregon,39,39,34,5,0,0.0,34
+high_50,mdd,0.25,storage,10000,water_priority,Pennsylvania,28,28,18,10,0,0.0,25
+high_50,mdd,0.25,storage,10000,water_priority,South Carolina,12,12,10,2,0,0.0,12
+high_50,mdd,0.25,storage,10000,water_priority,Tennessee,8,8,8,0,0,0.0,8
+high_50,mdd,0.25,storage,10000,water_priority,Texas,133,133,120,13,0,0.0,133
+high_50,mdd,0.25,storage,10000,water_priority,Utah,15,15,15,0,0,0.0,15
+high_50,mdd,0.25,storage,10000,water_priority,Virginia,206,206,130,76,0,0.0,153
+high_50,mdd,0.25,storage,10000,water_priority,Washington,31,25,2,23,6,216.0,2
+high_50,mdd,0.25,storage,10000,water_priority,Wyoming,11,11,6,5,0,0.0,6
+high_50,mdd,0.5,no_storage,10000,water_priority,Alabama,9,9,8,1,0,0.0,8
+high_50,mdd,0.5,no_storage,10000,water_priority,Arizona,38,38,17,21,0,0.0,17
+high_50,mdd,0.5,no_storage,10000,water_priority,California,56,56,56,0,0,0.0,56
+high_50,mdd,0.5,no_storage,10000,water_priority,Colorado,9,9,9,0,0,0.0,9
+high_50,mdd,0.5,no_storage,10000,water_priority,Connecticut,1,1,1,0,0,0.0,1
+high_50,mdd,0.5,no_storage,10000,water_priority,Florida,8,8,8,0,0,0.0,8
+high_50,mdd,0.5,no_storage,10000,water_priority,Georgia,37,37,34,3,0,0.0,34
+high_50,mdd,0.5,no_storage,10000,water_priority,Illinois,45,45,41,4,0,0.0,44
+high_50,mdd,0.5,no_storage,10000,water_priority,Indiana,1,1,1,0,0,0.0,1
+high_50,mdd,0.5,no_storage,10000,water_priority,Iowa,37,37,34,3,0,0.0,34
+high_50,mdd,0.5,no_storage,10000,water_priority,Kentucky,9,9,2,7,0,0.0,2
+high_50,mdd,0.5,no_storage,10000,water_priority,Massachusetts,6,6,6,0,0,0.0,6
+high_50,mdd,0.5,no_storage,10000,water_priority,Michigan,3,3,3,0,0,0.0,3
+high_50,mdd,0.5,no_storage,10000,water_priority,Minnesota,5,5,5,0,0,0.0,5
+high_50,mdd,0.5,no_storage,10000,water_priority,Missouri,5,5,5,0,0,0.0,5
+high_50,mdd,0.5,no_storage,10000,water_priority,Montana,3,3,3,0,0,0.0,3
+high_50,mdd,0.5,no_storage,10000,water_priority,Nebraska,24,24,22,2,0,0.0,22
+high_50,mdd,0.5,no_storage,10000,water_priority,Nevada,20,20,20,0,0,0.0,20
+high_50,mdd,0.5,no_storage,10000,water_priority,New Jersey,24,24,19,5,0,0.0,19
+high_50,mdd,0.5,no_storage,10000,water_priority,New Mexico,2,2,1,1,0,0.0,1
+high_50,mdd,0.5,no_storage,10000,water_priority,New York,24,24,15,9,0,0.0,15
+high_50,mdd,0.5,no_storage,10000,water_priority,North Carolina,16,16,8,8,0,0.0,16
+high_50,mdd,0.5,no_storage,10000,water_priority,North Dakota,23,23,8,15,0,0.0,8
+high_50,mdd,0.5,no_storage,10000,water_priority,Ohio,14,14,13,1,0,0.0,13
+high_50,mdd,0.5,no_storage,10000,water_priority,Oklahoma,7,7,3,4,0,0.0,3
+high_50,mdd,0.5,no_storage,10000,water_priority,Oregon,39,39,33,6,0,0.0,34
+high_50,mdd,0.5,no_storage,10000,water_priority,Pennsylvania,28,28,16,12,0,0.0,25
+high_50,mdd,0.5,no_storage,10000,water_priority,South Carolina,12,12,11,1,0,0.0,12
+high_50,mdd,0.5,no_storage,10000,water_priority,Tennessee,8,8,8,0,0,0.0,8
+high_50,mdd,0.5,no_storage,10000,water_priority,Texas,133,133,127,6,0,0.0,133
+high_50,mdd,0.5,no_storage,10000,water_priority,Utah,15,15,15,0,0,0.0,15
+high_50,mdd,0.5,no_storage,10000,water_priority,Virginia,206,206,129,77,0,0.0,153
+high_50,mdd,0.5,no_storage,10000,water_priority,Washington,31,25,2,23,6,216.0,2
+high_50,mdd,0.5,no_storage,10000,water_priority,Wyoming,11,11,6,5,0,0.0,6
+high_50,mdd,0.5,storage,10000,water_priority,Alabama,9,9,8,1,0,0.0,8
+high_50,mdd,0.5,storage,10000,water_priority,Arizona,38,38,17,21,0,0.0,17
+high_50,mdd,0.5,storage,10000,water_priority,California,56,56,56,0,0,0.0,56
+high_50,mdd,0.5,storage,10000,water_priority,Colorado,9,9,9,0,0,0.0,9
+high_50,mdd,0.5,storage,10000,water_priority,Connecticut,1,1,1,0,0,0.0,1
+high_50,mdd,0.5,storage,10000,water_priority,Florida,8,8,8,0,0,0.0,8
+high_50,mdd,0.5,storage,10000,water_priority,Georgia,37,37,34,3,0,0.0,34
+high_50,mdd,0.5,storage,10000,water_priority,Illinois,45,45,44,1,0,0.0,44
+high_50,mdd,0.5,storage,10000,water_priority,Indiana,1,1,1,0,0,0.0,1
+high_50,mdd,0.5,storage,10000,water_priority,Iowa,37,37,34,3,0,0.0,34
+high_50,mdd,0.5,storage,10000,water_priority,Kentucky,9,9,2,7,0,0.0,2
+high_50,mdd,0.5,storage,10000,water_priority,Massachusetts,6,6,6,0,0,0.0,6
+high_50,mdd,0.5,storage,10000,water_priority,Michigan,3,3,3,0,0,0.0,3
+high_50,mdd,0.5,storage,10000,water_priority,Minnesota,5,5,5,0,0,0.0,5
+high_50,mdd,0.5,storage,10000,water_priority,Missouri,5,5,5,0,0,0.0,5
+high_50,mdd,0.5,storage,10000,water_priority,Montana,3,3,3,0,0,0.0,3
+high_50,mdd,0.5,storage,10000,water_priority,Nebraska,24,24,22,2,0,0.0,22
+high_50,mdd,0.5,storage,10000,water_priority,Nevada,20,20,20,0,0,0.0,20
+high_50,mdd,0.5,storage,10000,water_priority,New Jersey,24,24,19,5,0,0.0,19
+high_50,mdd,0.5,storage,10000,water_priority,New Mexico,2,2,1,1,0,0.0,1
+high_50,mdd,0.5,storage,10000,water_priority,New York,24,24,15,9,0,0.0,15
+high_50,mdd,0.5,storage,10000,water_priority,North Carolina,16,16,15,1,0,0.0,16
+high_50,mdd,0.5,storage,10000,water_priority,North Dakota,23,23,8,15,0,0.0,8
+high_50,mdd,0.5,storage,10000,water_priority,Ohio,14,14,13,1,0,0.0,13
+high_50,mdd,0.5,storage,10000,water_priority,Oklahoma,7,7,3,4,0,0.0,3
+high_50,mdd,0.5,storage,10000,water_priority,Oregon,39,39,34,5,0,0.0,34
+high_50,mdd,0.5,storage,10000,water_priority,Pennsylvania,28,28,25,3,0,0.0,25
+high_50,mdd,0.5,storage,10000,water_priority,South Carolina,12,12,12,0,0,0.0,12
+high_50,mdd,0.5,storage,10000,water_priority,Tennessee,8,8,8,0,0,0.0,8
+high_50,mdd,0.5,storage,10000,water_priority,Texas,133,133,133,0,0,0.0,133
+high_50,mdd,0.5,storage,10000,water_priority,Utah,15,15,15,0,0,0.0,15
+high_50,mdd,0.5,storage,10000,water_priority,Virginia,206,206,139,67,0,0.0,153
+high_50,mdd,0.5,storage,10000,water_priority,Washington,31,25,2,23,6,216.0,2
+high_50,mdd,0.5,storage,10000,water_priority,Wyoming,11,11,6,5,0,0.0,6
+high_50,avg,0.25,no_storage,10000,water_priority,Alabama,9,9,8,1,0,0.0,8
+high_50,avg,0.25,no_storage,10000,water_priority,Arizona,38,38,17,21,0,0.0,17
+high_50,avg,0.25,no_storage,10000,water_priority,California,56,56,52,4,0,0.0,56
+high_50,avg,0.25,no_storage,10000,water_priority,Colorado,9,9,9,0,0,0.0,9
+high_50,avg,0.25,no_storage,10000,water_priority,Connecticut,1,1,0,1,0,0.0,1
+high_50,avg,0.25,no_storage,10000,water_priority,Florida,8,8,8,0,0,0.0,8
+high_50,avg,0.25,no_storage,10000,water_priority,Georgia,37,37,34,3,0,0.0,34
+high_50,avg,0.25,no_storage,10000,water_priority,Illinois,45,45,28,17,0,0.0,44
+high_50,avg,0.25,no_storage,10000,water_priority,Indiana,1,1,1,0,0,0.0,1
+high_50,avg,0.25,no_storage,10000,water_priority,Iowa,37,37,32,5,0,0.0,34
+high_50,avg,0.25,no_storage,10000,water_priority,Kentucky,9,9,2,7,0,0.0,2
+high_50,avg,0.25,no_storage,10000,water_priority,Massachusetts,6,6,3,3,0,0.0,6
+high_50,avg,0.25,no_storage,10000,water_priority,Michigan,3,3,3,0,0,0.0,3
+high_50,avg,0.25,no_storage,10000,water_priority,Minnesota,5,5,3,2,0,0.0,5
+high_50,avg,0.25,no_storage,10000,water_priority,Missouri,5,5,5,0,0,0.0,5
+high_50,avg,0.25,no_storage,10000,water_priority,Montana,3,3,3,0,0,0.0,3
+high_50,avg,0.25,no_storage,10000,water_priority,Nebraska,24,24,17,7,0,0.0,22
+high_50,avg,0.25,no_storage,10000,water_priority,Nevada,20,20,20,0,0,0.0,20
+high_50,avg,0.25,no_storage,10000,water_priority,New Jersey,24,24,15,9,0,0.0,19
+high_50,avg,0.25,no_storage,10000,water_priority,New Mexico,2,2,1,1,0,0.0,1
+high_50,avg,0.25,no_storage,10000,water_priority,New York,24,24,14,10,0,0.0,15
+high_50,avg,0.25,no_storage,10000,water_priority,North Carolina,16,12,1,11,4,144.0,16
+high_50,avg,0.25,no_storage,10000,water_priority,North Dakota,23,11,8,3,12,432.0,8
+high_50,avg,0.25,no_storage,10000,water_priority,Ohio,14,14,10,4,0,0.0,13
+high_50,avg,0.25,no_storage,10000,water_priority,Oklahoma,7,5,3,2,2,72.0,3
+high_50,avg,0.25,no_storage,10000,water_priority,Oregon,39,39,18,21,0,0.0,34
+high_50,avg,0.25,no_storage,10000,water_priority,Pennsylvania,28,28,5,23,0,0.0,25
+high_50,avg,0.25,no_storage,10000,water_priority,South Carolina,12,12,6,6,0,0.0,12
+high_50,avg,0.25,no_storage,10000,water_priority,Tennessee,8,8,8,0,0,0.0,8
+high_50,avg,0.25,no_storage,10000,water_priority,Texas,133,133,76,57,0,0.0,133
+high_50,avg,0.25,no_storage,10000,water_priority,Utah,15,15,15,0,0,0.0,15
+high_50,avg,0.25,no_storage,10000,water_priority,Virginia,206,177,81,96,29,1044.0,153
+high_50,avg,0.25,no_storage,10000,water_priority,Washington,31,6,1,5,25,900.0,2
+high_50,avg,0.25,no_storage,10000,water_priority,Wyoming,11,11,4,7,0,0.0,6
+high_50,avg,0.25,storage,10000,water_priority,Alabama,9,9,8,1,0,0.0,8
+high_50,avg,0.25,storage,10000,water_priority,Arizona,38,38,17,21,0,0.0,17
+high_50,avg,0.25,storage,10000,water_priority,California,56,56,54,2,0,0.0,56
+high_50,avg,0.25,storage,10000,water_priority,Colorado,9,9,9,0,0,0.0,9
+high_50,avg,0.25,storage,10000,water_priority,Connecticut,1,1,1,0,0,0.0,1
+high_50,avg,0.25,storage,10000,water_priority,Florida,8,8,8,0,0,0.0,8
+high_50,avg,0.25,storage,10000,water_priority,Georgia,37,37,34,3,0,0.0,34
+high_50,avg,0.25,storage,10000,water_priority,Illinois,45,45,39,6,0,0.0,44
+high_50,avg,0.25,storage,10000,water_priority,Indiana,1,1,1,0,0,0.0,1
+high_50,avg,0.25,storage,10000,water_priority,Iowa,37,37,34,3,0,0.0,34
+high_50,avg,0.25,storage,10000,water_priority,Kentucky,9,9,2,7,0,0.0,2
+high_50,avg,0.25,storage,10000,water_priority,Massachusetts,6,6,6,0,0,0.0,6
+high_50,avg,0.25,storage,10000,water_priority,Michigan,3,3,3,0,0,0.0,3
+high_50,avg,0.25,storage,10000,water_priority,Minnesota,5,5,5,0,0,0.0,5
+high_50,avg,0.25,storage,10000,water_priority,Missouri,5,5,5,0,0,0.0,5
+high_50,avg,0.25,storage,10000,water_priority,Montana,3,3,3,0,0,0.0,3
+high_50,avg,0.25,storage,10000,water_priority,Nebraska,24,24,20,4,0,0.0,22
+high_50,avg,0.25,storage,10000,water_priority,Nevada,20,20,20,0,0,0.0,20
+high_50,avg,0.25,storage,10000,water_priority,New Jersey,24,24,19,5,0,0.0,19
+high_50,avg,0.25,storage,10000,water_priority,New Mexico,2,2,1,1,0,0.0,1
+high_50,avg,0.25,storage,10000,water_priority,New York,24,24,15,9,0,0.0,15
+high_50,avg,0.25,storage,10000,water_priority,North Carolina,16,16,3,13,0,0.0,16
+high_50,avg,0.25,storage,10000,water_priority,North Dakota,23,23,8,15,0,0.0,8
+high_50,avg,0.25,storage,10000,water_priority,Ohio,14,14,13,1,0,0.0,13
+high_50,avg,0.25,storage,10000,water_priority,Oklahoma,7,7,3,4,0,0.0,3
+high_50,avg,0.25,storage,10000,water_priority,Oregon,39,39,30,9,0,0.0,34
+high_50,avg,0.25,storage,10000,water_priority,Pennsylvania,28,28,10,18,0,0.0,25
+high_50,avg,0.25,storage,10000,water_priority,South Carolina,12,12,10,2,0,0.0,12
+high_50,avg,0.25,storage,10000,water_priority,Tennessee,8,8,8,0,0,0.0,8
+high_50,avg,0.25,storage,10000,water_priority,Texas,133,133,90,43,0,0.0,133
+high_50,avg,0.25,storage,10000,water_priority,Utah,15,15,15,0,0,0.0,15
+high_50,avg,0.25,storage,10000,water_priority,Virginia,206,206,113,93,0,0.0,153
+high_50,avg,0.25,storage,10000,water_priority,Washington,31,17,2,15,14,504.0,2
+high_50,avg,0.25,storage,10000,water_priority,Wyoming,11,11,6,5,0,0.0,6
+higher_0,mdd,0.1,no_storage,10000,water_priority,Alabama,18,18,4,14,0,0.0,9
+higher_0,mdd,0.1,no_storage,10000,water_priority,Arizona,77,77,11,66,0,0.0,40
+higher_0,mdd,0.1,no_storage,10000,water_priority,California,115,115,66,49,0,0.0,89
+higher_0,mdd,0.1,no_storage,10000,water_priority,Colorado,18,18,2,16,0,0.0,3
+higher_0,mdd,0.1,no_storage,10000,water_priority,Connecticut,3,3,2,1,0,0.0,3
+higher_0,mdd,0.1,no_storage,10000,water_priority,Florida,17,17,10,7,0,0.0,16
+higher_0,mdd,0.1,no_storage,10000,water_priority,Georgia,76,76,29,47,0,0.0,64
+higher_0,mdd,0.1,no_storage,10000,water_priority,Idaho,1,1,1,0,0,0.0,1
+higher_0,mdd,0.1,no_storage,10000,water_priority,Illinois,92,77,12,65,15,540.0,42
+higher_0,mdd,0.1,no_storage,10000,water_priority,Indiana,2,2,1,1,0,0.0,2
+higher_0,mdd,0.1,no_storage,10000,water_priority,Iowa,76,43,22,21,33,1188.0,46
+higher_0,mdd,0.1,no_storage,10000,water_priority,Kentucky,20,17,4,13,3,108.0,8
+higher_0,mdd,0.1,no_storage,10000,water_priority,Maryland,1,1,1,0,0,0.0,1
+higher_0,mdd,0.1,no_storage,10000,water_priority,Massachusetts,13,8,3,5,5,180.0,12
+higher_0,mdd,0.1,no_storage,10000,water_priority,Michigan,6,6,0,6,0,0.0,0
+higher_0,mdd,0.1,no_storage,10000,water_priority,Minnesota,10,10,0,10,0,0.0,6
+higher_0,mdd,0.1,no_storage,10000,water_priority,Missouri,12,12,0,12,0,0.0,0
+higher_0,mdd,0.1,no_storage,10000,water_priority,Montana,7,7,0,7,0,0.0,0
+higher_0,mdd,0.1,no_storage,10000,water_priority,Nebraska,49,49,41,8,0,0.0,46
+higher_0,mdd,0.1,no_storage,10000,water_priority,Nevada,42,42,29,13,0,0.0,35
+higher_0,mdd,0.1,no_storage,10000,water_priority,New Jersey,50,50,22,28,0,0.0,37
+higher_0,mdd,0.1,no_storage,10000,water_priority,New Mexico,5,2,0,2,3,108.0,5
+higher_0,mdd,0.1,no_storage,10000,water_priority,New York,50,38,12,26,12,432.0,38
+higher_0,mdd,0.1,no_storage,10000,water_priority,North Carolina,33,10,3,7,23,828.0,10
+higher_0,mdd,0.1,no_storage,10000,water_priority,North Dakota,48,9,2,7,39,1404.0,9
+higher_0,mdd,0.1,no_storage,10000,water_priority,Ohio,29,29,10,19,0,0.0,21
+higher_0,mdd,0.1,no_storage,10000,water_priority,Oklahoma,15,4,1,3,11,396.0,8
+higher_0,mdd,0.1,no_storage,10000,water_priority,Oregon,79,53,27,26,26,936.0,64
+higher_0,mdd,0.1,no_storage,10000,water_priority,Pennsylvania,56,26,21,5,30,1080.0,53
+higher_0,mdd,0.1,no_storage,10000,water_priority,South Carolina,25,25,12,13,0,0.0,22
+higher_0,mdd,0.1,no_storage,10000,water_priority,Tennessee,16,11,10,1,5,180.0,16
+higher_0,mdd,0.1,no_storage,10000,water_priority,Texas,270,270,95,175,0,0.0,199
+higher_0,mdd,0.1,no_storage,10000,water_priority,Utah,31,31,23,8,0,0.0,29
+higher_0,mdd,0.1,no_storage,10000,water_priority,Virginia,420,150,61,89,270,9720.0,254
+higher_0,mdd,0.1,no_storage,10000,water_priority,Washington,64,6,6,0,58,2088.0,20
+higher_0,mdd,0.1,no_storage,10000,water_priority,Wisconsin,1,1,0,1,0,0.0,0
+higher_0,mdd,0.1,no_storage,10000,water_priority,Wyoming,23,17,6,11,6,216.0,12
+higher_0,mdd,0.1,storage,10000,water_priority,Alabama,18,18,7,11,0,0.0,9
+higher_0,mdd,0.1,storage,10000,water_priority,Arizona,77,77,17,60,0,0.0,40
+higher_0,mdd,0.1,storage,10000,water_priority,California,115,115,80,35,0,0.0,89
+higher_0,mdd,0.1,storage,10000,water_priority,Colorado,18,18,3,15,0,0.0,3
+higher_0,mdd,0.1,storage,10000,water_priority,Connecticut,3,3,3,0,0,0.0,3
+higher_0,mdd,0.1,storage,10000,water_priority,Florida,17,17,11,6,0,0.0,16
+higher_0,mdd,0.1,storage,10000,water_priority,Georgia,76,76,41,35,0,0.0,64
+higher_0,mdd,0.1,storage,10000,water_priority,Idaho,1,1,1,0,0,0.0,1
+higher_0,mdd,0.1,storage,10000,water_priority,Illinois,92,92,23,69,0,0.0,42
+higher_0,mdd,0.1,storage,10000,water_priority,Indiana,2,2,2,0,0,0.0,2
+higher_0,mdd,0.1,storage,10000,water_priority,Iowa,76,76,31,45,0,0.0,46
+higher_0,mdd,0.1,storage,10000,water_priority,Kentucky,20,20,7,13,0,0.0,8
+higher_0,mdd,0.1,storage,10000,water_priority,Maryland,1,1,1,0,0,0.0,1
+higher_0,mdd,0.1,storage,10000,water_priority,Massachusetts,13,13,6,7,0,0.0,12
+higher_0,mdd,0.1,storage,10000,water_priority,Michigan,6,6,0,6,0,0.0,0
+higher_0,mdd,0.1,storage,10000,water_priority,Minnesota,10,10,2,8,0,0.0,6
+higher_0,mdd,0.1,storage,10000,water_priority,Missouri,12,12,0,12,0,0.0,0
+higher_0,mdd,0.1,storage,10000,water_priority,Montana,7,7,0,7,0,0.0,0
+higher_0,mdd,0.1,storage,10000,water_priority,Nebraska,49,49,44,5,0,0.0,46
+higher_0,mdd,0.1,storage,10000,water_priority,Nevada,42,42,33,9,0,0.0,35
+higher_0,mdd,0.1,storage,10000,water_priority,New Jersey,50,50,32,18,0,0.0,37
+higher_0,mdd,0.1,storage,10000,water_priority,New Mexico,5,3,1,2,2,72.0,5
+higher_0,mdd,0.1,storage,10000,water_priority,New York,50,50,22,28,0,0.0,38
+higher_0,mdd,0.1,storage,10000,water_priority,North Carolina,33,19,5,14,14,504.0,10
+higher_0,mdd,0.1,storage,10000,water_priority,North Dakota,48,27,6,21,21,756.0,9
+higher_0,mdd,0.1,storage,10000,water_priority,Ohio,29,29,17,12,0,0.0,21
+higher_0,mdd,0.1,storage,10000,water_priority,Oklahoma,15,7,2,5,8,288.0,8
+higher_0,mdd,0.1,storage,10000,water_priority,Oregon,79,79,47,32,0,0.0,64
+higher_0,mdd,0.1,storage,10000,water_priority,Pennsylvania,56,49,39,10,7,252.0,53
+higher_0,mdd,0.1,storage,10000,water_priority,South Carolina,25,25,16,9,0,0.0,22
+higher_0,mdd,0.1,storage,10000,water_priority,Tennessee,16,16,14,2,0,0.0,16
+higher_0,mdd,0.1,storage,10000,water_priority,Texas,270,270,110,160,0,0.0,199
+higher_0,mdd,0.1,storage,10000,water_priority,Utah,31,31,29,2,0,0.0,29
+higher_0,mdd,0.1,storage,10000,water_priority,Virginia,420,234,111,123,186,6696.0,254
+higher_0,mdd,0.1,storage,10000,water_priority,Washington,64,18,17,1,46,1656.0,20
+higher_0,mdd,0.1,storage,10000,water_priority,Wisconsin,1,1,0,1,0,0.0,0
+higher_0,mdd,0.1,storage,10000,water_priority,Wyoming,23,23,12,11,0,0.0,12
+higher_0,mdd,0.25,no_storage,10000,water_priority,Alabama,18,18,9,9,0,0.0,9
+higher_0,mdd,0.25,no_storage,10000,water_priority,Arizona,77,77,24,53,0,0.0,40
+higher_0,mdd,0.25,no_storage,10000,water_priority,California,115,115,84,31,0,0.0,89
+higher_0,mdd,0.25,no_storage,10000,water_priority,Colorado,18,18,3,15,0,0.0,3
+higher_0,mdd,0.25,no_storage,10000,water_priority,Connecticut,3,3,3,0,0,0.0,3
+higher_0,mdd,0.25,no_storage,10000,water_priority,Florida,17,17,12,5,0,0.0,16
+higher_0,mdd,0.25,no_storage,10000,water_priority,Georgia,76,76,50,26,0,0.0,64
+higher_0,mdd,0.25,no_storage,10000,water_priority,Idaho,1,1,1,0,0,0.0,1
+higher_0,mdd,0.25,no_storage,10000,water_priority,Illinois,92,92,29,63,0,0.0,42
+higher_0,mdd,0.25,no_storage,10000,water_priority,Indiana,2,2,2,0,0,0.0,2
+higher_0,mdd,0.25,no_storage,10000,water_priority,Iowa,76,76,31,45,0,0.0,46
+higher_0,mdd,0.25,no_storage,10000,water_priority,Kentucky,20,20,7,13,0,0.0,8
+higher_0,mdd,0.25,no_storage,10000,water_priority,Maryland,1,1,1,0,0,0.0,1
+higher_0,mdd,0.25,no_storage,10000,water_priority,Massachusetts,13,13,6,7,0,0.0,12
+higher_0,mdd,0.25,no_storage,10000,water_priority,Michigan,6,6,0,6,0,0.0,0
+higher_0,mdd,0.25,no_storage,10000,water_priority,Minnesota,10,10,1,9,0,0.0,6
+higher_0,mdd,0.25,no_storage,10000,water_priority,Missouri,12,12,0,12,0,0.0,0
+higher_0,mdd,0.25,no_storage,10000,water_priority,Montana,7,7,0,7,0,0.0,0
+higher_0,mdd,0.25,no_storage,10000,water_priority,Nebraska,49,49,44,5,0,0.0,46
+higher_0,mdd,0.25,no_storage,10000,water_priority,Nevada,42,42,33,9,0,0.0,35
+higher_0,mdd,0.25,no_storage,10000,water_priority,New Jersey,50,50,32,18,0,0.0,37
+higher_0,mdd,0.25,no_storage,10000,water_priority,New Mexico,5,4,2,2,1,36.0,5
+higher_0,mdd,0.25,no_storage,10000,water_priority,New York,50,50,22,28,0,0.0,38
+higher_0,mdd,0.25,no_storage,10000,water_priority,North Carolina,33,24,7,17,9,324.0,10
+higher_0,mdd,0.25,no_storage,10000,water_priority,North Dakota,48,25,6,19,23,828.0,9
+higher_0,mdd,0.25,no_storage,10000,water_priority,Ohio,29,29,19,10,0,0.0,21
+higher_0,mdd,0.25,no_storage,10000,water_priority,Oklahoma,15,10,2,8,5,180.0,8
+higher_0,mdd,0.25,no_storage,10000,water_priority,Oregon,79,79,43,36,0,0.0,64
+higher_0,mdd,0.25,no_storage,10000,water_priority,Pennsylvania,56,50,40,10,6,216.0,53
+higher_0,mdd,0.25,no_storage,10000,water_priority,South Carolina,25,25,18,7,0,0.0,22
+higher_0,mdd,0.25,no_storage,10000,water_priority,Tennessee,16,16,16,0,0,0.0,16
+higher_0,mdd,0.25,no_storage,10000,water_priority,Texas,270,270,135,135,0,0.0,199
+higher_0,mdd,0.25,no_storage,10000,water_priority,Utah,31,31,28,3,0,0.0,29
+higher_0,mdd,0.25,no_storage,10000,water_priority,Virginia,420,271,134,137,149,5364.0,254
+higher_0,mdd,0.25,no_storage,10000,water_priority,Washington,64,17,16,1,47,1692.0,20
+higher_0,mdd,0.25,no_storage,10000,water_priority,Wisconsin,1,1,0,1,0,0.0,0
+higher_0,mdd,0.25,no_storage,10000,water_priority,Wyoming,23,23,12,11,0,0.0,12
+higher_0,mdd,0.25,storage,10000,water_priority,Alabama,18,18,9,9,0,0.0,9
+higher_0,mdd,0.25,storage,10000,water_priority,Arizona,77,77,30,47,0,0.0,40
+higher_0,mdd,0.25,storage,10000,water_priority,California,115,115,88,27,0,0.0,89
+higher_0,mdd,0.25,storage,10000,water_priority,Colorado,18,18,3,15,0,0.0,3
+higher_0,mdd,0.25,storage,10000,water_priority,Connecticut,3,3,3,0,0,0.0,3
+higher_0,mdd,0.25,storage,10000,water_priority,Florida,17,17,12,5,0,0.0,16
+higher_0,mdd,0.25,storage,10000,water_priority,Georgia,76,76,62,14,0,0.0,64
+higher_0,mdd,0.25,storage,10000,water_priority,Idaho,1,1,1,0,0,0.0,1
+higher_0,mdd,0.25,storage,10000,water_priority,Illinois,92,92,38,54,0,0.0,42
+higher_0,mdd,0.25,storage,10000,water_priority,Indiana,2,2,2,0,0,0.0,2
+higher_0,mdd,0.25,storage,10000,water_priority,Iowa,76,76,37,39,0,0.0,46
+higher_0,mdd,0.25,storage,10000,water_priority,Kentucky,20,20,8,12,0,0.0,8
+higher_0,mdd,0.25,storage,10000,water_priority,Maryland,1,1,1,0,0,0.0,1
+higher_0,mdd,0.25,storage,10000,water_priority,Massachusetts,13,13,10,3,0,0.0,12
+higher_0,mdd,0.25,storage,10000,water_priority,Michigan,6,6,0,6,0,0.0,0
+higher_0,mdd,0.25,storage,10000,water_priority,Minnesota,10,10,5,5,0,0.0,6
+higher_0,mdd,0.25,storage,10000,water_priority,Missouri,12,12,0,12,0,0.0,0
+higher_0,mdd,0.25,storage,10000,water_priority,Montana,7,7,0,7,0,0.0,0
+higher_0,mdd,0.25,storage,10000,water_priority,Nebraska,49,49,46,3,0,0.0,46
+higher_0,mdd,0.25,storage,10000,water_priority,Nevada,42,42,35,7,0,0.0,35
+higher_0,mdd,0.25,storage,10000,water_priority,New Jersey,50,50,37,13,0,0.0,37
+higher_0,mdd,0.25,storage,10000,water_priority,New Mexico,5,5,4,1,0,0.0,5
+higher_0,mdd,0.25,storage,10000,water_priority,New York,50,50,38,12,0,0.0,38
+higher_0,mdd,0.25,storage,10000,water_priority,North Carolina,33,33,9,24,0,0.0,10
+higher_0,mdd,0.25,storage,10000,water_priority,North Dakota,48,48,9,39,0,0.0,9
+higher_0,mdd,0.25,storage,10000,water_priority,Ohio,29,29,21,8,0,0.0,21
+higher_0,mdd,0.25,storage,10000,water_priority,Oklahoma,15,15,6,9,0,0.0,8
+higher_0,mdd,0.25,storage,10000,water_priority,Oregon,79,79,59,20,0,0.0,64
+higher_0,mdd,0.25,storage,10000,water_priority,Pennsylvania,56,56,53,3,0,0.0,53
+higher_0,mdd,0.25,storage,10000,water_priority,South Carolina,25,25,21,4,0,0.0,22
+higher_0,mdd,0.25,storage,10000,water_priority,Tennessee,16,16,16,0,0,0.0,16
+higher_0,mdd,0.25,storage,10000,water_priority,Texas,270,270,157,113,0,0.0,199
+higher_0,mdd,0.25,storage,10000,water_priority,Utah,31,31,29,2,0,0.0,29
+higher_0,mdd,0.25,storage,10000,water_priority,Virginia,420,400,185,215,20,720.0,254
+higher_0,mdd,0.25,storage,10000,water_priority,Washington,64,25,20,5,39,1404.0,20
+higher_0,mdd,0.25,storage,10000,water_priority,Wisconsin,1,1,0,1,0,0.0,0
+higher_0,mdd,0.25,storage,10000,water_priority,Wyoming,23,23,12,11,0,0.0,12
+higher_0,mdd,0.5,no_storage,10000,water_priority,Alabama,18,18,9,9,0,0.0,9
+higher_0,mdd,0.5,no_storage,10000,water_priority,Arizona,77,77,32,45,0,0.0,40
+higher_0,mdd,0.5,no_storage,10000,water_priority,California,115,115,88,27,0,0.0,89
+higher_0,mdd,0.5,no_storage,10000,water_priority,Colorado,18,18,3,15,0,0.0,3
+higher_0,mdd,0.5,no_storage,10000,water_priority,Connecticut,3,3,3,0,0,0.0,3
+higher_0,mdd,0.5,no_storage,10000,water_priority,Florida,17,17,14,3,0,0.0,16
+higher_0,mdd,0.5,no_storage,10000,water_priority,Georgia,76,76,63,13,0,0.0,64
+higher_0,mdd,0.5,no_storage,10000,water_priority,Idaho,1,1,1,0,0,0.0,1
+higher_0,mdd,0.5,no_storage,10000,water_priority,Illinois,92,92,38,54,0,0.0,42
+higher_0,mdd,0.5,no_storage,10000,water_priority,Indiana,2,2,2,0,0,0.0,2
+higher_0,mdd,0.5,no_storage,10000,water_priority,Iowa,76,76,35,41,0,0.0,46
+higher_0,mdd,0.5,no_storage,10000,water_priority,Kentucky,20,20,8,12,0,0.0,8
+higher_0,mdd,0.5,no_storage,10000,water_priority,Maryland,1,1,1,0,0,0.0,1
+higher_0,mdd,0.5,no_storage,10000,water_priority,Massachusetts,13,13,9,4,0,0.0,12
+higher_0,mdd,0.5,no_storage,10000,water_priority,Michigan,6,6,0,6,0,0.0,0
+higher_0,mdd,0.5,no_storage,10000,water_priority,Minnesota,10,10,3,7,0,0.0,6
+higher_0,mdd,0.5,no_storage,10000,water_priority,Missouri,12,12,0,12,0,0.0,0
+higher_0,mdd,0.5,no_storage,10000,water_priority,Montana,7,7,0,7,0,0.0,0
+higher_0,mdd,0.5,no_storage,10000,water_priority,Nebraska,49,49,46,3,0,0.0,46
+higher_0,mdd,0.5,no_storage,10000,water_priority,Nevada,42,42,35,7,0,0.0,35
+higher_0,mdd,0.5,no_storage,10000,water_priority,New Jersey,50,50,36,14,0,0.0,37
+higher_0,mdd,0.5,no_storage,10000,water_priority,New Mexico,5,5,4,1,0,0.0,5
+higher_0,mdd,0.5,no_storage,10000,water_priority,New York,50,50,34,16,0,0.0,38
+higher_0,mdd,0.5,no_storage,10000,water_priority,North Carolina,33,33,9,24,0,0.0,10
+higher_0,mdd,0.5,no_storage,10000,water_priority,North Dakota,48,48,9,39,0,0.0,9
+higher_0,mdd,0.5,no_storage,10000,water_priority,Ohio,29,29,21,8,0,0.0,21
+higher_0,mdd,0.5,no_storage,10000,water_priority,Oklahoma,15,15,5,10,0,0.0,8
+higher_0,mdd,0.5,no_storage,10000,water_priority,Oregon,79,79,55,24,0,0.0,64
+higher_0,mdd,0.5,no_storage,10000,water_priority,Pennsylvania,56,56,53,3,0,0.0,53
+higher_0,mdd,0.5,no_storage,10000,water_priority,South Carolina,25,25,22,3,0,0.0,22
+higher_0,mdd,0.5,no_storage,10000,water_priority,Tennessee,16,16,16,0,0,0.0,16
+higher_0,mdd,0.5,no_storage,10000,water_priority,Texas,270,270,170,100,0,0.0,199
+higher_0,mdd,0.5,no_storage,10000,water_priority,Utah,31,31,29,2,0,0.0,29
+higher_0,mdd,0.5,no_storage,10000,water_priority,Virginia,420,400,185,215,20,720.0,254
+higher_0,mdd,0.5,no_storage,10000,water_priority,Washington,64,25,20,5,39,1404.0,20
+higher_0,mdd,0.5,no_storage,10000,water_priority,Wisconsin,1,1,0,1,0,0.0,0
+higher_0,mdd,0.5,no_storage,10000,water_priority,Wyoming,23,23,12,11,0,0.0,12
+higher_0,mdd,0.5,storage,10000,water_priority,Alabama,18,18,9,9,0,0.0,9
+higher_0,mdd,0.5,storage,10000,water_priority,Arizona,77,77,35,42,0,0.0,40
+higher_0,mdd,0.5,storage,10000,water_priority,California,115,115,89,26,0,0.0,89
+higher_0,mdd,0.5,storage,10000,water_priority,Colorado,18,18,3,15,0,0.0,3
+higher_0,mdd,0.5,storage,10000,water_priority,Connecticut,3,3,3,0,0,0.0,3
+higher_0,mdd,0.5,storage,10000,water_priority,Florida,17,17,15,2,0,0.0,16
+higher_0,mdd,0.5,storage,10000,water_priority,Georgia,76,76,64,12,0,0.0,64
+higher_0,mdd,0.5,storage,10000,water_priority,Idaho,1,1,1,0,0,0.0,1
+higher_0,mdd,0.5,storage,10000,water_priority,Illinois,92,92,42,50,0,0.0,42
+higher_0,mdd,0.5,storage,10000,water_priority,Indiana,2,2,2,0,0,0.0,2
+higher_0,mdd,0.5,storage,10000,water_priority,Iowa,76,76,42,34,0,0.0,46
+higher_0,mdd,0.5,storage,10000,water_priority,Kentucky,20,20,8,12,0,0.0,8
+higher_0,mdd,0.5,storage,10000,water_priority,Maryland,1,1,1,0,0,0.0,1
+higher_0,mdd,0.5,storage,10000,water_priority,Massachusetts,13,13,12,1,0,0.0,12
+higher_0,mdd,0.5,storage,10000,water_priority,Michigan,6,6,0,6,0,0.0,0
+higher_0,mdd,0.5,storage,10000,water_priority,Minnesota,10,10,6,4,0,0.0,6
+higher_0,mdd,0.5,storage,10000,water_priority,Missouri,12,12,0,12,0,0.0,0
+higher_0,mdd,0.5,storage,10000,water_priority,Montana,7,7,0,7,0,0.0,0
+higher_0,mdd,0.5,storage,10000,water_priority,Nebraska,49,49,46,3,0,0.0,46
+higher_0,mdd,0.5,storage,10000,water_priority,Nevada,42,42,35,7,0,0.0,35
+higher_0,mdd,0.5,storage,10000,water_priority,New Jersey,50,50,37,13,0,0.0,37
+higher_0,mdd,0.5,storage,10000,water_priority,New Mexico,5,5,5,0,0,0.0,5
+higher_0,mdd,0.5,storage,10000,water_priority,New York,50,50,38,12,0,0.0,38
+higher_0,mdd,0.5,storage,10000,water_priority,North Carolina,33,33,10,23,0,0.0,10
+higher_0,mdd,0.5,storage,10000,water_priority,North Dakota,48,48,9,39,0,0.0,9
+higher_0,mdd,0.5,storage,10000,water_priority,Ohio,29,29,21,8,0,0.0,21
+higher_0,mdd,0.5,storage,10000,water_priority,Oklahoma,15,15,8,7,0,0.0,8
+higher_0,mdd,0.5,storage,10000,water_priority,Oregon,79,79,64,15,0,0.0,64
+higher_0,mdd,0.5,storage,10000,water_priority,Pennsylvania,56,56,53,3,0,0.0,53
+higher_0,mdd,0.5,storage,10000,water_priority,South Carolina,25,25,22,3,0,0.0,22
+higher_0,mdd,0.5,storage,10000,water_priority,Tennessee,16,16,16,0,0,0.0,16
+higher_0,mdd,0.5,storage,10000,water_priority,Texas,270,270,180,90,0,0.0,199
+higher_0,mdd,0.5,storage,10000,water_priority,Utah,31,31,29,2,0,0.0,29
+higher_0,mdd,0.5,storage,10000,water_priority,Virginia,420,420,241,179,0,0.0,254
+higher_0,mdd,0.5,storage,10000,water_priority,Washington,64,25,20,5,39,1404.0,20
+higher_0,mdd,0.5,storage,10000,water_priority,Wisconsin,1,1,0,1,0,0.0,0
+higher_0,mdd,0.5,storage,10000,water_priority,Wyoming,23,23,12,11,0,0.0,12
+higher_0,avg,0.25,no_storage,10000,water_priority,Alabama,18,18,7,11,0,0.0,9
+higher_0,avg,0.25,no_storage,10000,water_priority,Arizona,77,77,14,63,0,0.0,40
+higher_0,avg,0.25,no_storage,10000,water_priority,California,115,115,69,46,0,0.0,89
+higher_0,avg,0.25,no_storage,10000,water_priority,Colorado,18,18,3,15,0,0.0,3
+higher_0,avg,0.25,no_storage,10000,water_priority,Connecticut,3,3,3,0,0,0.0,3
+higher_0,avg,0.25,no_storage,10000,water_priority,Florida,17,17,11,6,0,0.0,16
+higher_0,avg,0.25,no_storage,10000,water_priority,Georgia,76,76,36,40,0,0.0,64
+higher_0,avg,0.25,no_storage,10000,water_priority,Idaho,1,1,1,0,0,0.0,1
+higher_0,avg,0.25,no_storage,10000,water_priority,Illinois,92,92,17,75,0,0.0,42
+higher_0,avg,0.25,no_storage,10000,water_priority,Indiana,2,2,1,1,0,0.0,2
+higher_0,avg,0.25,no_storage,10000,water_priority,Iowa,76,54,23,31,22,792.0,46
+higher_0,avg,0.25,no_storage,10000,water_priority,Kentucky,20,20,5,15,0,0.0,8
+higher_0,avg,0.25,no_storage,10000,water_priority,Maryland,1,1,1,0,0,0.0,1
+higher_0,avg,0.25,no_storage,10000,water_priority,Massachusetts,13,10,4,6,3,108.0,12
+higher_0,avg,0.25,no_storage,10000,water_priority,Michigan,6,6,0,6,0,0.0,0
+higher_0,avg,0.25,no_storage,10000,water_priority,Minnesota,10,10,1,9,0,0.0,6
+higher_0,avg,0.25,no_storage,10000,water_priority,Missouri,12,12,0,12,0,0.0,0
+higher_0,avg,0.25,no_storage,10000,water_priority,Montana,7,7,0,7,0,0.0,0
+higher_0,avg,0.25,no_storage,10000,water_priority,Nebraska,49,49,42,7,0,0.0,46
+higher_0,avg,0.25,no_storage,10000,water_priority,Nevada,42,42,29,13,0,0.0,35
+higher_0,avg,0.25,no_storage,10000,water_priority,New Jersey,50,50,26,24,0,0.0,37
+higher_0,avg,0.25,no_storage,10000,water_priority,New Mexico,5,3,1,2,2,72.0,5
+higher_0,avg,0.25,no_storage,10000,water_priority,New York,50,50,16,34,0,0.0,38
+higher_0,avg,0.25,no_storage,10000,water_priority,North Carolina,33,12,4,8,21,756.0,10
+higher_0,avg,0.25,no_storage,10000,water_priority,North Dakota,48,11,2,9,37,1332.0,9
+higher_0,avg,0.25,no_storage,10000,water_priority,Ohio,29,29,16,13,0,0.0,21
+higher_0,avg,0.25,no_storage,10000,water_priority,Oklahoma,15,5,1,4,10,360.0,8
+higher_0,avg,0.25,no_storage,10000,water_priority,Oregon,79,57,28,29,22,792.0,64
+higher_0,avg,0.25,no_storage,10000,water_priority,Pennsylvania,56,32,25,7,24,864.0,53
+higher_0,avg,0.25,no_storage,10000,water_priority,South Carolina,25,25,13,12,0,0.0,22
+higher_0,avg,0.25,no_storage,10000,water_priority,Tennessee,16,15,12,3,1,36.0,16
+higher_0,avg,0.25,no_storage,10000,water_priority,Texas,270,270,105,165,0,0.0,199
+higher_0,avg,0.25,no_storage,10000,water_priority,Utah,31,31,23,8,0,0.0,29
+higher_0,avg,0.25,no_storage,10000,water_priority,Virginia,420,177,79,98,243,8748.0,254
+higher_0,avg,0.25,no_storage,10000,water_priority,Washington,64,6,6,0,58,2088.0,20
+higher_0,avg,0.25,no_storage,10000,water_priority,Wisconsin,1,1,0,1,0,0.0,0
+higher_0,avg,0.25,no_storage,10000,water_priority,Wyoming,23,19,7,12,4,144.0,12
+higher_0,avg,0.25,storage,10000,water_priority,Alabama,18,18,9,9,0,0.0,9
+higher_0,avg,0.25,storage,10000,water_priority,Arizona,77,77,20,57,0,0.0,40
+higher_0,avg,0.25,storage,10000,water_priority,California,115,115,81,34,0,0.0,89
+higher_0,avg,0.25,storage,10000,water_priority,Colorado,18,18,3,15,0,0.0,3
+higher_0,avg,0.25,storage,10000,water_priority,Connecticut,3,3,3,0,0,0.0,3
+higher_0,avg,0.25,storage,10000,water_priority,Florida,17,17,11,6,0,0.0,16
+higher_0,avg,0.25,storage,10000,water_priority,Georgia,76,76,50,26,0,0.0,64
+higher_0,avg,0.25,storage,10000,water_priority,Idaho,1,1,1,0,0,0.0,1
+higher_0,avg,0.25,storage,10000,water_priority,Illinois,92,92,30,62,0,0.0,42
+higher_0,avg,0.25,storage,10000,water_priority,Indiana,2,2,2,0,0,0.0,2
+higher_0,avg,0.25,storage,10000,water_priority,Iowa,76,76,33,43,0,0.0,46
+higher_0,avg,0.25,storage,10000,water_priority,Kentucky,20,20,7,13,0,0.0,8
+higher_0,avg,0.25,storage,10000,water_priority,Maryland,1,1,1,0,0,0.0,1
+higher_0,avg,0.25,storage,10000,water_priority,Massachusetts,13,13,6,7,0,0.0,12
+higher_0,avg,0.25,storage,10000,water_priority,Michigan,6,6,0,6,0,0.0,0
+higher_0,avg,0.25,storage,10000,water_priority,Minnesota,10,10,3,7,0,0.0,6
+higher_0,avg,0.25,storage,10000,water_priority,Missouri,12,12,0,12,0,0.0,0
+higher_0,avg,0.25,storage,10000,water_priority,Montana,7,7,0,7,0,0.0,0
+higher_0,avg,0.25,storage,10000,water_priority,Nebraska,49,49,45,4,0,0.0,46
+higher_0,avg,0.25,storage,10000,water_priority,Nevada,42,42,33,9,0,0.0,35
+higher_0,avg,0.25,storage,10000,water_priority,New Jersey,50,50,34,16,0,0.0,37
+higher_0,avg,0.25,storage,10000,water_priority,New Mexico,5,4,2,2,1,36.0,5
+higher_0,avg,0.25,storage,10000,water_priority,New York,50,50,30,20,0,0.0,38
+higher_0,avg,0.25,storage,10000,water_priority,North Carolina,33,22,6,16,11,396.0,10
+higher_0,avg,0.25,storage,10000,water_priority,North Dakota,48,33,7,26,15,540.0,9
+higher_0,avg,0.25,storage,10000,water_priority,Ohio,29,29,19,10,0,0.0,21
+higher_0,avg,0.25,storage,10000,water_priority,Oklahoma,15,11,3,8,4,144.0,8
+higher_0,avg,0.25,storage,10000,water_priority,Oregon,79,79,49,30,0,0.0,64
+higher_0,avg,0.25,storage,10000,water_priority,Pennsylvania,56,56,44,12,0,0.0,53
+higher_0,avg,0.25,storage,10000,water_priority,South Carolina,25,25,17,8,0,0.0,22
+higher_0,avg,0.25,storage,10000,water_priority,Tennessee,16,16,15,1,0,0.0,16
+higher_0,avg,0.25,storage,10000,water_priority,Texas,270,270,126,144,0,0.0,199
+higher_0,avg,0.25,storage,10000,water_priority,Utah,31,31,29,2,0,0.0,29
+higher_0,avg,0.25,storage,10000,water_priority,Virginia,420,287,141,146,133,4788.0,254
+higher_0,avg,0.25,storage,10000,water_priority,Washington,64,17,16,1,47,1692.0,20
+higher_0,avg,0.25,storage,10000,water_priority,Wisconsin,1,1,0,1,0,0.0,0
+higher_0,avg,0.25,storage,10000,water_priority,Wyoming,23,23,12,11,0,0.0,12
+higher_100,mdd,0.1,no_storage,10000,water_priority,Alabama,18,18,15,3,0,0.0,15
+higher_100,mdd,0.1,no_storage,10000,water_priority,Arizona,77,77,50,27,0,0.0,77
+higher_100,mdd,0.1,no_storage,10000,water_priority,California,115,115,91,24,0,0.0,115
+higher_100,mdd,0.1,no_storage,10000,water_priority,Colorado,18,18,17,1,0,0.0,18
+higher_100,mdd,0.1,no_storage,10000,water_priority,Connecticut,3,3,2,1,0,0.0,3
+higher_100,mdd,0.1,no_storage,10000,water_priority,Florida,17,17,14,3,0,0.0,17
+higher_100,mdd,0.1,no_storage,10000,water_priority,Georgia,76,76,43,33,0,0.0,44
+higher_100,mdd,0.1,no_storage,10000,water_priority,Idaho,1,1,1,0,0,0.0,1
+higher_100,mdd,0.1,no_storage,10000,water_priority,Illinois,92,77,34,43,15,540.0,92
+higher_100,mdd,0.1,no_storage,10000,water_priority,Indiana,2,2,2,0,0,0.0,2
+higher_100,mdd,0.1,no_storage,10000,water_priority,Iowa,76,44,23,21,32,1152.0,76
+higher_100,mdd,0.1,no_storage,10000,water_priority,Kentucky,20,17,10,7,3,108.0,20
+higher_100,mdd,0.1,no_storage,10000,water_priority,Maryland,1,1,1,0,0,0.0,1
+higher_100,mdd,0.1,no_storage,10000,water_priority,Massachusetts,13,8,4,4,5,180.0,13
+higher_100,mdd,0.1,no_storage,10000,water_priority,Michigan,6,6,6,0,0,0.0,6
+higher_100,mdd,0.1,no_storage,10000,water_priority,Minnesota,10,10,7,3,0,0.0,10
+higher_100,mdd,0.1,no_storage,10000,water_priority,Missouri,12,12,12,0,0,0.0,12
+higher_100,mdd,0.1,no_storage,10000,water_priority,Montana,7,7,7,0,0,0.0,7
+higher_100,mdd,0.1,no_storage,10000,water_priority,Nebraska,49,49,28,21,0,0.0,49
+higher_100,mdd,0.1,no_storage,10000,water_priority,Nevada,42,42,42,0,0,0.0,42
+higher_100,mdd,0.1,no_storage,10000,water_priority,New Jersey,50,50,25,25,0,0.0,50
+higher_100,mdd,0.1,no_storage,10000,water_priority,New Mexico,5,2,2,0,3,108.0,2
+higher_100,mdd,0.1,no_storage,10000,water_priority,New York,50,38,20,18,12,432.0,37
+higher_100,mdd,0.1,no_storage,10000,water_priority,North Carolina,33,10,3,7,23,828.0,33
+higher_100,mdd,0.1,no_storage,10000,water_priority,North Dakota,48,9,7,2,39,1404.0,48
+higher_100,mdd,0.1,no_storage,10000,water_priority,Ohio,29,29,29,0,0,0.0,29
+higher_100,mdd,0.1,no_storage,10000,water_priority,Oklahoma,15,4,3,1,11,396.0,15
+higher_100,mdd,0.1,no_storage,10000,water_priority,Oregon,79,53,31,22,26,936.0,79
+higher_100,mdd,0.1,no_storage,10000,water_priority,Pennsylvania,56,26,3,23,30,1080.0,56
+higher_100,mdd,0.1,no_storage,10000,water_priority,South Carolina,25,25,20,5,0,0.0,25
+higher_100,mdd,0.1,no_storage,10000,water_priority,Tennessee,16,11,0,11,5,180.0,16
+higher_100,mdd,0.1,no_storage,10000,water_priority,Texas,270,270,158,112,0,0.0,270
+higher_100,mdd,0.1,no_storage,10000,water_priority,Utah,31,31,8,23,0,0.0,31
+higher_100,mdd,0.1,no_storage,10000,water_priority,Virginia,420,151,82,69,269,9684.0,350
+higher_100,mdd,0.1,no_storage,10000,water_priority,Washington,64,6,0,6,58,2088.0,0
+higher_100,mdd,0.1,no_storage,10000,water_priority,Wisconsin,1,1,0,1,0,0.0,1
+higher_100,mdd,0.1,no_storage,10000,water_priority,Wyoming,23,17,7,10,6,216.0,23
+higher_100,mdd,0.1,storage,10000,water_priority,Alabama,18,18,15,3,0,0.0,15
+higher_100,mdd,0.1,storage,10000,water_priority,Arizona,77,77,67,10,0,0.0,77
+higher_100,mdd,0.1,storage,10000,water_priority,California,115,115,104,11,0,0.0,115
+higher_100,mdd,0.1,storage,10000,water_priority,Colorado,18,18,18,0,0,0.0,18
+higher_100,mdd,0.1,storage,10000,water_priority,Connecticut,3,3,3,0,0,0.0,3
+higher_100,mdd,0.1,storage,10000,water_priority,Florida,17,17,14,3,0,0.0,17
+higher_100,mdd,0.1,storage,10000,water_priority,Georgia,76,76,43,33,0,0.0,44
+higher_100,mdd,0.1,storage,10000,water_priority,Idaho,1,1,1,0,0,0.0,1
+higher_100,mdd,0.1,storage,10000,water_priority,Illinois,92,92,55,37,0,0.0,92
+higher_100,mdd,0.1,storage,10000,water_priority,Indiana,2,2,2,0,0,0.0,2
+higher_100,mdd,0.1,storage,10000,water_priority,Iowa,76,76,54,22,0,0.0,76
+higher_100,mdd,0.1,storage,10000,water_priority,Kentucky,20,20,17,3,0,0.0,20
+higher_100,mdd,0.1,storage,10000,water_priority,Maryland,1,1,1,0,0,0.0,1
+higher_100,mdd,0.1,storage,10000,water_priority,Massachusetts,13,13,7,6,0,0.0,13
+higher_100,mdd,0.1,storage,10000,water_priority,Michigan,6,6,6,0,0,0.0,6
+higher_100,mdd,0.1,storage,10000,water_priority,Minnesota,10,10,10,0,0,0.0,10
+higher_100,mdd,0.1,storage,10000,water_priority,Missouri,12,12,12,0,0,0.0,12
+higher_100,mdd,0.1,storage,10000,water_priority,Montana,7,7,7,0,0,0.0,7
+higher_100,mdd,0.1,storage,10000,water_priority,Nebraska,49,49,31,18,0,0.0,49
+higher_100,mdd,0.1,storage,10000,water_priority,Nevada,42,42,42,0,0,0.0,42
+higher_100,mdd,0.1,storage,10000,water_priority,New Jersey,50,50,33,17,0,0.0,50
+higher_100,mdd,0.1,storage,10000,water_priority,New Mexico,5,3,2,1,2,72.0,2
+higher_100,mdd,0.1,storage,10000,water_priority,New York,50,50,28,22,0,0.0,37
+higher_100,mdd,0.1,storage,10000,water_priority,North Carolina,33,19,7,12,14,504.0,33
+higher_100,mdd,0.1,storage,10000,water_priority,North Dakota,48,27,21,6,21,756.0,48
+higher_100,mdd,0.1,storage,10000,water_priority,Ohio,29,29,29,0,0,0.0,29
+higher_100,mdd,0.1,storage,10000,water_priority,Oklahoma,15,7,5,2,8,288.0,15
+higher_100,mdd,0.1,storage,10000,water_priority,Oregon,79,79,54,25,0,0.0,79
+higher_100,mdd,0.1,storage,10000,water_priority,Pennsylvania,56,49,4,45,7,252.0,56
+higher_100,mdd,0.1,storage,10000,water_priority,South Carolina,25,25,23,2,0,0.0,25
+higher_100,mdd,0.1,storage,10000,water_priority,Tennessee,16,16,3,13,0,0.0,16
+higher_100,mdd,0.1,storage,10000,water_priority,Texas,270,270,180,90,0,0.0,270
+higher_100,mdd,0.1,storage,10000,water_priority,Utah,31,31,21,10,0,0.0,31
+higher_100,mdd,0.1,storage,10000,water_priority,Virginia,420,234,109,125,186,6696.0,350
+higher_100,mdd,0.1,storage,10000,water_priority,Washington,64,18,0,18,46,1656.0,0
+higher_100,mdd,0.1,storage,10000,water_priority,Wisconsin,1,1,1,0,0,0.0,1
+higher_100,mdd,0.1,storage,10000,water_priority,Wyoming,23,23,19,4,0,0.0,23
+higher_100,mdd,0.25,no_storage,10000,water_priority,Alabama,18,18,15,3,0,0.0,15
+higher_100,mdd,0.25,no_storage,10000,water_priority,Arizona,77,77,77,0,0,0.0,77
+higher_100,mdd,0.25,no_storage,10000,water_priority,California,115,115,105,10,0,0.0,115
+higher_100,mdd,0.25,no_storage,10000,water_priority,Colorado,18,18,18,0,0,0.0,18
+higher_100,mdd,0.25,no_storage,10000,water_priority,Connecticut,3,3,3,0,0,0.0,3
+higher_100,mdd,0.25,no_storage,10000,water_priority,Florida,17,17,17,0,0,0.0,17
+higher_100,mdd,0.25,no_storage,10000,water_priority,Georgia,76,76,44,32,0,0.0,44
+higher_100,mdd,0.25,no_storage,10000,water_priority,Idaho,1,1,1,0,0,0.0,1
+higher_100,mdd,0.25,no_storage,10000,water_priority,Illinois,92,92,56,36,0,0.0,92
+higher_100,mdd,0.25,no_storage,10000,water_priority,Indiana,2,2,2,0,0,0.0,2
+higher_100,mdd,0.25,no_storage,10000,water_priority,Iowa,76,76,58,18,0,0.0,76
+higher_100,mdd,0.25,no_storage,10000,water_priority,Kentucky,20,20,18,2,0,0.0,20
+higher_100,mdd,0.25,no_storage,10000,water_priority,Maryland,1,1,1,0,0,0.0,1
+higher_100,mdd,0.25,no_storage,10000,water_priority,Massachusetts,13,13,7,6,0,0.0,13
+higher_100,mdd,0.25,no_storage,10000,water_priority,Michigan,6,6,6,0,0,0.0,6
+higher_100,mdd,0.25,no_storage,10000,water_priority,Minnesota,10,10,10,0,0,0.0,10
+higher_100,mdd,0.25,no_storage,10000,water_priority,Missouri,12,12,12,0,0,0.0,12
+higher_100,mdd,0.25,no_storage,10000,water_priority,Montana,7,7,7,0,0,0.0,7
+higher_100,mdd,0.25,no_storage,10000,water_priority,Nebraska,49,49,31,18,0,0.0,49
+higher_100,mdd,0.25,no_storage,10000,water_priority,Nevada,42,42,42,0,0,0.0,42
+higher_100,mdd,0.25,no_storage,10000,water_priority,New Jersey,50,50,33,17,0,0.0,50
+higher_100,mdd,0.25,no_storage,10000,water_priority,New Mexico,5,4,2,2,1,36.0,2
+higher_100,mdd,0.25,no_storage,10000,water_priority,New York,50,50,28,22,0,0.0,37
+higher_100,mdd,0.25,no_storage,10000,water_priority,North Carolina,33,24,9,15,9,324.0,33
+higher_100,mdd,0.25,no_storage,10000,water_priority,North Dakota,48,25,19,6,23,828.0,48
+higher_100,mdd,0.25,no_storage,10000,water_priority,Ohio,29,29,29,0,0,0.0,29
+higher_100,mdd,0.25,no_storage,10000,water_priority,Oklahoma,15,10,8,2,5,180.0,15
+higher_100,mdd,0.25,no_storage,10000,water_priority,Oregon,79,79,48,31,0,0.0,79
+higher_100,mdd,0.25,no_storage,10000,water_priority,Pennsylvania,56,50,4,46,6,216.0,56
+higher_100,mdd,0.25,no_storage,10000,water_priority,South Carolina,25,25,24,1,0,0.0,25
+higher_100,mdd,0.25,no_storage,10000,water_priority,Tennessee,16,16,8,8,0,0.0,16
+higher_100,mdd,0.25,no_storage,10000,water_priority,Texas,270,270,201,69,0,0.0,270
+higher_100,mdd,0.25,no_storage,10000,water_priority,Utah,31,31,18,13,0,0.0,31
+higher_100,mdd,0.25,no_storage,10000,water_priority,Virginia,420,271,117,154,149,5364.0,350
+higher_100,mdd,0.25,no_storage,10000,water_priority,Washington,64,17,0,17,47,1692.0,0
+higher_100,mdd,0.25,no_storage,10000,water_priority,Wisconsin,1,1,1,0,0,0.0,1
+higher_100,mdd,0.25,no_storage,10000,water_priority,Wyoming,23,23,18,5,0,0.0,23
+higher_100,mdd,0.25,storage,10000,water_priority,Alabama,18,18,15,3,0,0.0,15
+higher_100,mdd,0.25,storage,10000,water_priority,Arizona,77,77,77,0,0,0.0,77
+higher_100,mdd,0.25,storage,10000,water_priority,California,115,115,110,5,0,0.0,115
+higher_100,mdd,0.25,storage,10000,water_priority,Colorado,18,18,18,0,0,0.0,18
+higher_100,mdd,0.25,storage,10000,water_priority,Connecticut,3,3,3,0,0,0.0,3
+higher_100,mdd,0.25,storage,10000,water_priority,Florida,17,17,17,0,0,0.0,17
+higher_100,mdd,0.25,storage,10000,water_priority,Georgia,76,76,44,32,0,0.0,44
+higher_100,mdd,0.25,storage,10000,water_priority,Idaho,1,1,1,0,0,0.0,1
+higher_100,mdd,0.25,storage,10000,water_priority,Illinois,92,92,77,15,0,0.0,92
+higher_100,mdd,0.25,storage,10000,water_priority,Indiana,2,2,2,0,0,0.0,2
+higher_100,mdd,0.25,storage,10000,water_priority,Iowa,76,76,76,0,0,0.0,76
+higher_100,mdd,0.25,storage,10000,water_priority,Kentucky,20,20,20,0,0,0.0,20
+higher_100,mdd,0.25,storage,10000,water_priority,Maryland,1,1,1,0,0,0.0,1
+higher_100,mdd,0.25,storage,10000,water_priority,Massachusetts,13,13,13,0,0,0.0,13
+higher_100,mdd,0.25,storage,10000,water_priority,Michigan,6,6,6,0,0,0.0,6
+higher_100,mdd,0.25,storage,10000,water_priority,Minnesota,10,10,10,0,0,0.0,10
+higher_100,mdd,0.25,storage,10000,water_priority,Missouri,12,12,12,0,0,0.0,12
+higher_100,mdd,0.25,storage,10000,water_priority,Montana,7,7,7,0,0,0.0,7
+higher_100,mdd,0.25,storage,10000,water_priority,Nebraska,49,49,37,12,0,0.0,49
+higher_100,mdd,0.25,storage,10000,water_priority,Nevada,42,42,42,0,0,0.0,42
+higher_100,mdd,0.25,storage,10000,water_priority,New Jersey,50,50,41,9,0,0.0,50
+higher_100,mdd,0.25,storage,10000,water_priority,New Mexico,5,5,2,3,0,0.0,2
+higher_100,mdd,0.25,storage,10000,water_priority,New York,50,50,30,20,0,0.0,37
+higher_100,mdd,0.25,storage,10000,water_priority,North Carolina,33,33,16,17,0,0.0,33
+higher_100,mdd,0.25,storage,10000,water_priority,North Dakota,48,48,48,0,0,0.0,48
+higher_100,mdd,0.25,storage,10000,water_priority,Ohio,29,29,29,0,0,0.0,29
+higher_100,mdd,0.25,storage,10000,water_priority,Oklahoma,15,15,14,1,0,0.0,15
+higher_100,mdd,0.25,storage,10000,water_priority,Oregon,79,79,60,19,0,0.0,79
+higher_100,mdd,0.25,storage,10000,water_priority,Pennsylvania,56,56,8,48,0,0.0,56
+higher_100,mdd,0.25,storage,10000,water_priority,South Carolina,25,25,24,1,0,0.0,25
+higher_100,mdd,0.25,storage,10000,water_priority,Tennessee,16,16,16,0,0,0.0,16
+higher_100,mdd,0.25,storage,10000,water_priority,Texas,270,270,225,45,0,0.0,270
+higher_100,mdd,0.25,storage,10000,water_priority,Utah,31,31,31,0,0,0.0,31
+higher_100,mdd,0.25,storage,10000,water_priority,Virginia,420,400,165,235,20,720.0,350
+higher_100,mdd,0.25,storage,10000,water_priority,Washington,64,25,0,25,39,1404.0,0
+higher_100,mdd,0.25,storage,10000,water_priority,Wisconsin,1,1,1,0,0,0.0,1
+higher_100,mdd,0.25,storage,10000,water_priority,Wyoming,23,23,23,0,0,0.0,23
+higher_100,mdd,0.5,no_storage,10000,water_priority,Alabama,18,18,15,3,0,0.0,15
+higher_100,mdd,0.5,no_storage,10000,water_priority,Arizona,77,77,77,0,0,0.0,77
+higher_100,mdd,0.5,no_storage,10000,water_priority,California,115,115,110,5,0,0.0,115
+higher_100,mdd,0.5,no_storage,10000,water_priority,Colorado,18,18,18,0,0,0.0,18
+higher_100,mdd,0.5,no_storage,10000,water_priority,Connecticut,3,3,3,0,0,0.0,3
+higher_100,mdd,0.5,no_storage,10000,water_priority,Florida,17,17,17,0,0,0.0,17
+higher_100,mdd,0.5,no_storage,10000,water_priority,Georgia,76,76,44,32,0,0.0,44
+higher_100,mdd,0.5,no_storage,10000,water_priority,Idaho,1,1,1,0,0,0.0,1
+higher_100,mdd,0.5,no_storage,10000,water_priority,Illinois,92,92,74,18,0,0.0,92
+higher_100,mdd,0.5,no_storage,10000,water_priority,Indiana,2,2,2,0,0,0.0,2
+higher_100,mdd,0.5,no_storage,10000,water_priority,Iowa,76,76,76,0,0,0.0,76
+higher_100,mdd,0.5,no_storage,10000,water_priority,Kentucky,20,20,20,0,0,0.0,20
+higher_100,mdd,0.5,no_storage,10000,water_priority,Maryland,1,1,1,0,0,0.0,1
+higher_100,mdd,0.5,no_storage,10000,water_priority,Massachusetts,13,13,11,2,0,0.0,13
+higher_100,mdd,0.5,no_storage,10000,water_priority,Michigan,6,6,6,0,0,0.0,6
+higher_100,mdd,0.5,no_storage,10000,water_priority,Minnesota,10,10,10,0,0,0.0,10
+higher_100,mdd,0.5,no_storage,10000,water_priority,Missouri,12,12,12,0,0,0.0,12
+higher_100,mdd,0.5,no_storage,10000,water_priority,Montana,7,7,7,0,0,0.0,7
+higher_100,mdd,0.5,no_storage,10000,water_priority,Nebraska,49,49,35,14,0,0.0,49
+higher_100,mdd,0.5,no_storage,10000,water_priority,Nevada,42,42,42,0,0,0.0,42
+higher_100,mdd,0.5,no_storage,10000,water_priority,New Jersey,50,50,40,10,0,0.0,50
+higher_100,mdd,0.5,no_storage,10000,water_priority,New Mexico,5,5,2,3,0,0.0,2
+higher_100,mdd,0.5,no_storage,10000,water_priority,New York,50,50,30,20,0,0.0,37
+higher_100,mdd,0.5,no_storage,10000,water_priority,North Carolina,33,33,18,15,0,0.0,33
+higher_100,mdd,0.5,no_storage,10000,water_priority,North Dakota,48,48,38,10,0,0.0,48
+higher_100,mdd,0.5,no_storage,10000,water_priority,Ohio,29,29,29,0,0,0.0,29
+higher_100,mdd,0.5,no_storage,10000,water_priority,Oklahoma,15,15,15,0,0,0.0,15
+higher_100,mdd,0.5,no_storage,10000,water_priority,Oregon,79,79,57,22,0,0.0,79
+higher_100,mdd,0.5,no_storage,10000,water_priority,Pennsylvania,56,56,7,49,0,0.0,56
+higher_100,mdd,0.5,no_storage,10000,water_priority,South Carolina,25,25,25,0,0,0.0,25
+higher_100,mdd,0.5,no_storage,10000,water_priority,Tennessee,16,16,16,0,0,0.0,16
+higher_100,mdd,0.5,no_storage,10000,water_priority,Texas,270,270,241,29,0,0.0,270
+higher_100,mdd,0.5,no_storage,10000,water_priority,Utah,31,31,31,0,0,0.0,31
+higher_100,mdd,0.5,no_storage,10000,water_priority,Virginia,420,400,162,238,20,720.0,350
+higher_100,mdd,0.5,no_storage,10000,water_priority,Washington,64,25,0,25,39,1404.0,0
+higher_100,mdd,0.5,no_storage,10000,water_priority,Wisconsin,1,1,1,0,0,0.0,1
+higher_100,mdd,0.5,no_storage,10000,water_priority,Wyoming,23,23,21,2,0,0.0,23
+higher_100,mdd,0.5,storage,10000,water_priority,Alabama,18,18,15,3,0,0.0,15
+higher_100,mdd,0.5,storage,10000,water_priority,Arizona,77,77,77,0,0,0.0,77
+higher_100,mdd,0.5,storage,10000,water_priority,California,115,115,115,0,0,0.0,115
+higher_100,mdd,0.5,storage,10000,water_priority,Colorado,18,18,18,0,0,0.0,18
+higher_100,mdd,0.5,storage,10000,water_priority,Connecticut,3,3,3,0,0,0.0,3
+higher_100,mdd,0.5,storage,10000,water_priority,Florida,17,17,17,0,0,0.0,17
+higher_100,mdd,0.5,storage,10000,water_priority,Georgia,76,76,44,32,0,0.0,44
+higher_100,mdd,0.5,storage,10000,water_priority,Idaho,1,1,1,0,0,0.0,1
+higher_100,mdd,0.5,storage,10000,water_priority,Illinois,92,92,89,3,0,0.0,92
+higher_100,mdd,0.5,storage,10000,water_priority,Indiana,2,2,2,0,0,0.0,2
+higher_100,mdd,0.5,storage,10000,water_priority,Iowa,76,76,76,0,0,0.0,76
+higher_100,mdd,0.5,storage,10000,water_priority,Kentucky,20,20,20,0,0,0.0,20
+higher_100,mdd,0.5,storage,10000,water_priority,Maryland,1,1,1,0,0,0.0,1
+higher_100,mdd,0.5,storage,10000,water_priority,Massachusetts,13,13,13,0,0,0.0,13
+higher_100,mdd,0.5,storage,10000,water_priority,Michigan,6,6,6,0,0,0.0,6
+higher_100,mdd,0.5,storage,10000,water_priority,Minnesota,10,10,10,0,0,0.0,10
+higher_100,mdd,0.5,storage,10000,water_priority,Missouri,12,12,12,0,0,0.0,12
+higher_100,mdd,0.5,storage,10000,water_priority,Montana,7,7,7,0,0,0.0,7
+higher_100,mdd,0.5,storage,10000,water_priority,Nebraska,49,49,47,2,0,0.0,49
+higher_100,mdd,0.5,storage,10000,water_priority,Nevada,42,42,42,0,0,0.0,42
+higher_100,mdd,0.5,storage,10000,water_priority,New Jersey,50,50,50,0,0,0.0,50
+higher_100,mdd,0.5,storage,10000,water_priority,New Mexico,5,5,2,3,0,0.0,2
+higher_100,mdd,0.5,storage,10000,water_priority,New York,50,50,34,16,0,0.0,37
+higher_100,mdd,0.5,storage,10000,water_priority,North Carolina,33,33,28,5,0,0.0,33
+higher_100,mdd,0.5,storage,10000,water_priority,North Dakota,48,48,48,0,0,0.0,48
+higher_100,mdd,0.5,storage,10000,water_priority,Ohio,29,29,29,0,0,0.0,29
+higher_100,mdd,0.5,storage,10000,water_priority,Oklahoma,15,15,15,0,0,0.0,15
+higher_100,mdd,0.5,storage,10000,water_priority,Oregon,79,79,67,12,0,0.0,79
+higher_100,mdd,0.5,storage,10000,water_priority,Pennsylvania,56,56,14,42,0,0.0,56
+higher_100,mdd,0.5,storage,10000,water_priority,South Carolina,25,25,25,0,0,0.0,25
+higher_100,mdd,0.5,storage,10000,water_priority,Tennessee,16,16,16,0,0,0.0,16
+higher_100,mdd,0.5,storage,10000,water_priority,Texas,270,270,260,10,0,0.0,270
+higher_100,mdd,0.5,storage,10000,water_priority,Utah,31,31,31,0,0,0.0,31
+higher_100,mdd,0.5,storage,10000,water_priority,Virginia,420,420,219,201,0,0.0,350
+higher_100,mdd,0.5,storage,10000,water_priority,Washington,64,25,0,25,39,1404.0,0
+higher_100,mdd,0.5,storage,10000,water_priority,Wisconsin,1,1,1,0,0,0.0,1
+higher_100,mdd,0.5,storage,10000,water_priority,Wyoming,23,23,23,0,0,0.0,23
+higher_100,avg,0.25,no_storage,10000,water_priority,Alabama,18,18,15,3,0,0.0,15
+higher_100,avg,0.25,no_storage,10000,water_priority,Arizona,77,77,62,15,0,0.0,77
+higher_100,avg,0.25,no_storage,10000,water_priority,California,115,115,93,22,0,0.0,115
+higher_100,avg,0.25,no_storage,10000,water_priority,Colorado,18,18,17,1,0,0.0,18
+higher_100,avg,0.25,no_storage,10000,water_priority,Connecticut,3,3,2,1,0,0.0,3
+higher_100,avg,0.25,no_storage,10000,water_priority,Florida,17,17,17,0,0,0.0,17
+higher_100,avg,0.25,no_storage,10000,water_priority,Georgia,76,76,43,33,0,0.0,44
+higher_100,avg,0.25,no_storage,10000,water_priority,Idaho,1,1,1,0,0,0.0,1
+higher_100,avg,0.25,no_storage,10000,water_priority,Illinois,92,92,39,53,0,0.0,92
+higher_100,avg,0.25,no_storage,10000,water_priority,Indiana,2,2,2,0,0,0.0,2
+higher_100,avg,0.25,no_storage,10000,water_priority,Iowa,76,54,30,24,22,792.0,76
+higher_100,avg,0.25,no_storage,10000,water_priority,Kentucky,20,20,16,4,0,0.0,20
+higher_100,avg,0.25,no_storage,10000,water_priority,Maryland,1,1,1,0,0,0.0,1
+higher_100,avg,0.25,no_storage,10000,water_priority,Massachusetts,13,10,4,6,3,108.0,13
+higher_100,avg,0.25,no_storage,10000,water_priority,Michigan,6,6,6,0,0,0.0,6
+higher_100,avg,0.25,no_storage,10000,water_priority,Minnesota,10,10,8,2,0,0.0,10
+higher_100,avg,0.25,no_storage,10000,water_priority,Missouri,12,12,12,0,0,0.0,12
+higher_100,avg,0.25,no_storage,10000,water_priority,Montana,7,7,7,0,0,0.0,7
+higher_100,avg,0.25,no_storage,10000,water_priority,Nebraska,49,49,29,20,0,0.0,49
+higher_100,avg,0.25,no_storage,10000,water_priority,Nevada,42,42,42,0,0,0.0,42
+higher_100,avg,0.25,no_storage,10000,water_priority,New Jersey,50,50,26,24,0,0.0,50
+higher_100,avg,0.25,no_storage,10000,water_priority,New Mexico,5,3,2,1,2,72.0,2
+higher_100,avg,0.25,no_storage,10000,water_priority,New York,50,50,23,27,0,0.0,37
+higher_100,avg,0.25,no_storage,10000,water_priority,North Carolina,33,12,4,8,21,756.0,33
+higher_100,avg,0.25,no_storage,10000,water_priority,North Dakota,48,11,9,2,37,1332.0,48
+higher_100,avg,0.25,no_storage,10000,water_priority,Ohio,29,29,29,0,0,0.0,29
+higher_100,avg,0.25,no_storage,10000,water_priority,Oklahoma,15,5,4,1,10,360.0,15
+higher_100,avg,0.25,no_storage,10000,water_priority,Oregon,79,57,34,23,22,792.0,79
+higher_100,avg,0.25,no_storage,10000,water_priority,Pennsylvania,56,32,3,29,24,864.0,56
+higher_100,avg,0.25,no_storage,10000,water_priority,South Carolina,25,25,21,4,0,0.0,25
+higher_100,avg,0.25,no_storage,10000,water_priority,Tennessee,16,13,0,13,3,108.0,16
+higher_100,avg,0.25,no_storage,10000,water_priority,Texas,270,270,166,104,0,0.0,270
+higher_100,avg,0.25,no_storage,10000,water_priority,Utah,31,31,8,23,0,0.0,31
+higher_100,avg,0.25,no_storage,10000,water_priority,Virginia,420,177,93,84,243,8748.0,350
+higher_100,avg,0.25,no_storage,10000,water_priority,Washington,64,6,0,6,58,2088.0,0
+higher_100,avg,0.25,no_storage,10000,water_priority,Wisconsin,1,1,0,1,0,0.0,1
+higher_100,avg,0.25,no_storage,10000,water_priority,Wyoming,23,19,8,11,4,144.0,23
+higher_100,avg,0.25,storage,10000,water_priority,Alabama,18,18,15,3,0,0.0,15
+higher_100,avg,0.25,storage,10000,water_priority,Arizona,77,77,77,0,0,0.0,77
+higher_100,avg,0.25,storage,10000,water_priority,California,115,115,105,10,0,0.0,115
+higher_100,avg,0.25,storage,10000,water_priority,Colorado,18,18,18,0,0,0.0,18
+higher_100,avg,0.25,storage,10000,water_priority,Connecticut,3,3,3,0,0,0.0,3
+higher_100,avg,0.25,storage,10000,water_priority,Florida,17,17,17,0,0,0.0,17
+higher_100,avg,0.25,storage,10000,water_priority,Georgia,76,76,43,33,0,0.0,44
+higher_100,avg,0.25,storage,10000,water_priority,Idaho,1,1,1,0,0,0.0,1
+higher_100,avg,0.25,storage,10000,water_priority,Illinois,92,92,60,32,0,0.0,92
+higher_100,avg,0.25,storage,10000,water_priority,Indiana,2,2,2,0,0,0.0,2
+higher_100,avg,0.25,storage,10000,water_priority,Iowa,76,76,72,4,0,0.0,76
+higher_100,avg,0.25,storage,10000,water_priority,Kentucky,20,20,17,3,0,0.0,20
+higher_100,avg,0.25,storage,10000,water_priority,Maryland,1,1,1,0,0,0.0,1
+higher_100,avg,0.25,storage,10000,water_priority,Massachusetts,13,13,7,6,0,0.0,13
+higher_100,avg,0.25,storage,10000,water_priority,Michigan,6,6,6,0,0,0.0,6
+higher_100,avg,0.25,storage,10000,water_priority,Minnesota,10,10,10,0,0,0.0,10
+higher_100,avg,0.25,storage,10000,water_priority,Missouri,12,12,12,0,0,0.0,12
+higher_100,avg,0.25,storage,10000,water_priority,Montana,7,7,7,0,0,0.0,7
+higher_100,avg,0.25,storage,10000,water_priority,Nebraska,49,49,32,17,0,0.0,49
+higher_100,avg,0.25,storage,10000,water_priority,Nevada,42,42,42,0,0,0.0,42
+higher_100,avg,0.25,storage,10000,water_priority,New Jersey,50,50,35,15,0,0.0,50
+higher_100,avg,0.25,storage,10000,water_priority,New Mexico,5,4,2,2,1,36.0,2
+higher_100,avg,0.25,storage,10000,water_priority,New York,50,50,29,21,0,0.0,37
+higher_100,avg,0.25,storage,10000,water_priority,North Carolina,33,22,9,13,11,396.0,33
+higher_100,avg,0.25,storage,10000,water_priority,North Dakota,48,33,26,7,15,540.0,48
+higher_100,avg,0.25,storage,10000,water_priority,Ohio,29,29,29,0,0,0.0,29
+higher_100,avg,0.25,storage,10000,water_priority,Oklahoma,15,11,8,3,4,144.0,15
+higher_100,avg,0.25,storage,10000,water_priority,Oregon,79,79,55,24,0,0.0,79
+higher_100,avg,0.25,storage,10000,water_priority,Pennsylvania,56,56,4,52,0,0.0,56
+higher_100,avg,0.25,storage,10000,water_priority,South Carolina,25,25,24,1,0,0.0,25
+higher_100,avg,0.25,storage,10000,water_priority,Tennessee,16,16,10,6,0,0.0,16
+higher_100,avg,0.25,storage,10000,water_priority,Texas,270,270,184,86,0,0.0,270
+higher_100,avg,0.25,storage,10000,water_priority,Utah,31,31,23,8,0,0.0,31
+higher_100,avg,0.25,storage,10000,water_priority,Virginia,420,287,129,158,133,4788.0,350
+higher_100,avg,0.25,storage,10000,water_priority,Washington,64,17,0,17,47,1692.0,0
+higher_100,avg,0.25,storage,10000,water_priority,Wisconsin,1,1,1,0,0,0.0,1
+higher_100,avg,0.25,storage,10000,water_priority,Wyoming,23,23,19,4,0,0.0,23
+higher_25,mdd,0.1,no_storage,10000,water_priority,Alabama,18,18,15,3,0,0.0,15
+higher_25,mdd,0.1,no_storage,10000,water_priority,Arizona,77,77,14,63,0,0.0,37
+higher_25,mdd,0.1,no_storage,10000,water_priority,California,115,115,91,24,0,0.0,115
+higher_25,mdd,0.1,no_storage,10000,water_priority,Colorado,18,18,18,0,0,0.0,18
+higher_25,mdd,0.1,no_storage,10000,water_priority,Connecticut,3,3,1,2,0,0.0,2
+higher_25,mdd,0.1,no_storage,10000,water_priority,Florida,17,17,14,3,0,0.0,17
+higher_25,mdd,0.1,no_storage,10000,water_priority,Georgia,76,76,52,24,0,0.0,71
+higher_25,mdd,0.1,no_storage,10000,water_priority,Idaho,1,1,1,0,0,0.0,1
+higher_25,mdd,0.1,no_storage,10000,water_priority,Illinois,92,77,28,49,15,540.0,78
+higher_25,mdd,0.1,no_storage,10000,water_priority,Indiana,2,2,0,2,0,0.0,2
+higher_25,mdd,0.1,no_storage,10000,water_priority,Iowa,76,43,37,6,33,1188.0,53
+higher_25,mdd,0.1,no_storage,10000,water_priority,Kentucky,20,17,4,13,3,108.0,6
+higher_25,mdd,0.1,no_storage,10000,water_priority,Maryland,1,1,1,0,0,0.0,1
+higher_25,mdd,0.1,no_storage,10000,water_priority,Massachusetts,13,8,5,3,5,180.0,13
+higher_25,mdd,0.1,no_storage,10000,water_priority,Michigan,6,6,6,0,0,0.0,6
+higher_25,mdd,0.1,no_storage,10000,water_priority,Minnesota,10,10,0,10,0,0.0,8
+higher_25,mdd,0.1,no_storage,10000,water_priority,Missouri,12,12,11,1,0,0.0,11
+higher_25,mdd,0.1,no_storage,10000,water_priority,Montana,7,7,3,4,0,0.0,3
+higher_25,mdd,0.1,no_storage,10000,water_priority,Nebraska,49,49,39,10,0,0.0,46
+higher_25,mdd,0.1,no_storage,10000,water_priority,Nevada,42,42,35,7,0,0.0,40
+higher_25,mdd,0.1,no_storage,10000,water_priority,New Jersey,50,50,22,28,0,0.0,37
+higher_25,mdd,0.1,no_storage,10000,water_priority,New Mexico,5,2,2,0,3,108.0,2
+higher_25,mdd,0.1,no_storage,10000,water_priority,New York,50,38,12,26,12,432.0,30
+higher_25,mdd,0.1,no_storage,10000,water_priority,North Carolina,33,10,5,5,23,828.0,26
+higher_25,mdd,0.1,no_storage,10000,water_priority,North Dakota,48,9,3,6,39,1404.0,10
+higher_25,mdd,0.1,no_storage,10000,water_priority,Ohio,29,29,8,21,0,0.0,20
+higher_25,mdd,0.1,no_storage,10000,water_priority,Oklahoma,15,4,3,1,11,396.0,6
+higher_25,mdd,0.1,no_storage,10000,water_priority,Oregon,79,53,25,28,26,936.0,66
+higher_25,mdd,0.1,no_storage,10000,water_priority,Pennsylvania,56,26,6,20,30,1080.0,51
+higher_25,mdd,0.1,no_storage,10000,water_priority,South Carolina,25,25,18,7,0,0.0,25
+higher_25,mdd,0.1,no_storage,10000,water_priority,Tennessee,16,11,7,4,5,180.0,16
+higher_25,mdd,0.1,no_storage,10000,water_priority,Texas,270,270,159,111,0,0.0,270
+higher_25,mdd,0.1,no_storage,10000,water_priority,Utah,31,31,22,9,0,0.0,31
+higher_25,mdd,0.1,no_storage,10000,water_priority,Virginia,420,150,83,67,270,9720.0,289
+higher_25,mdd,0.1,no_storage,10000,water_priority,Washington,64,6,6,0,58,2088.0,13
+higher_25,mdd,0.1,no_storage,10000,water_priority,Wisconsin,1,1,1,0,0,0.0,1
+higher_25,mdd,0.1,no_storage,10000,water_priority,Wyoming,23,17,6,11,6,216.0,8
+higher_25,mdd,0.1,storage,10000,water_priority,Alabama,18,18,15,3,0,0.0,15
+higher_25,mdd,0.1,storage,10000,water_priority,Arizona,77,77,19,58,0,0.0,37
+higher_25,mdd,0.1,storage,10000,water_priority,California,115,115,98,17,0,0.0,115
+higher_25,mdd,0.1,storage,10000,water_priority,Colorado,18,18,18,0,0,0.0,18
+higher_25,mdd,0.1,storage,10000,water_priority,Connecticut,3,3,2,1,0,0.0,2
+higher_25,mdd,0.1,storage,10000,water_priority,Florida,17,17,15,2,0,0.0,17
+higher_25,mdd,0.1,storage,10000,water_priority,Georgia,76,76,56,20,0,0.0,71
+higher_25,mdd,0.1,storage,10000,water_priority,Idaho,1,1,1,0,0,0.0,1
+higher_25,mdd,0.1,storage,10000,water_priority,Illinois,92,92,55,37,0,0.0,78
+higher_25,mdd,0.1,storage,10000,water_priority,Indiana,2,2,2,0,0,0.0,2
+higher_25,mdd,0.1,storage,10000,water_priority,Iowa,76,76,49,27,0,0.0,53
+higher_25,mdd,0.1,storage,10000,water_priority,Kentucky,20,20,6,14,0,0.0,6
+higher_25,mdd,0.1,storage,10000,water_priority,Maryland,1,1,1,0,0,0.0,1
+higher_25,mdd,0.1,storage,10000,water_priority,Massachusetts,13,13,10,3,0,0.0,13
+higher_25,mdd,0.1,storage,10000,water_priority,Michigan,6,6,6,0,0,0.0,6
+higher_25,mdd,0.1,storage,10000,water_priority,Minnesota,10,10,2,8,0,0.0,8
+higher_25,mdd,0.1,storage,10000,water_priority,Missouri,12,12,11,1,0,0.0,11
+higher_25,mdd,0.1,storage,10000,water_priority,Montana,7,7,3,4,0,0.0,3
+higher_25,mdd,0.1,storage,10000,water_priority,Nebraska,49,49,42,7,0,0.0,46
+higher_25,mdd,0.1,storage,10000,water_priority,Nevada,42,42,40,2,0,0.0,40
+higher_25,mdd,0.1,storage,10000,water_priority,New Jersey,50,50,31,19,0,0.0,37
+higher_25,mdd,0.1,storage,10000,water_priority,New Mexico,5,3,2,1,2,72.0,2
+higher_25,mdd,0.1,storage,10000,water_priority,New York,50,50,16,34,0,0.0,30
+higher_25,mdd,0.1,storage,10000,water_priority,North Carolina,33,19,11,8,14,504.0,26
+higher_25,mdd,0.1,storage,10000,water_priority,North Dakota,48,27,6,21,21,756.0,10
+higher_25,mdd,0.1,storage,10000,water_priority,Ohio,29,29,15,14,0,0.0,20
+higher_25,mdd,0.1,storage,10000,water_priority,Oklahoma,15,7,5,2,8,288.0,6
+higher_25,mdd,0.1,storage,10000,water_priority,Oregon,79,79,46,33,0,0.0,66
+higher_25,mdd,0.1,storage,10000,water_priority,Pennsylvania,56,49,14,35,7,252.0,51
+higher_25,mdd,0.1,storage,10000,water_priority,South Carolina,25,25,23,2,0,0.0,25
+higher_25,mdd,0.1,storage,10000,water_priority,Tennessee,16,16,11,5,0,0.0,16
+higher_25,mdd,0.1,storage,10000,water_priority,Texas,270,270,181,89,0,0.0,270
+higher_25,mdd,0.1,storage,10000,water_priority,Utah,31,31,31,0,0,0.0,31
+higher_25,mdd,0.1,storage,10000,water_priority,Virginia,420,234,138,96,186,6696.0,289
+higher_25,mdd,0.1,storage,10000,water_priority,Washington,64,18,13,5,46,1656.0,13
+higher_25,mdd,0.1,storage,10000,water_priority,Wisconsin,1,1,1,0,0,0.0,1
+higher_25,mdd,0.1,storage,10000,water_priority,Wyoming,23,23,8,15,0,0.0,8
+higher_25,mdd,0.25,no_storage,10000,water_priority,Alabama,18,18,15,3,0,0.0,15
+higher_25,mdd,0.25,no_storage,10000,water_priority,Arizona,77,77,26,51,0,0.0,37
+higher_25,mdd,0.25,no_storage,10000,water_priority,California,115,115,99,16,0,0.0,115
+higher_25,mdd,0.25,no_storage,10000,water_priority,Colorado,18,18,18,0,0,0.0,18
+higher_25,mdd,0.25,no_storage,10000,water_priority,Connecticut,3,3,2,1,0,0.0,2
+higher_25,mdd,0.25,no_storage,10000,water_priority,Florida,17,17,16,1,0,0.0,17
+higher_25,mdd,0.25,no_storage,10000,water_priority,Georgia,76,76,62,14,0,0.0,71
+higher_25,mdd,0.25,no_storage,10000,water_priority,Idaho,1,1,1,0,0,0.0,1
+higher_25,mdd,0.25,no_storage,10000,water_priority,Illinois,92,92,57,35,0,0.0,78
+higher_25,mdd,0.25,no_storage,10000,water_priority,Indiana,2,2,2,0,0,0.0,2
+higher_25,mdd,0.25,no_storage,10000,water_priority,Iowa,76,76,49,27,0,0.0,53
+higher_25,mdd,0.25,no_storage,10000,water_priority,Kentucky,20,20,6,14,0,0.0,6
+higher_25,mdd,0.25,no_storage,10000,water_priority,Maryland,1,1,1,0,0,0.0,1
+higher_25,mdd,0.25,no_storage,10000,water_priority,Massachusetts,13,13,10,3,0,0.0,13
+higher_25,mdd,0.25,no_storage,10000,water_priority,Michigan,6,6,6,0,0,0.0,6
+higher_25,mdd,0.25,no_storage,10000,water_priority,Minnesota,10,10,1,9,0,0.0,8
+higher_25,mdd,0.25,no_storage,10000,water_priority,Missouri,12,12,11,1,0,0.0,11
+higher_25,mdd,0.25,no_storage,10000,water_priority,Montana,7,7,3,4,0,0.0,3
+higher_25,mdd,0.25,no_storage,10000,water_priority,Nebraska,49,49,42,7,0,0.0,46
+higher_25,mdd,0.25,no_storage,10000,water_priority,Nevada,42,42,40,2,0,0.0,40
+higher_25,mdd,0.25,no_storage,10000,water_priority,New Jersey,50,50,31,19,0,0.0,37
+higher_25,mdd,0.25,no_storage,10000,water_priority,New Mexico,5,4,2,2,1,36.0,2
+higher_25,mdd,0.25,no_storage,10000,water_priority,New York,50,50,16,34,0,0.0,30
+higher_25,mdd,0.25,no_storage,10000,water_priority,North Carolina,33,24,13,11,9,324.0,26
+higher_25,mdd,0.25,no_storage,10000,water_priority,North Dakota,48,25,6,19,23,828.0,10
+higher_25,mdd,0.25,no_storage,10000,water_priority,Ohio,29,29,18,11,0,0.0,20
+higher_25,mdd,0.25,no_storage,10000,water_priority,Oklahoma,15,10,6,4,5,180.0,6
+higher_25,mdd,0.25,no_storage,10000,water_priority,Oregon,79,79,43,36,0,0.0,66
+higher_25,mdd,0.25,no_storage,10000,water_priority,Pennsylvania,56,50,15,35,6,216.0,51
+higher_25,mdd,0.25,no_storage,10000,water_priority,South Carolina,25,25,24,1,0,0.0,25
+higher_25,mdd,0.25,no_storage,10000,water_priority,Tennessee,16,16,14,2,0,0.0,16
+higher_25,mdd,0.25,no_storage,10000,water_priority,Texas,270,270,202,68,0,0.0,270
+higher_25,mdd,0.25,no_storage,10000,water_priority,Utah,31,31,31,0,0,0.0,31
+higher_25,mdd,0.25,no_storage,10000,water_priority,Virginia,420,271,160,111,149,5364.0,289
+higher_25,mdd,0.25,no_storage,10000,water_priority,Washington,64,17,12,5,47,1692.0,13
+higher_25,mdd,0.25,no_storage,10000,water_priority,Wisconsin,1,1,1,0,0,0.0,1
+higher_25,mdd,0.25,no_storage,10000,water_priority,Wyoming,23,23,8,15,0,0.0,8
+higher_25,mdd,0.25,storage,10000,water_priority,Alabama,18,18,15,3,0,0.0,15
+higher_25,mdd,0.25,storage,10000,water_priority,Arizona,77,77,30,47,0,0.0,37
+higher_25,mdd,0.25,storage,10000,water_priority,California,115,115,105,10,0,0.0,115
+higher_25,mdd,0.25,storage,10000,water_priority,Colorado,18,18,18,0,0,0.0,18
+higher_25,mdd,0.25,storage,10000,water_priority,Connecticut,3,3,2,1,0,0.0,2
+higher_25,mdd,0.25,storage,10000,water_priority,Florida,17,17,16,1,0,0.0,17
+higher_25,mdd,0.25,storage,10000,water_priority,Georgia,76,76,71,5,0,0.0,71
+higher_25,mdd,0.25,storage,10000,water_priority,Idaho,1,1,1,0,0,0.0,1
+higher_25,mdd,0.25,storage,10000,water_priority,Illinois,92,92,76,16,0,0.0,78
+higher_25,mdd,0.25,storage,10000,water_priority,Indiana,2,2,2,0,0,0.0,2
+higher_25,mdd,0.25,storage,10000,water_priority,Iowa,76,76,52,24,0,0.0,53
+higher_25,mdd,0.25,storage,10000,water_priority,Kentucky,20,20,6,14,0,0.0,6
+higher_25,mdd,0.25,storage,10000,water_priority,Maryland,1,1,1,0,0,0.0,1
+higher_25,mdd,0.25,storage,10000,water_priority,Massachusetts,13,13,12,1,0,0.0,13
+higher_25,mdd,0.25,storage,10000,water_priority,Michigan,6,6,6,0,0,0.0,6
+higher_25,mdd,0.25,storage,10000,water_priority,Minnesota,10,10,5,5,0,0.0,8
+higher_25,mdd,0.25,storage,10000,water_priority,Missouri,12,12,11,1,0,0.0,11
+higher_25,mdd,0.25,storage,10000,water_priority,Montana,7,7,3,4,0,0.0,3
+higher_25,mdd,0.25,storage,10000,water_priority,Nebraska,49,49,46,3,0,0.0,46
+higher_25,mdd,0.25,storage,10000,water_priority,Nevada,42,42,40,2,0,0.0,40
+higher_25,mdd,0.25,storage,10000,water_priority,New Jersey,50,50,37,13,0,0.0,37
+higher_25,mdd,0.25,storage,10000,water_priority,New Mexico,5,5,2,3,0,0.0,2
+higher_25,mdd,0.25,storage,10000,water_priority,New York,50,50,22,28,0,0.0,30
+higher_25,mdd,0.25,storage,10000,water_priority,North Carolina,33,33,18,15,0,0.0,26
+higher_25,mdd,0.25,storage,10000,water_priority,North Dakota,48,48,10,38,0,0.0,10
+higher_25,mdd,0.25,storage,10000,water_priority,Ohio,29,29,20,9,0,0.0,20
+higher_25,mdd,0.25,storage,10000,water_priority,Oklahoma,15,15,6,9,0,0.0,6
+higher_25,mdd,0.25,storage,10000,water_priority,Oregon,79,79,63,16,0,0.0,66
+higher_25,mdd,0.25,storage,10000,water_priority,Pennsylvania,56,56,30,26,0,0.0,51
+higher_25,mdd,0.25,storage,10000,water_priority,South Carolina,25,25,24,1,0,0.0,25
+higher_25,mdd,0.25,storage,10000,water_priority,Tennessee,16,16,16,0,0,0.0,16
+higher_25,mdd,0.25,storage,10000,water_priority,Texas,270,270,226,44,0,0.0,270
+higher_25,mdd,0.25,storage,10000,water_priority,Utah,31,31,31,0,0,0.0,31
+higher_25,mdd,0.25,storage,10000,water_priority,Virginia,420,400,227,173,20,720.0,289
+higher_25,mdd,0.25,storage,10000,water_priority,Washington,64,25,13,12,39,1404.0,13
+higher_25,mdd,0.25,storage,10000,water_priority,Wisconsin,1,1,1,0,0,0.0,1
+higher_25,mdd,0.25,storage,10000,water_priority,Wyoming,23,23,8,15,0,0.0,8
+higher_25,mdd,0.5,no_storage,10000,water_priority,Alabama,18,18,15,3,0,0.0,15
+higher_25,mdd,0.5,no_storage,10000,water_priority,Arizona,77,77,32,45,0,0.0,37
+higher_25,mdd,0.5,no_storage,10000,water_priority,California,115,115,105,10,0,0.0,115
+higher_25,mdd,0.5,no_storage,10000,water_priority,Colorado,18,18,18,0,0,0.0,18
+higher_25,mdd,0.5,no_storage,10000,water_priority,Connecticut,3,3,2,1,0,0.0,2
+higher_25,mdd,0.5,no_storage,10000,water_priority,Florida,17,17,17,0,0,0.0,17
+higher_25,mdd,0.5,no_storage,10000,water_priority,Georgia,76,76,71,5,0,0.0,71
+higher_25,mdd,0.5,no_storage,10000,water_priority,Idaho,1,1,1,0,0,0.0,1
+higher_25,mdd,0.5,no_storage,10000,water_priority,Illinois,92,92,74,18,0,0.0,78
+higher_25,mdd,0.5,no_storage,10000,water_priority,Indiana,2,2,2,0,0,0.0,2
+higher_25,mdd,0.5,no_storage,10000,water_priority,Iowa,76,76,51,25,0,0.0,53
+higher_25,mdd,0.5,no_storage,10000,water_priority,Kentucky,20,20,6,14,0,0.0,6
+higher_25,mdd,0.5,no_storage,10000,water_priority,Maryland,1,1,1,0,0,0.0,1
+higher_25,mdd,0.5,no_storage,10000,water_priority,Massachusetts,13,13,11,2,0,0.0,13
+higher_25,mdd,0.5,no_storage,10000,water_priority,Michigan,6,6,6,0,0,0.0,6
+higher_25,mdd,0.5,no_storage,10000,water_priority,Minnesota,10,10,3,7,0,0.0,8
+higher_25,mdd,0.5,no_storage,10000,water_priority,Missouri,12,12,11,1,0,0.0,11
+higher_25,mdd,0.5,no_storage,10000,water_priority,Montana,7,7,3,4,0,0.0,3
+higher_25,mdd,0.5,no_storage,10000,water_priority,Nebraska,49,49,46,3,0,0.0,46
+higher_25,mdd,0.5,no_storage,10000,water_priority,Nevada,42,42,40,2,0,0.0,40
+higher_25,mdd,0.5,no_storage,10000,water_priority,New Jersey,50,50,36,14,0,0.0,37
+higher_25,mdd,0.5,no_storage,10000,water_priority,New Mexico,5,5,2,3,0,0.0,2
+higher_25,mdd,0.5,no_storage,10000,water_priority,New York,50,50,20,30,0,0.0,30
+higher_25,mdd,0.5,no_storage,10000,water_priority,North Carolina,33,33,19,14,0,0.0,26
+higher_25,mdd,0.5,no_storage,10000,water_priority,North Dakota,48,48,10,38,0,0.0,10
+higher_25,mdd,0.5,no_storage,10000,water_priority,Ohio,29,29,20,9,0,0.0,20
+higher_25,mdd,0.5,no_storage,10000,water_priority,Oklahoma,15,15,6,9,0,0.0,6
+higher_25,mdd,0.5,no_storage,10000,water_priority,Oregon,79,79,55,24,0,0.0,66
+higher_25,mdd,0.5,no_storage,10000,water_priority,Pennsylvania,56,56,27,29,0,0.0,51
+higher_25,mdd,0.5,no_storage,10000,water_priority,South Carolina,25,25,25,0,0,0.0,25
+higher_25,mdd,0.5,no_storage,10000,water_priority,Tennessee,16,16,16,0,0,0.0,16
+higher_25,mdd,0.5,no_storage,10000,water_priority,Texas,270,270,242,28,0,0.0,270
+higher_25,mdd,0.5,no_storage,10000,water_priority,Utah,31,31,31,0,0,0.0,31
+higher_25,mdd,0.5,no_storage,10000,water_priority,Virginia,420,400,226,174,20,720.0,289
+higher_25,mdd,0.5,no_storage,10000,water_priority,Washington,64,25,13,12,39,1404.0,13
+higher_25,mdd,0.5,no_storage,10000,water_priority,Wisconsin,1,1,1,0,0,0.0,1
+higher_25,mdd,0.5,no_storage,10000,water_priority,Wyoming,23,23,8,15,0,0.0,8
+higher_25,mdd,0.5,storage,10000,water_priority,Alabama,18,18,15,3,0,0.0,15
+higher_25,mdd,0.5,storage,10000,water_priority,Arizona,77,77,35,42,0,0.0,37
+higher_25,mdd,0.5,storage,10000,water_priority,California,115,115,110,5,0,0.0,115
+higher_25,mdd,0.5,storage,10000,water_priority,Colorado,18,18,18,0,0,0.0,18
+higher_25,mdd,0.5,storage,10000,water_priority,Connecticut,3,3,2,1,0,0.0,2
+higher_25,mdd,0.5,storage,10000,water_priority,Florida,17,17,17,0,0,0.0,17
+higher_25,mdd,0.5,storage,10000,water_priority,Georgia,76,76,71,5,0,0.0,71
+higher_25,mdd,0.5,storage,10000,water_priority,Idaho,1,1,1,0,0,0.0,1
+higher_25,mdd,0.5,storage,10000,water_priority,Illinois,92,92,78,14,0,0.0,78
+higher_25,mdd,0.5,storage,10000,water_priority,Indiana,2,2,2,0,0,0.0,2
+higher_25,mdd,0.5,storage,10000,water_priority,Iowa,76,76,53,23,0,0.0,53
+higher_25,mdd,0.5,storage,10000,water_priority,Kentucky,20,20,6,14,0,0.0,6
+higher_25,mdd,0.5,storage,10000,water_priority,Maryland,1,1,1,0,0,0.0,1
+higher_25,mdd,0.5,storage,10000,water_priority,Massachusetts,13,13,13,0,0,0.0,13
+higher_25,mdd,0.5,storage,10000,water_priority,Michigan,6,6,6,0,0,0.0,6
+higher_25,mdd,0.5,storage,10000,water_priority,Minnesota,10,10,8,2,0,0.0,8
+higher_25,mdd,0.5,storage,10000,water_priority,Missouri,12,12,11,1,0,0.0,11
+higher_25,mdd,0.5,storage,10000,water_priority,Montana,7,7,3,4,0,0.0,3
+higher_25,mdd,0.5,storage,10000,water_priority,Nebraska,49,49,46,3,0,0.0,46
+higher_25,mdd,0.5,storage,10000,water_priority,Nevada,42,42,40,2,0,0.0,40
+higher_25,mdd,0.5,storage,10000,water_priority,New Jersey,50,50,37,13,0,0.0,37
+higher_25,mdd,0.5,storage,10000,water_priority,New Mexico,5,5,2,3,0,0.0,2
+higher_25,mdd,0.5,storage,10000,water_priority,New York,50,50,29,21,0,0.0,30
+higher_25,mdd,0.5,storage,10000,water_priority,North Carolina,33,33,26,7,0,0.0,26
+higher_25,mdd,0.5,storage,10000,water_priority,North Dakota,48,48,10,38,0,0.0,10
+higher_25,mdd,0.5,storage,10000,water_priority,Ohio,29,29,20,9,0,0.0,20
+higher_25,mdd,0.5,storage,10000,water_priority,Oklahoma,15,15,6,9,0,0.0,6
+higher_25,mdd,0.5,storage,10000,water_priority,Oregon,79,79,66,13,0,0.0,66
+higher_25,mdd,0.5,storage,10000,water_priority,Pennsylvania,56,56,47,9,0,0.0,51
+higher_25,mdd,0.5,storage,10000,water_priority,South Carolina,25,25,25,0,0,0.0,25
+higher_25,mdd,0.5,storage,10000,water_priority,Tennessee,16,16,16,0,0,0.0,16
+higher_25,mdd,0.5,storage,10000,water_priority,Texas,270,270,260,10,0,0.0,270
+higher_25,mdd,0.5,storage,10000,water_priority,Utah,31,31,31,0,0,0.0,31
+higher_25,mdd,0.5,storage,10000,water_priority,Virginia,420,420,277,143,0,0.0,289
+higher_25,mdd,0.5,storage,10000,water_priority,Washington,64,25,13,12,39,1404.0,13
+higher_25,mdd,0.5,storage,10000,water_priority,Wisconsin,1,1,1,0,0,0.0,1
+higher_25,mdd,0.5,storage,10000,water_priority,Wyoming,23,23,8,15,0,0.0,8
+higher_25,avg,0.25,no_storage,10000,water_priority,Alabama,18,18,15,3,0,0.0,15
+higher_25,avg,0.25,no_storage,10000,water_priority,Arizona,77,77,17,60,0,0.0,37
+higher_25,avg,0.25,no_storage,10000,water_priority,California,115,115,93,22,0,0.0,115
+higher_25,avg,0.25,no_storage,10000,water_priority,Colorado,18,18,18,0,0,0.0,18
+higher_25,avg,0.25,no_storage,10000,water_priority,Connecticut,3,3,1,2,0,0.0,2
+higher_25,avg,0.25,no_storage,10000,water_priority,Florida,17,17,15,2,0,0.0,17
+higher_25,avg,0.25,no_storage,10000,water_priority,Georgia,76,76,55,21,0,0.0,71
+higher_25,avg,0.25,no_storage,10000,water_priority,Idaho,1,1,1,0,0,0.0,1
+higher_25,avg,0.25,no_storage,10000,water_priority,Illinois,92,92,40,52,0,0.0,78
+higher_25,avg,0.25,no_storage,10000,water_priority,Indiana,2,2,1,1,0,0.0,2
+higher_25,avg,0.25,no_storage,10000,water_priority,Iowa,76,54,42,12,22,792.0,53
+higher_25,avg,0.25,no_storage,10000,water_priority,Kentucky,20,20,5,15,0,0.0,6
+higher_25,avg,0.25,no_storage,10000,water_priority,Maryland,1,1,1,0,0,0.0,1
+higher_25,avg,0.25,no_storage,10000,water_priority,Massachusetts,13,10,6,4,3,108.0,13
+higher_25,avg,0.25,no_storage,10000,water_priority,Michigan,6,6,6,0,0,0.0,6
+higher_25,avg,0.25,no_storage,10000,water_priority,Minnesota,10,10,1,9,0,0.0,8
+higher_25,avg,0.25,no_storage,10000,water_priority,Missouri,12,12,11,1,0,0.0,11
+higher_25,avg,0.25,no_storage,10000,water_priority,Montana,7,7,3,4,0,0.0,3
+higher_25,avg,0.25,no_storage,10000,water_priority,Nebraska,49,49,40,9,0,0.0,46
+higher_25,avg,0.25,no_storage,10000,water_priority,Nevada,42,42,37,5,0,0.0,40
+higher_25,avg,0.25,no_storage,10000,water_priority,New Jersey,50,50,26,24,0,0.0,37
+higher_25,avg,0.25,no_storage,10000,water_priority,New Mexico,5,3,2,1,2,72.0,2
+higher_25,avg,0.25,no_storage,10000,water_priority,New York,50,50,13,37,0,0.0,30
+higher_25,avg,0.25,no_storage,10000,water_priority,North Carolina,33,12,5,7,21,756.0,26
+higher_25,avg,0.25,no_storage,10000,water_priority,North Dakota,48,11,3,8,37,1332.0,10
+higher_25,avg,0.25,no_storage,10000,water_priority,Ohio,29,29,12,17,0,0.0,20
+higher_25,avg,0.25,no_storage,10000,water_priority,Oklahoma,15,5,4,1,10,360.0,6
+higher_25,avg,0.25,no_storage,10000,water_priority,Oregon,79,57,26,31,22,792.0,66
+higher_25,avg,0.25,no_storage,10000,water_priority,Pennsylvania,56,32,9,23,24,864.0,51
+higher_25,avg,0.25,no_storage,10000,water_priority,South Carolina,25,25,20,5,0,0.0,25
+higher_25,avg,0.25,no_storage,10000,water_priority,Tennessee,16,15,9,6,1,36.0,16
+higher_25,avg,0.25,no_storage,10000,water_priority,Texas,270,270,167,103,0,0.0,270
+higher_25,avg,0.25,no_storage,10000,water_priority,Utah,31,31,23,8,0,0.0,31
+higher_25,avg,0.25,no_storage,10000,water_priority,Virginia,420,177,105,72,243,8748.0,289
+higher_25,avg,0.25,no_storage,10000,water_priority,Washington,64,6,6,0,58,2088.0,13
+higher_25,avg,0.25,no_storage,10000,water_priority,Wisconsin,1,1,1,0,0,0.0,1
+higher_25,avg,0.25,no_storage,10000,water_priority,Wyoming,23,19,6,13,4,144.0,8
+higher_25,avg,0.25,storage,10000,water_priority,Alabama,18,18,15,3,0,0.0,15
+higher_25,avg,0.25,storage,10000,water_priority,Arizona,77,77,22,55,0,0.0,37
+higher_25,avg,0.25,storage,10000,water_priority,California,115,115,99,16,0,0.0,115
+higher_25,avg,0.25,storage,10000,water_priority,Colorado,18,18,18,0,0,0.0,18
+higher_25,avg,0.25,storage,10000,water_priority,Connecticut,3,3,2,1,0,0.0,2
+higher_25,avg,0.25,storage,10000,water_priority,Florida,17,17,15,2,0,0.0,17
+higher_25,avg,0.25,storage,10000,water_priority,Georgia,76,76,62,14,0,0.0,71
+higher_25,avg,0.25,storage,10000,water_priority,Idaho,1,1,1,0,0,0.0,1
+higher_25,avg,0.25,storage,10000,water_priority,Illinois,92,92,63,29,0,0.0,78
+higher_25,avg,0.25,storage,10000,water_priority,Indiana,2,2,2,0,0,0.0,2
+higher_25,avg,0.25,storage,10000,water_priority,Iowa,76,76,50,26,0,0.0,53
+higher_25,avg,0.25,storage,10000,water_priority,Kentucky,20,20,6,14,0,0.0,6
+higher_25,avg,0.25,storage,10000,water_priority,Maryland,1,1,1,0,0,0.0,1
+higher_25,avg,0.25,storage,10000,water_priority,Massachusetts,13,13,10,3,0,0.0,13
+higher_25,avg,0.25,storage,10000,water_priority,Michigan,6,6,6,0,0,0.0,6
+higher_25,avg,0.25,storage,10000,water_priority,Minnesota,10,10,3,7,0,0.0,8
+higher_25,avg,0.25,storage,10000,water_priority,Missouri,12,12,11,1,0,0.0,11
+higher_25,avg,0.25,storage,10000,water_priority,Montana,7,7,3,4,0,0.0,3
+higher_25,avg,0.25,storage,10000,water_priority,Nebraska,49,49,43,6,0,0.0,46
+higher_25,avg,0.25,storage,10000,water_priority,Nevada,42,42,40,2,0,0.0,40
+higher_25,avg,0.25,storage,10000,water_priority,New Jersey,50,50,35,15,0,0.0,37
+higher_25,avg,0.25,storage,10000,water_priority,New Mexico,5,4,2,2,1,36.0,2
+higher_25,avg,0.25,storage,10000,water_priority,New York,50,50,19,31,0,0.0,30
+higher_25,avg,0.25,storage,10000,water_priority,North Carolina,33,22,11,11,11,396.0,26
+higher_25,avg,0.25,storage,10000,water_priority,North Dakota,48,33,7,26,15,540.0,10
+higher_25,avg,0.25,storage,10000,water_priority,Ohio,29,29,20,9,0,0.0,20
+higher_25,avg,0.25,storage,10000,water_priority,Oklahoma,15,11,6,5,4,144.0,6
+higher_25,avg,0.25,storage,10000,water_priority,Oregon,79,79,47,32,0,0.0,66
+higher_25,avg,0.25,storage,10000,water_priority,Pennsylvania,56,56,17,39,0,0.0,51
+higher_25,avg,0.25,storage,10000,water_priority,South Carolina,25,25,24,1,0,0.0,25
+higher_25,avg,0.25,storage,10000,water_priority,Tennessee,16,16,14,2,0,0.0,16
+higher_25,avg,0.25,storage,10000,water_priority,Texas,270,270,185,85,0,0.0,270
+higher_25,avg,0.25,storage,10000,water_priority,Utah,31,31,31,0,0,0.0,31
+higher_25,avg,0.25,storage,10000,water_priority,Virginia,420,287,175,112,133,4788.0,289
+higher_25,avg,0.25,storage,10000,water_priority,Washington,64,17,13,4,47,1692.0,13
+higher_25,avg,0.25,storage,10000,water_priority,Wisconsin,1,1,1,0,0,0.0,1
+higher_25,avg,0.25,storage,10000,water_priority,Wyoming,23,23,8,15,0,0.0,8
+higher_50,mdd,0.1,no_storage,10000,water_priority,Alabama,18,18,15,3,0,0.0,15
+higher_50,mdd,0.1,no_storage,10000,water_priority,Arizona,77,77,46,31,0,0.0,48
+higher_50,mdd,0.1,no_storage,10000,water_priority,California,115,115,87,28,0,0.0,115
+higher_50,mdd,0.1,no_storage,10000,water_priority,Colorado,18,18,17,1,0,0.0,18
+higher_50,mdd,0.1,no_storage,10000,water_priority,Connecticut,3,3,2,1,0,0.0,3
+higher_50,mdd,0.1,no_storage,10000,water_priority,Florida,17,17,17,0,0,0.0,17
+higher_50,mdd,0.1,no_storage,10000,water_priority,Georgia,76,76,67,9,0,0.0,73
+higher_50,mdd,0.1,no_storage,10000,water_priority,Idaho,1,1,1,0,0,0.0,1
+higher_50,mdd,0.1,no_storage,10000,water_priority,Illinois,92,77,32,45,15,540.0,86
+higher_50,mdd,0.1,no_storage,10000,water_priority,Indiana,2,2,1,1,0,0.0,2
+higher_50,mdd,0.1,no_storage,10000,water_priority,Iowa,76,43,38,5,33,1188.0,71
+higher_50,mdd,0.1,no_storage,10000,water_priority,Kentucky,20,17,5,12,3,108.0,6
+higher_50,mdd,0.1,no_storage,10000,water_priority,Maryland,1,1,1,0,0,0.0,1
+higher_50,mdd,0.1,no_storage,10000,water_priority,Massachusetts,13,8,6,2,5,180.0,13
+higher_50,mdd,0.1,no_storage,10000,water_priority,Michigan,6,6,6,0,0,0.0,6
+higher_50,mdd,0.1,no_storage,10000,water_priority,Minnesota,10,10,4,6,0,0.0,10
+higher_50,mdd,0.1,no_storage,10000,water_priority,Missouri,12,12,12,0,0,0.0,12
+higher_50,mdd,0.1,no_storage,10000,water_priority,Montana,7,7,7,0,0,0.0,7
+higher_50,mdd,0.1,no_storage,10000,water_priority,Nebraska,49,49,37,12,0,0.0,47
+higher_50,mdd,0.1,no_storage,10000,water_priority,Nevada,42,42,39,3,0,0.0,42
+higher_50,mdd,0.1,no_storage,10000,water_priority,New Jersey,50,50,23,27,0,0.0,40
+higher_50,mdd,0.1,no_storage,10000,water_priority,New Mexico,5,2,2,0,3,108.0,2
+higher_50,mdd,0.1,no_storage,10000,water_priority,New York,50,38,22,16,12,432.0,34
+higher_50,mdd,0.1,no_storage,10000,water_priority,North Carolina,33,10,4,6,23,828.0,28
+higher_50,mdd,0.1,no_storage,10000,water_priority,North Dakota,48,9,7,2,39,1404.0,14
+higher_50,mdd,0.1,no_storage,10000,water_priority,Ohio,29,29,15,14,0,0.0,28
+higher_50,mdd,0.1,no_storage,10000,water_priority,Oklahoma,15,4,3,1,11,396.0,9
+higher_50,mdd,0.1,no_storage,10000,water_priority,Oregon,79,53,30,23,26,936.0,62
+higher_50,mdd,0.1,no_storage,10000,water_priority,Pennsylvania,56,26,5,21,30,1080.0,51
+higher_50,mdd,0.1,no_storage,10000,water_priority,South Carolina,25,25,11,14,0,0.0,23
+higher_50,mdd,0.1,no_storage,10000,water_priority,Tennessee,16,11,0,11,5,180.0,16
+higher_50,mdd,0.1,no_storage,10000,water_priority,Texas,270,270,158,112,0,0.0,270
+higher_50,mdd,0.1,no_storage,10000,water_priority,Utah,31,31,27,4,0,0.0,31
+higher_50,mdd,0.1,no_storage,10000,water_priority,Virginia,420,150,106,44,270,9720.0,315
+higher_50,mdd,0.1,no_storage,10000,water_priority,Washington,64,6,2,4,58,2088.0,4
+higher_50,mdd,0.1,no_storage,10000,water_priority,Wisconsin,1,1,0,1,0,0.0,1
+higher_50,mdd,0.1,no_storage,10000,water_priority,Wyoming,23,17,6,11,6,216.0,13
+higher_50,mdd,0.1,storage,10000,water_priority,Alabama,18,18,15,3,0,0.0,15
+higher_50,mdd,0.1,storage,10000,water_priority,Arizona,77,77,48,29,0,0.0,48
+higher_50,mdd,0.1,storage,10000,water_priority,California,115,115,95,20,0,0.0,115
+higher_50,mdd,0.1,storage,10000,water_priority,Colorado,18,18,18,0,0,0.0,18
+higher_50,mdd,0.1,storage,10000,water_priority,Connecticut,3,3,3,0,0,0.0,3
+higher_50,mdd,0.1,storage,10000,water_priority,Florida,17,17,17,0,0,0.0,17
+higher_50,mdd,0.1,storage,10000,water_priority,Georgia,76,76,73,3,0,0.0,73
+higher_50,mdd,0.1,storage,10000,water_priority,Idaho,1,1,1,0,0,0.0,1
+higher_50,mdd,0.1,storage,10000,water_priority,Illinois,92,92,63,29,0,0.0,86
+higher_50,mdd,0.1,storage,10000,water_priority,Indiana,2,2,2,0,0,0.0,2
+higher_50,mdd,0.1,storage,10000,water_priority,Iowa,76,76,70,6,0,0.0,71
+higher_50,mdd,0.1,storage,10000,water_priority,Kentucky,20,20,6,14,0,0.0,6
+higher_50,mdd,0.1,storage,10000,water_priority,Maryland,1,1,1,0,0,0.0,1
+higher_50,mdd,0.1,storage,10000,water_priority,Massachusetts,13,13,10,3,0,0.0,13
+higher_50,mdd,0.1,storage,10000,water_priority,Michigan,6,6,6,0,0,0.0,6
+higher_50,mdd,0.1,storage,10000,water_priority,Minnesota,10,10,9,1,0,0.0,10
+higher_50,mdd,0.1,storage,10000,water_priority,Missouri,12,12,12,0,0,0.0,12
+higher_50,mdd,0.1,storage,10000,water_priority,Montana,7,7,7,0,0,0.0,7
+higher_50,mdd,0.1,storage,10000,water_priority,Nebraska,49,49,40,9,0,0.0,47
+higher_50,mdd,0.1,storage,10000,water_priority,Nevada,42,42,42,0,0,0.0,42
+higher_50,mdd,0.1,storage,10000,water_priority,New Jersey,50,50,34,16,0,0.0,40
+higher_50,mdd,0.1,storage,10000,water_priority,New Mexico,5,3,2,1,2,72.0,2
+higher_50,mdd,0.1,storage,10000,water_priority,New York,50,50,29,21,0,0.0,34
+higher_50,mdd,0.1,storage,10000,water_priority,North Carolina,33,19,9,10,14,504.0,28
+higher_50,mdd,0.1,storage,10000,water_priority,North Dakota,48,27,14,13,21,756.0,14
+higher_50,mdd,0.1,storage,10000,water_priority,Ohio,29,29,22,7,0,0.0,28
+higher_50,mdd,0.1,storage,10000,water_priority,Oklahoma,15,7,5,2,8,288.0,9
+higher_50,mdd,0.1,storage,10000,water_priority,Oregon,79,79,47,32,0,0.0,62
+higher_50,mdd,0.1,storage,10000,water_priority,Pennsylvania,56,49,12,37,7,252.0,51
+higher_50,mdd,0.1,storage,10000,water_priority,South Carolina,25,25,14,11,0,0.0,23
+higher_50,mdd,0.1,storage,10000,water_priority,Tennessee,16,16,8,8,0,0.0,16
+higher_50,mdd,0.1,storage,10000,water_priority,Texas,270,270,180,90,0,0.0,270
+higher_50,mdd,0.1,storage,10000,water_priority,Utah,31,31,31,0,0,0.0,31
+higher_50,mdd,0.1,storage,10000,water_priority,Virginia,420,234,154,80,186,6696.0,315
+higher_50,mdd,0.1,storage,10000,water_priority,Washington,64,18,4,14,46,1656.0,4
+higher_50,mdd,0.1,storage,10000,water_priority,Wisconsin,1,1,1,0,0,0.0,1
+higher_50,mdd,0.1,storage,10000,water_priority,Wyoming,23,23,13,10,0,0.0,13
+higher_50,mdd,0.25,no_storage,10000,water_priority,Alabama,18,18,15,3,0,0.0,15
+higher_50,mdd,0.25,no_storage,10000,water_priority,Arizona,77,77,48,29,0,0.0,48
+higher_50,mdd,0.25,no_storage,10000,water_priority,California,115,115,96,19,0,0.0,115
+higher_50,mdd,0.25,no_storage,10000,water_priority,Colorado,18,18,18,0,0,0.0,18
+higher_50,mdd,0.25,no_storage,10000,water_priority,Connecticut,3,3,3,0,0,0.0,3
+higher_50,mdd,0.25,no_storage,10000,water_priority,Florida,17,17,17,0,0,0.0,17
+higher_50,mdd,0.25,no_storage,10000,water_priority,Georgia,76,76,73,3,0,0.0,73
+higher_50,mdd,0.25,no_storage,10000,water_priority,Idaho,1,1,1,0,0,0.0,1
+higher_50,mdd,0.25,no_storage,10000,water_priority,Illinois,92,92,65,27,0,0.0,86
+higher_50,mdd,0.25,no_storage,10000,water_priority,Indiana,2,2,2,0,0,0.0,2
+higher_50,mdd,0.25,no_storage,10000,water_priority,Iowa,76,76,71,5,0,0.0,71
+higher_50,mdd,0.25,no_storage,10000,water_priority,Kentucky,20,20,6,14,0,0.0,6
+higher_50,mdd,0.25,no_storage,10000,water_priority,Maryland,1,1,1,0,0,0.0,1
+higher_50,mdd,0.25,no_storage,10000,water_priority,Massachusetts,13,13,10,3,0,0.0,13
+higher_50,mdd,0.25,no_storage,10000,water_priority,Michigan,6,6,6,0,0,0.0,6
+higher_50,mdd,0.25,no_storage,10000,water_priority,Minnesota,10,10,9,1,0,0.0,10
+higher_50,mdd,0.25,no_storage,10000,water_priority,Missouri,12,12,12,0,0,0.0,12
+higher_50,mdd,0.25,no_storage,10000,water_priority,Montana,7,7,7,0,0,0.0,7
+higher_50,mdd,0.25,no_storage,10000,water_priority,Nebraska,49,49,40,9,0,0.0,47
+higher_50,mdd,0.25,no_storage,10000,water_priority,Nevada,42,42,42,0,0,0.0,42
+higher_50,mdd,0.25,no_storage,10000,water_priority,New Jersey,50,50,34,16,0,0.0,40
+higher_50,mdd,0.25,no_storage,10000,water_priority,New Mexico,5,4,2,2,1,36.0,2
+higher_50,mdd,0.25,no_storage,10000,water_priority,New York,50,50,27,23,0,0.0,34
+higher_50,mdd,0.25,no_storage,10000,water_priority,North Carolina,33,24,10,14,9,324.0,28
+higher_50,mdd,0.25,no_storage,10000,water_priority,North Dakota,48,25,14,11,23,828.0,14
+higher_50,mdd,0.25,no_storage,10000,water_priority,Ohio,29,29,25,4,0,0.0,28
+higher_50,mdd,0.25,no_storage,10000,water_priority,Oklahoma,15,10,8,2,5,180.0,9
+higher_50,mdd,0.25,no_storage,10000,water_priority,Oregon,79,79,44,35,0,0.0,62
+higher_50,mdd,0.25,no_storage,10000,water_priority,Pennsylvania,56,50,13,37,6,216.0,51
+higher_50,mdd,0.25,no_storage,10000,water_priority,South Carolina,25,25,20,5,0,0.0,23
+higher_50,mdd,0.25,no_storage,10000,water_priority,Tennessee,16,16,14,2,0,0.0,16
+higher_50,mdd,0.25,no_storage,10000,water_priority,Texas,270,270,201,69,0,0.0,270
+higher_50,mdd,0.25,no_storage,10000,water_priority,Utah,31,31,31,0,0,0.0,31
+higher_50,mdd,0.25,no_storage,10000,water_priority,Virginia,420,271,171,100,149,5364.0,315
+higher_50,mdd,0.25,no_storage,10000,water_priority,Washington,64,17,4,13,47,1692.0,4
+higher_50,mdd,0.25,no_storage,10000,water_priority,Wisconsin,1,1,1,0,0,0.0,1
+higher_50,mdd,0.25,no_storage,10000,water_priority,Wyoming,23,23,10,13,0,0.0,13
+higher_50,mdd,0.25,storage,10000,water_priority,Alabama,18,18,15,3,0,0.0,15
+higher_50,mdd,0.25,storage,10000,water_priority,Arizona,77,77,48,29,0,0.0,48
+higher_50,mdd,0.25,storage,10000,water_priority,California,115,115,102,13,0,0.0,115
+higher_50,mdd,0.25,storage,10000,water_priority,Colorado,18,18,18,0,0,0.0,18
+higher_50,mdd,0.25,storage,10000,water_priority,Connecticut,3,3,3,0,0,0.0,3
+higher_50,mdd,0.25,storage,10000,water_priority,Florida,17,17,17,0,0,0.0,17
+higher_50,mdd,0.25,storage,10000,water_priority,Georgia,76,76,73,3,0,0.0,73
+higher_50,mdd,0.25,storage,10000,water_priority,Idaho,1,1,1,0,0,0.0,1
+higher_50,mdd,0.25,storage,10000,water_priority,Illinois,92,92,84,8,0,0.0,86
+higher_50,mdd,0.25,storage,10000,water_priority,Indiana,2,2,2,0,0,0.0,2
+higher_50,mdd,0.25,storage,10000,water_priority,Iowa,76,76,71,5,0,0.0,71
+higher_50,mdd,0.25,storage,10000,water_priority,Kentucky,20,20,6,14,0,0.0,6
+higher_50,mdd,0.25,storage,10000,water_priority,Maryland,1,1,1,0,0,0.0,1
+higher_50,mdd,0.25,storage,10000,water_priority,Massachusetts,13,13,13,0,0,0.0,13
+higher_50,mdd,0.25,storage,10000,water_priority,Michigan,6,6,6,0,0,0.0,6
+higher_50,mdd,0.25,storage,10000,water_priority,Minnesota,10,10,10,0,0,0.0,10
+higher_50,mdd,0.25,storage,10000,water_priority,Missouri,12,12,12,0,0,0.0,12
+higher_50,mdd,0.25,storage,10000,water_priority,Montana,7,7,7,0,0,0.0,7
+higher_50,mdd,0.25,storage,10000,water_priority,Nebraska,49,49,46,3,0,0.0,47
+higher_50,mdd,0.25,storage,10000,water_priority,Nevada,42,42,42,0,0,0.0,42
+higher_50,mdd,0.25,storage,10000,water_priority,New Jersey,50,50,40,10,0,0.0,40
+higher_50,mdd,0.25,storage,10000,water_priority,New Mexico,5,5,2,3,0,0.0,2
+higher_50,mdd,0.25,storage,10000,water_priority,New York,50,50,33,17,0,0.0,34
+higher_50,mdd,0.25,storage,10000,water_priority,North Carolina,33,33,13,20,0,0.0,28
+higher_50,mdd,0.25,storage,10000,water_priority,North Dakota,48,48,14,34,0,0.0,14
+higher_50,mdd,0.25,storage,10000,water_priority,Ohio,29,29,28,1,0,0.0,28
+higher_50,mdd,0.25,storage,10000,water_priority,Oklahoma,15,15,9,6,0,0.0,9
+higher_50,mdd,0.25,storage,10000,water_priority,Oregon,79,79,61,18,0,0.0,62
+higher_50,mdd,0.25,storage,10000,water_priority,Pennsylvania,56,56,28,28,0,0.0,51
+higher_50,mdd,0.25,storage,10000,water_priority,South Carolina,25,25,21,4,0,0.0,23
+higher_50,mdd,0.25,storage,10000,water_priority,Tennessee,16,16,16,0,0,0.0,16
+higher_50,mdd,0.25,storage,10000,water_priority,Texas,270,270,225,45,0,0.0,270
+higher_50,mdd,0.25,storage,10000,water_priority,Utah,31,31,31,0,0,0.0,31
+higher_50,mdd,0.25,storage,10000,water_priority,Virginia,420,400,235,165,20,720.0,315
+higher_50,mdd,0.25,storage,10000,water_priority,Washington,64,25,4,21,39,1404.0,4
+higher_50,mdd,0.25,storage,10000,water_priority,Wisconsin,1,1,1,0,0,0.0,1
+higher_50,mdd,0.25,storage,10000,water_priority,Wyoming,23,23,13,10,0,0.0,13
+higher_50,mdd,0.5,no_storage,10000,water_priority,Alabama,18,18,15,3,0,0.0,15
+higher_50,mdd,0.5,no_storage,10000,water_priority,Arizona,77,77,48,29,0,0.0,48
+higher_50,mdd,0.5,no_storage,10000,water_priority,California,115,115,103,12,0,0.0,115
+higher_50,mdd,0.5,no_storage,10000,water_priority,Colorado,18,18,18,0,0,0.0,18
+higher_50,mdd,0.5,no_storage,10000,water_priority,Connecticut,3,3,3,0,0,0.0,3
+higher_50,mdd,0.5,no_storage,10000,water_priority,Florida,17,17,17,0,0,0.0,17
+higher_50,mdd,0.5,no_storage,10000,water_priority,Georgia,76,76,73,3,0,0.0,73
+higher_50,mdd,0.5,no_storage,10000,water_priority,Idaho,1,1,1,0,0,0.0,1
+higher_50,mdd,0.5,no_storage,10000,water_priority,Illinois,92,92,82,10,0,0.0,86
+higher_50,mdd,0.5,no_storage,10000,water_priority,Indiana,2,2,2,0,0,0.0,2
+higher_50,mdd,0.5,no_storage,10000,water_priority,Iowa,76,76,71,5,0,0.0,71
+higher_50,mdd,0.5,no_storage,10000,water_priority,Kentucky,20,20,6,14,0,0.0,6
+higher_50,mdd,0.5,no_storage,10000,water_priority,Maryland,1,1,1,0,0,0.0,1
+higher_50,mdd,0.5,no_storage,10000,water_priority,Massachusetts,13,13,13,0,0,0.0,13
+higher_50,mdd,0.5,no_storage,10000,water_priority,Michigan,6,6,6,0,0,0.0,6
+higher_50,mdd,0.5,no_storage,10000,water_priority,Minnesota,10,10,10,0,0,0.0,10
+higher_50,mdd,0.5,no_storage,10000,water_priority,Missouri,12,12,12,0,0,0.0,12
+higher_50,mdd,0.5,no_storage,10000,water_priority,Montana,7,7,7,0,0,0.0,7
+higher_50,mdd,0.5,no_storage,10000,water_priority,Nebraska,49,49,44,5,0,0.0,47
+higher_50,mdd,0.5,no_storage,10000,water_priority,Nevada,42,42,42,0,0,0.0,42
+higher_50,mdd,0.5,no_storage,10000,water_priority,New Jersey,50,50,39,11,0,0.0,40
+higher_50,mdd,0.5,no_storage,10000,water_priority,New Mexico,5,5,2,3,0,0.0,2
+higher_50,mdd,0.5,no_storage,10000,water_priority,New York,50,50,33,17,0,0.0,34
+higher_50,mdd,0.5,no_storage,10000,water_priority,North Carolina,33,33,14,19,0,0.0,28
+higher_50,mdd,0.5,no_storage,10000,water_priority,North Dakota,48,48,14,34,0,0.0,14
+higher_50,mdd,0.5,no_storage,10000,water_priority,Ohio,29,29,28,1,0,0.0,28
+higher_50,mdd,0.5,no_storage,10000,water_priority,Oklahoma,15,15,9,6,0,0.0,9
+higher_50,mdd,0.5,no_storage,10000,water_priority,Oregon,79,79,55,24,0,0.0,62
+higher_50,mdd,0.5,no_storage,10000,water_priority,Pennsylvania,56,56,25,31,0,0.0,51
+higher_50,mdd,0.5,no_storage,10000,water_priority,South Carolina,25,25,22,3,0,0.0,23
+higher_50,mdd,0.5,no_storage,10000,water_priority,Tennessee,16,16,16,0,0,0.0,16
+higher_50,mdd,0.5,no_storage,10000,water_priority,Texas,270,270,241,29,0,0.0,270
+higher_50,mdd,0.5,no_storage,10000,water_priority,Utah,31,31,31,0,0,0.0,31
+higher_50,mdd,0.5,no_storage,10000,water_priority,Virginia,420,400,234,166,20,720.0,315
+higher_50,mdd,0.5,no_storage,10000,water_priority,Washington,64,25,4,21,39,1404.0,4
+higher_50,mdd,0.5,no_storage,10000,water_priority,Wisconsin,1,1,1,0,0,0.0,1
+higher_50,mdd,0.5,no_storage,10000,water_priority,Wyoming,23,23,13,10,0,0.0,13
+higher_50,mdd,0.5,storage,10000,water_priority,Alabama,18,18,15,3,0,0.0,15
+higher_50,mdd,0.5,storage,10000,water_priority,Arizona,77,77,48,29,0,0.0,48
+higher_50,mdd,0.5,storage,10000,water_priority,California,115,115,111,4,0,0.0,115
+higher_50,mdd,0.5,storage,10000,water_priority,Colorado,18,18,18,0,0,0.0,18
+higher_50,mdd,0.5,storage,10000,water_priority,Connecticut,3,3,3,0,0,0.0,3
+higher_50,mdd,0.5,storage,10000,water_priority,Florida,17,17,17,0,0,0.0,17
+higher_50,mdd,0.5,storage,10000,water_priority,Georgia,76,76,73,3,0,0.0,73
+higher_50,mdd,0.5,storage,10000,water_priority,Idaho,1,1,1,0,0,0.0,1
+higher_50,mdd,0.5,storage,10000,water_priority,Illinois,92,92,86,6,0,0.0,86
+higher_50,mdd,0.5,storage,10000,water_priority,Indiana,2,2,2,0,0,0.0,2
+higher_50,mdd,0.5,storage,10000,water_priority,Iowa,76,76,71,5,0,0.0,71
+higher_50,mdd,0.5,storage,10000,water_priority,Kentucky,20,20,6,14,0,0.0,6
+higher_50,mdd,0.5,storage,10000,water_priority,Maryland,1,1,1,0,0,0.0,1
+higher_50,mdd,0.5,storage,10000,water_priority,Massachusetts,13,13,13,0,0,0.0,13
+higher_50,mdd,0.5,storage,10000,water_priority,Michigan,6,6,6,0,0,0.0,6
+higher_50,mdd,0.5,storage,10000,water_priority,Minnesota,10,10,10,0,0,0.0,10
+higher_50,mdd,0.5,storage,10000,water_priority,Missouri,12,12,12,0,0,0.0,12
+higher_50,mdd,0.5,storage,10000,water_priority,Montana,7,7,7,0,0,0.0,7
+higher_50,mdd,0.5,storage,10000,water_priority,Nebraska,49,49,47,2,0,0.0,47
+higher_50,mdd,0.5,storage,10000,water_priority,Nevada,42,42,42,0,0,0.0,42
+higher_50,mdd,0.5,storage,10000,water_priority,New Jersey,50,50,40,10,0,0.0,40
+higher_50,mdd,0.5,storage,10000,water_priority,New Mexico,5,5,2,3,0,0.0,2
+higher_50,mdd,0.5,storage,10000,water_priority,New York,50,50,34,16,0,0.0,34
+higher_50,mdd,0.5,storage,10000,water_priority,North Carolina,33,33,21,12,0,0.0,28
+higher_50,mdd,0.5,storage,10000,water_priority,North Dakota,48,48,14,34,0,0.0,14
+higher_50,mdd,0.5,storage,10000,water_priority,Ohio,29,29,28,1,0,0.0,28
+higher_50,mdd,0.5,storage,10000,water_priority,Oklahoma,15,15,9,6,0,0.0,9
+higher_50,mdd,0.5,storage,10000,water_priority,Oregon,79,79,62,17,0,0.0,62
+higher_50,mdd,0.5,storage,10000,water_priority,Pennsylvania,56,56,46,10,0,0.0,51
+higher_50,mdd,0.5,storage,10000,water_priority,South Carolina,25,25,23,2,0,0.0,23
+higher_50,mdd,0.5,storage,10000,water_priority,Tennessee,16,16,16,0,0,0.0,16
+higher_50,mdd,0.5,storage,10000,water_priority,Texas,270,270,260,10,0,0.0,270
+higher_50,mdd,0.5,storage,10000,water_priority,Utah,31,31,31,0,0,0.0,31
+higher_50,mdd,0.5,storage,10000,water_priority,Virginia,420,420,280,140,0,0.0,315
+higher_50,mdd,0.5,storage,10000,water_priority,Washington,64,25,4,21,39,1404.0,4
+higher_50,mdd,0.5,storage,10000,water_priority,Wisconsin,1,1,1,0,0,0.0,1
+higher_50,mdd,0.5,storage,10000,water_priority,Wyoming,23,23,13,10,0,0.0,13
+higher_50,avg,0.25,no_storage,10000,water_priority,Alabama,18,18,15,3,0,0.0,15
+higher_50,avg,0.25,no_storage,10000,water_priority,Arizona,77,77,47,30,0,0.0,48
+higher_50,avg,0.25,no_storage,10000,water_priority,California,115,115,88,27,0,0.0,115
+higher_50,avg,0.25,no_storage,10000,water_priority,Colorado,18,18,17,1,0,0.0,18
+higher_50,avg,0.25,no_storage,10000,water_priority,Connecticut,3,3,2,1,0,0.0,3
+higher_50,avg,0.25,no_storage,10000,water_priority,Florida,17,17,17,0,0,0.0,17
+higher_50,avg,0.25,no_storage,10000,water_priority,Georgia,76,76,72,4,0,0.0,73
+higher_50,avg,0.25,no_storage,10000,water_priority,Idaho,1,1,1,0,0,0.0,1
+higher_50,avg,0.25,no_storage,10000,water_priority,Illinois,92,92,46,46,0,0.0,86
+higher_50,avg,0.25,no_storage,10000,water_priority,Indiana,2,2,1,1,0,0.0,2
+higher_50,avg,0.25,no_storage,10000,water_priority,Iowa,76,54,47,7,22,792.0,71
+higher_50,avg,0.25,no_storage,10000,water_priority,Kentucky,20,20,6,14,0,0.0,6
+higher_50,avg,0.25,no_storage,10000,water_priority,Maryland,1,1,1,0,0,0.0,1
+higher_50,avg,0.25,no_storage,10000,water_priority,Massachusetts,13,10,6,4,3,108.0,13
+higher_50,avg,0.25,no_storage,10000,water_priority,Michigan,6,6,6,0,0,0.0,6
+higher_50,avg,0.25,no_storage,10000,water_priority,Minnesota,10,10,5,5,0,0.0,10
+higher_50,avg,0.25,no_storage,10000,water_priority,Missouri,12,12,12,0,0,0.0,12
+higher_50,avg,0.25,no_storage,10000,water_priority,Montana,7,7,7,0,0,0.0,7
+higher_50,avg,0.25,no_storage,10000,water_priority,Nebraska,49,49,38,11,0,0.0,47
+higher_50,avg,0.25,no_storage,10000,water_priority,Nevada,42,42,42,0,0,0.0,42
+higher_50,avg,0.25,no_storage,10000,water_priority,New Jersey,50,50,27,23,0,0.0,40
+higher_50,avg,0.25,no_storage,10000,water_priority,New Mexico,5,3,2,1,2,72.0,2
+higher_50,avg,0.25,no_storage,10000,water_priority,New York,50,50,23,27,0,0.0,34
+higher_50,avg,0.25,no_storage,10000,water_priority,North Carolina,33,12,4,8,21,756.0,28
+higher_50,avg,0.25,no_storage,10000,water_priority,North Dakota,48,11,9,2,37,1332.0,14
+higher_50,avg,0.25,no_storage,10000,water_priority,Ohio,29,29,19,10,0,0.0,28
+higher_50,avg,0.25,no_storage,10000,water_priority,Oklahoma,15,5,4,1,10,360.0,9
+higher_50,avg,0.25,no_storage,10000,water_priority,Oregon,79,57,31,26,22,792.0,62
+higher_50,avg,0.25,no_storage,10000,water_priority,Pennsylvania,56,32,7,25,24,864.0,51
+higher_50,avg,0.25,no_storage,10000,water_priority,South Carolina,25,25,13,12,0,0.0,23
+higher_50,avg,0.25,no_storage,10000,water_priority,Tennessee,16,15,2,13,1,36.0,16
+higher_50,avg,0.25,no_storage,10000,water_priority,Texas,270,270,166,104,0,0.0,270
+higher_50,avg,0.25,no_storage,10000,water_priority,Utah,31,31,28,3,0,0.0,31
+higher_50,avg,0.25,no_storage,10000,water_priority,Virginia,420,177,128,49,243,8748.0,315
+higher_50,avg,0.25,no_storage,10000,water_priority,Washington,64,6,2,4,58,2088.0,4
+higher_50,avg,0.25,no_storage,10000,water_priority,Wisconsin,1,1,0,1,0,0.0,1
+higher_50,avg,0.25,no_storage,10000,water_priority,Wyoming,23,19,6,13,4,144.0,13
+higher_50,avg,0.25,storage,10000,water_priority,Alabama,18,18,15,3,0,0.0,15
+higher_50,avg,0.25,storage,10000,water_priority,Arizona,77,77,48,29,0,0.0,48
+higher_50,avg,0.25,storage,10000,water_priority,California,115,115,96,19,0,0.0,115
+higher_50,avg,0.25,storage,10000,water_priority,Colorado,18,18,18,0,0,0.0,18
+higher_50,avg,0.25,storage,10000,water_priority,Connecticut,3,3,3,0,0,0.0,3
+higher_50,avg,0.25,storage,10000,water_priority,Florida,17,17,17,0,0,0.0,17
+higher_50,avg,0.25,storage,10000,water_priority,Georgia,76,76,73,3,0,0.0,73
+higher_50,avg,0.25,storage,10000,water_priority,Idaho,1,1,1,0,0,0.0,1
+higher_50,avg,0.25,storage,10000,water_priority,Illinois,92,92,72,20,0,0.0,86
+higher_50,avg,0.25,storage,10000,water_priority,Indiana,2,2,2,0,0,0.0,2
+higher_50,avg,0.25,storage,10000,water_priority,Iowa,76,76,71,5,0,0.0,71
+higher_50,avg,0.25,storage,10000,water_priority,Kentucky,20,20,6,14,0,0.0,6
+higher_50,avg,0.25,storage,10000,water_priority,Maryland,1,1,1,0,0,0.0,1
+higher_50,avg,0.25,storage,10000,water_priority,Massachusetts,13,13,10,3,0,0.0,13
+higher_50,avg,0.25,storage,10000,water_priority,Michigan,6,6,6,0,0,0.0,6
+higher_50,avg,0.25,storage,10000,water_priority,Minnesota,10,10,10,0,0,0.0,10
+higher_50,avg,0.25,storage,10000,water_priority,Missouri,12,12,12,0,0,0.0,12
+higher_50,avg,0.25,storage,10000,water_priority,Montana,7,7,7,0,0,0.0,7
+higher_50,avg,0.25,storage,10000,water_priority,Nebraska,49,49,41,8,0,0.0,47
+higher_50,avg,0.25,storage,10000,water_priority,Nevada,42,42,42,0,0,0.0,42
+higher_50,avg,0.25,storage,10000,water_priority,New Jersey,50,50,38,12,0,0.0,40
+higher_50,avg,0.25,storage,10000,water_priority,New Mexico,5,4,2,2,1,36.0,2
+higher_50,avg,0.25,storage,10000,water_priority,New York,50,50,32,18,0,0.0,34
+higher_50,avg,0.25,storage,10000,water_priority,North Carolina,33,22,9,13,11,396.0,28
+higher_50,avg,0.25,storage,10000,water_priority,North Dakota,48,33,14,19,15,540.0,14
+higher_50,avg,0.25,storage,10000,water_priority,Ohio,29,29,26,3,0,0.0,28
+higher_50,avg,0.25,storage,10000,water_priority,Oklahoma,15,11,8,3,4,144.0,9
+higher_50,avg,0.25,storage,10000,water_priority,Oregon,79,79,47,32,0,0.0,62
+higher_50,avg,0.25,storage,10000,water_priority,Pennsylvania,56,56,15,41,0,0.0,51
+higher_50,avg,0.25,storage,10000,water_priority,South Carolina,25,25,19,6,0,0.0,23
+higher_50,avg,0.25,storage,10000,water_priority,Tennessee,16,16,15,1,0,0.0,16
+higher_50,avg,0.25,storage,10000,water_priority,Texas,270,270,184,86,0,0.0,270
+higher_50,avg,0.25,storage,10000,water_priority,Utah,31,31,31,0,0,0.0,31
+higher_50,avg,0.25,storage,10000,water_priority,Virginia,420,287,189,98,133,4788.0,315
+higher_50,avg,0.25,storage,10000,water_priority,Washington,64,17,4,13,47,1692.0,4
+higher_50,avg,0.25,storage,10000,water_priority,Wisconsin,1,1,1,0,0,0.0,1
+higher_50,avg,0.25,storage,10000,water_priority,Wyoming,23,23,13,10,0,0.0,13
+higher_75,mdd,0.1,no_storage,10000,water_priority,Alabama,18,18,15,3,0,0.0,15
+higher_75,mdd,0.1,no_storage,10000,water_priority,Arizona,77,77,67,10,0,0.0,77
+higher_75,mdd,0.1,no_storage,10000,water_priority,California,115,115,87,28,0,0.0,115
+higher_75,mdd,0.1,no_storage,10000,water_priority,Colorado,18,18,17,1,0,0.0,18
+higher_75,mdd,0.1,no_storage,10000,water_priority,Connecticut,3,3,2,1,0,0.0,3
+higher_75,mdd,0.1,no_storage,10000,water_priority,Florida,17,17,14,3,0,0.0,17
+higher_75,mdd,0.1,no_storage,10000,water_priority,Georgia,76,76,67,9,0,0.0,67
+higher_75,mdd,0.1,no_storage,10000,water_priority,Idaho,1,1,1,0,0,0.0,1
+higher_75,mdd,0.1,no_storage,10000,water_priority,Illinois,92,77,30,47,15,540.0,89
+higher_75,mdd,0.1,no_storage,10000,water_priority,Indiana,2,2,2,0,0,0.0,2
+higher_75,mdd,0.1,no_storage,10000,water_priority,Iowa,76,43,33,10,33,1188.0,76
+higher_75,mdd,0.1,no_storage,10000,water_priority,Kentucky,20,17,6,11,3,108.0,9
+higher_75,mdd,0.1,no_storage,10000,water_priority,Maryland,1,1,1,0,0,0.0,1
+higher_75,mdd,0.1,no_storage,10000,water_priority,Massachusetts,13,8,4,4,5,180.0,13
+higher_75,mdd,0.1,no_storage,10000,water_priority,Michigan,6,6,6,0,0,0.0,6
+higher_75,mdd,0.1,no_storage,10000,water_priority,Minnesota,10,10,4,6,0,0.0,10
+higher_75,mdd,0.1,no_storage,10000,water_priority,Missouri,12,12,12,0,0,0.0,12
+higher_75,mdd,0.1,no_storage,10000,water_priority,Montana,7,7,7,0,0,0.0,7
+higher_75,mdd,0.1,no_storage,10000,water_priority,Nebraska,49,49,28,21,0,0.0,47
+higher_75,mdd,0.1,no_storage,10000,water_priority,Nevada,42,42,42,0,0,0.0,42
+higher_75,mdd,0.1,no_storage,10000,water_priority,New Jersey,50,50,28,22,0,0.0,49
+higher_75,mdd,0.1,no_storage,10000,water_priority,New Mexico,5,2,2,0,3,108.0,2
+higher_75,mdd,0.1,no_storage,10000,water_priority,New York,50,38,23,15,12,432.0,41
+higher_75,mdd,0.1,no_storage,10000,water_priority,North Carolina,33,10,2,8,23,828.0,32
+higher_75,mdd,0.1,no_storage,10000,water_priority,North Dakota,48,9,7,2,39,1404.0,33
+higher_75,mdd,0.1,no_storage,10000,water_priority,Ohio,29,29,21,8,0,0.0,28
+higher_75,mdd,0.1,no_storage,10000,water_priority,Oklahoma,15,4,3,1,11,396.0,8
+higher_75,mdd,0.1,no_storage,10000,water_priority,Oregon,79,53,31,22,26,936.0,63
+higher_75,mdd,0.1,no_storage,10000,water_priority,Pennsylvania,56,26,5,21,30,1080.0,51
+higher_75,mdd,0.1,no_storage,10000,water_priority,South Carolina,25,25,15,10,0,0.0,25
+higher_75,mdd,0.1,no_storage,10000,water_priority,Tennessee,16,11,0,11,5,180.0,16
+higher_75,mdd,0.1,no_storage,10000,water_priority,Texas,270,270,158,112,0,0.0,270
+higher_75,mdd,0.1,no_storage,10000,water_priority,Utah,31,31,19,12,0,0.0,31
+higher_75,mdd,0.1,no_storage,10000,water_priority,Virginia,420,150,85,65,270,9720.0,338
+higher_75,mdd,0.1,no_storage,10000,water_priority,Washington,64,6,0,6,58,2088.0,0
+higher_75,mdd,0.1,no_storage,10000,water_priority,Wisconsin,1,1,0,1,0,0.0,1
+higher_75,mdd,0.1,no_storage,10000,water_priority,Wyoming,23,17,9,8,6,216.0,22
+higher_75,mdd,0.1,storage,10000,water_priority,Alabama,18,18,15,3,0,0.0,15
+higher_75,mdd,0.1,storage,10000,water_priority,Arizona,77,77,77,0,0,0.0,77
+higher_75,mdd,0.1,storage,10000,water_priority,California,115,115,96,19,0,0.0,115
+higher_75,mdd,0.1,storage,10000,water_priority,Colorado,18,18,18,0,0,0.0,18
+higher_75,mdd,0.1,storage,10000,water_priority,Connecticut,3,3,3,0,0,0.0,3
+higher_75,mdd,0.1,storage,10000,water_priority,Florida,17,17,14,3,0,0.0,17
+higher_75,mdd,0.1,storage,10000,water_priority,Georgia,76,76,67,9,0,0.0,67
+higher_75,mdd,0.1,storage,10000,water_priority,Idaho,1,1,1,0,0,0.0,1
+higher_75,mdd,0.1,storage,10000,water_priority,Illinois,92,92,56,36,0,0.0,89
+higher_75,mdd,0.1,storage,10000,water_priority,Indiana,2,2,2,0,0,0.0,2
+higher_75,mdd,0.1,storage,10000,water_priority,Iowa,76,76,74,2,0,0.0,76
+higher_75,mdd,0.1,storage,10000,water_priority,Kentucky,20,20,8,12,0,0.0,9
+higher_75,mdd,0.1,storage,10000,water_priority,Maryland,1,1,1,0,0,0.0,1
+higher_75,mdd,0.1,storage,10000,water_priority,Massachusetts,13,13,7,6,0,0.0,13
+higher_75,mdd,0.1,storage,10000,water_priority,Michigan,6,6,6,0,0,0.0,6
+higher_75,mdd,0.1,storage,10000,water_priority,Minnesota,10,10,9,1,0,0.0,10
+higher_75,mdd,0.1,storage,10000,water_priority,Missouri,12,12,12,0,0,0.0,12
+higher_75,mdd,0.1,storage,10000,water_priority,Montana,7,7,7,0,0,0.0,7
+higher_75,mdd,0.1,storage,10000,water_priority,Nebraska,49,49,31,18,0,0.0,47
+higher_75,mdd,0.1,storage,10000,water_priority,Nevada,42,42,42,0,0,0.0,42
+higher_75,mdd,0.1,storage,10000,water_priority,New Jersey,50,50,36,14,0,0.0,49
+higher_75,mdd,0.1,storage,10000,water_priority,New Mexico,5,3,2,1,2,72.0,2
+higher_75,mdd,0.1,storage,10000,water_priority,New York,50,50,36,14,0,0.0,41
+higher_75,mdd,0.1,storage,10000,water_priority,North Carolina,33,19,6,13,14,504.0,32
+higher_75,mdd,0.1,storage,10000,water_priority,North Dakota,48,27,21,6,21,756.0,33
+higher_75,mdd,0.1,storage,10000,water_priority,Ohio,29,29,23,6,0,0.0,28
+higher_75,mdd,0.1,storage,10000,water_priority,Oklahoma,15,7,5,2,8,288.0,8
+higher_75,mdd,0.1,storage,10000,water_priority,Oregon,79,79,44,35,0,0.0,63
+higher_75,mdd,0.1,storage,10000,water_priority,Pennsylvania,56,49,12,37,7,252.0,51
+higher_75,mdd,0.1,storage,10000,water_priority,South Carolina,25,25,18,7,0,0.0,25
+higher_75,mdd,0.1,storage,10000,water_priority,Tennessee,16,16,8,8,0,0.0,16
+higher_75,mdd,0.1,storage,10000,water_priority,Texas,270,270,180,90,0,0.0,270
+higher_75,mdd,0.1,storage,10000,water_priority,Utah,31,31,31,0,0,0.0,31
+higher_75,mdd,0.1,storage,10000,water_priority,Virginia,420,234,126,108,186,6696.0,338
+higher_75,mdd,0.1,storage,10000,water_priority,Washington,64,18,0,18,46,1656.0,0
+higher_75,mdd,0.1,storage,10000,water_priority,Wisconsin,1,1,1,0,0,0.0,1
+higher_75,mdd,0.1,storage,10000,water_priority,Wyoming,23,23,20,3,0,0.0,22
+higher_75,mdd,0.25,no_storage,10000,water_priority,Alabama,18,18,15,3,0,0.0,15
+higher_75,mdd,0.25,no_storage,10000,water_priority,Arizona,77,77,77,0,0,0.0,77
+higher_75,mdd,0.25,no_storage,10000,water_priority,California,115,115,97,18,0,0.0,115
+higher_75,mdd,0.25,no_storage,10000,water_priority,Colorado,18,18,18,0,0,0.0,18
+higher_75,mdd,0.25,no_storage,10000,water_priority,Connecticut,3,3,3,0,0,0.0,3
+higher_75,mdd,0.25,no_storage,10000,water_priority,Florida,17,17,17,0,0,0.0,17
+higher_75,mdd,0.25,no_storage,10000,water_priority,Georgia,76,76,67,9,0,0.0,67
+higher_75,mdd,0.25,no_storage,10000,water_priority,Idaho,1,1,1,0,0,0.0,1
+higher_75,mdd,0.25,no_storage,10000,water_priority,Illinois,92,92,57,35,0,0.0,89
+higher_75,mdd,0.25,no_storage,10000,water_priority,Indiana,2,2,2,0,0,0.0,2
+higher_75,mdd,0.25,no_storage,10000,water_priority,Iowa,76,76,76,0,0,0.0,76
+higher_75,mdd,0.25,no_storage,10000,water_priority,Kentucky,20,20,9,11,0,0.0,9
+higher_75,mdd,0.25,no_storage,10000,water_priority,Maryland,1,1,1,0,0,0.0,1
+higher_75,mdd,0.25,no_storage,10000,water_priority,Massachusetts,13,13,7,6,0,0.0,13
+higher_75,mdd,0.25,no_storage,10000,water_priority,Michigan,6,6,6,0,0,0.0,6
+higher_75,mdd,0.25,no_storage,10000,water_priority,Minnesota,10,10,9,1,0,0.0,10
+higher_75,mdd,0.25,no_storage,10000,water_priority,Missouri,12,12,12,0,0,0.0,12
+higher_75,mdd,0.25,no_storage,10000,water_priority,Montana,7,7,7,0,0,0.0,7
+higher_75,mdd,0.25,no_storage,10000,water_priority,Nebraska,49,49,31,18,0,0.0,47
+higher_75,mdd,0.25,no_storage,10000,water_priority,Nevada,42,42,42,0,0,0.0,42
+higher_75,mdd,0.25,no_storage,10000,water_priority,New Jersey,50,50,36,14,0,0.0,49
+higher_75,mdd,0.25,no_storage,10000,water_priority,New Mexico,5,4,2,2,1,36.0,2
+higher_75,mdd,0.25,no_storage,10000,water_priority,New York,50,50,36,14,0,0.0,41
+higher_75,mdd,0.25,no_storage,10000,water_priority,North Carolina,33,24,8,16,9,324.0,32
+higher_75,mdd,0.25,no_storage,10000,water_priority,North Dakota,48,25,19,6,23,828.0,33
+higher_75,mdd,0.25,no_storage,10000,water_priority,Ohio,29,29,25,4,0,0.0,28
+higher_75,mdd,0.25,no_storage,10000,water_priority,Oklahoma,15,10,8,2,5,180.0,8
+higher_75,mdd,0.25,no_storage,10000,water_priority,Oregon,79,79,43,36,0,0.0,63
+higher_75,mdd,0.25,no_storage,10000,water_priority,Pennsylvania,56,50,13,37,6,216.0,51
+higher_75,mdd,0.25,no_storage,10000,water_priority,South Carolina,25,25,19,6,0,0.0,25
+higher_75,mdd,0.25,no_storage,10000,water_priority,Tennessee,16,16,15,1,0,0.0,16
+higher_75,mdd,0.25,no_storage,10000,water_priority,Texas,270,270,201,69,0,0.0,270
+higher_75,mdd,0.25,no_storage,10000,water_priority,Utah,31,31,31,0,0,0.0,31
+higher_75,mdd,0.25,no_storage,10000,water_priority,Virginia,420,271,141,130,149,5364.0,338
+higher_75,mdd,0.25,no_storage,10000,water_priority,Washington,64,17,0,17,47,1692.0,0
+higher_75,mdd,0.25,no_storage,10000,water_priority,Wisconsin,1,1,1,0,0,0.0,1
+higher_75,mdd,0.25,no_storage,10000,water_priority,Wyoming,23,23,19,4,0,0.0,22
+higher_75,mdd,0.25,storage,10000,water_priority,Alabama,18,18,15,3,0,0.0,15
+higher_75,mdd,0.25,storage,10000,water_priority,Arizona,77,77,77,0,0,0.0,77
+higher_75,mdd,0.25,storage,10000,water_priority,California,115,115,103,12,0,0.0,115
+higher_75,mdd,0.25,storage,10000,water_priority,Colorado,18,18,18,0,0,0.0,18
+higher_75,mdd,0.25,storage,10000,water_priority,Connecticut,3,3,3,0,0,0.0,3
+higher_75,mdd,0.25,storage,10000,water_priority,Florida,17,17,17,0,0,0.0,17
+higher_75,mdd,0.25,storage,10000,water_priority,Georgia,76,76,67,9,0,0.0,67
+higher_75,mdd,0.25,storage,10000,water_priority,Idaho,1,1,1,0,0,0.0,1
+higher_75,mdd,0.25,storage,10000,water_priority,Illinois,92,92,83,9,0,0.0,89
+higher_75,mdd,0.25,storage,10000,water_priority,Indiana,2,2,2,0,0,0.0,2
+higher_75,mdd,0.25,storage,10000,water_priority,Iowa,76,76,76,0,0,0.0,76
+higher_75,mdd,0.25,storage,10000,water_priority,Kentucky,20,20,9,11,0,0.0,9
+higher_75,mdd,0.25,storage,10000,water_priority,Maryland,1,1,1,0,0,0.0,1
+higher_75,mdd,0.25,storage,10000,water_priority,Massachusetts,13,13,13,0,0,0.0,13
+higher_75,mdd,0.25,storage,10000,water_priority,Michigan,6,6,6,0,0,0.0,6
+higher_75,mdd,0.25,storage,10000,water_priority,Minnesota,10,10,10,0,0,0.0,10
+higher_75,mdd,0.25,storage,10000,water_priority,Missouri,12,12,12,0,0,0.0,12
+higher_75,mdd,0.25,storage,10000,water_priority,Montana,7,7,7,0,0,0.0,7
+higher_75,mdd,0.25,storage,10000,water_priority,Nebraska,49,49,37,12,0,0.0,47
+higher_75,mdd,0.25,storage,10000,water_priority,Nevada,42,42,42,0,0,0.0,42
+higher_75,mdd,0.25,storage,10000,water_priority,New Jersey,50,50,44,6,0,0.0,49
+higher_75,mdd,0.25,storage,10000,water_priority,New Mexico,5,5,2,3,0,0.0,2
+higher_75,mdd,0.25,storage,10000,water_priority,New York,50,50,38,12,0,0.0,41
+higher_75,mdd,0.25,storage,10000,water_priority,North Carolina,33,33,15,18,0,0.0,32
+higher_75,mdd,0.25,storage,10000,water_priority,North Dakota,48,48,33,15,0,0.0,33
+higher_75,mdd,0.25,storage,10000,water_priority,Ohio,29,29,28,1,0,0.0,28
+higher_75,mdd,0.25,storage,10000,water_priority,Oklahoma,15,15,8,7,0,0.0,8
+higher_75,mdd,0.25,storage,10000,water_priority,Oregon,79,79,49,30,0,0.0,63
+higher_75,mdd,0.25,storage,10000,water_priority,Pennsylvania,56,56,28,28,0,0.0,51
+higher_75,mdd,0.25,storage,10000,water_priority,South Carolina,25,25,19,6,0,0.0,25
+higher_75,mdd,0.25,storage,10000,water_priority,Tennessee,16,16,16,0,0,0.0,16
+higher_75,mdd,0.25,storage,10000,water_priority,Texas,270,270,225,45,0,0.0,270
+higher_75,mdd,0.25,storage,10000,water_priority,Utah,31,31,31,0,0,0.0,31
+higher_75,mdd,0.25,storage,10000,water_priority,Virginia,420,400,193,207,20,720.0,338
+higher_75,mdd,0.25,storage,10000,water_priority,Washington,64,25,0,25,39,1404.0,0
+higher_75,mdd,0.25,storage,10000,water_priority,Wisconsin,1,1,1,0,0,0.0,1
+higher_75,mdd,0.25,storage,10000,water_priority,Wyoming,23,23,22,1,0,0.0,22
+higher_75,mdd,0.5,no_storage,10000,water_priority,Alabama,18,18,15,3,0,0.0,15
+higher_75,mdd,0.5,no_storage,10000,water_priority,Arizona,77,77,77,0,0,0.0,77
+higher_75,mdd,0.5,no_storage,10000,water_priority,California,115,115,104,11,0,0.0,115
+higher_75,mdd,0.5,no_storage,10000,water_priority,Colorado,18,18,18,0,0,0.0,18
+higher_75,mdd,0.5,no_storage,10000,water_priority,Connecticut,3,3,3,0,0,0.0,3
+higher_75,mdd,0.5,no_storage,10000,water_priority,Florida,17,17,17,0,0,0.0,17
+higher_75,mdd,0.5,no_storage,10000,water_priority,Georgia,76,76,67,9,0,0.0,67
+higher_75,mdd,0.5,no_storage,10000,water_priority,Idaho,1,1,1,0,0,0.0,1
+higher_75,mdd,0.5,no_storage,10000,water_priority,Illinois,92,92,78,14,0,0.0,89
+higher_75,mdd,0.5,no_storage,10000,water_priority,Indiana,2,2,2,0,0,0.0,2
+higher_75,mdd,0.5,no_storage,10000,water_priority,Iowa,76,76,76,0,0,0.0,76
+higher_75,mdd,0.5,no_storage,10000,water_priority,Kentucky,20,20,9,11,0,0.0,9
+higher_75,mdd,0.5,no_storage,10000,water_priority,Maryland,1,1,1,0,0,0.0,1
+higher_75,mdd,0.5,no_storage,10000,water_priority,Massachusetts,13,13,11,2,0,0.0,13
+higher_75,mdd,0.5,no_storage,10000,water_priority,Michigan,6,6,6,0,0,0.0,6
+higher_75,mdd,0.5,no_storage,10000,water_priority,Minnesota,10,10,10,0,0,0.0,10
+higher_75,mdd,0.5,no_storage,10000,water_priority,Missouri,12,12,12,0,0,0.0,12
+higher_75,mdd,0.5,no_storage,10000,water_priority,Montana,7,7,7,0,0,0.0,7
+higher_75,mdd,0.5,no_storage,10000,water_priority,Nebraska,49,49,35,14,0,0.0,47
+higher_75,mdd,0.5,no_storage,10000,water_priority,Nevada,42,42,42,0,0,0.0,42
+higher_75,mdd,0.5,no_storage,10000,water_priority,New Jersey,50,50,43,7,0,0.0,49
+higher_75,mdd,0.5,no_storage,10000,water_priority,New Mexico,5,5,2,3,0,0.0,2
+higher_75,mdd,0.5,no_storage,10000,water_priority,New York,50,50,38,12,0,0.0,41
+higher_75,mdd,0.5,no_storage,10000,water_priority,North Carolina,33,33,17,16,0,0.0,32
+higher_75,mdd,0.5,no_storage,10000,water_priority,North Dakota,48,48,33,15,0,0.0,33
+higher_75,mdd,0.5,no_storage,10000,water_priority,Ohio,29,29,28,1,0,0.0,28
+higher_75,mdd,0.5,no_storage,10000,water_priority,Oklahoma,15,15,8,7,0,0.0,8
+higher_75,mdd,0.5,no_storage,10000,water_priority,Oregon,79,79,46,33,0,0.0,63
+higher_75,mdd,0.5,no_storage,10000,water_priority,Pennsylvania,56,56,25,31,0,0.0,51
+higher_75,mdd,0.5,no_storage,10000,water_priority,South Carolina,25,25,20,5,0,0.0,25
+higher_75,mdd,0.5,no_storage,10000,water_priority,Tennessee,16,16,16,0,0,0.0,16
+higher_75,mdd,0.5,no_storage,10000,water_priority,Texas,270,270,241,29,0,0.0,270
+higher_75,mdd,0.5,no_storage,10000,water_priority,Utah,31,31,31,0,0,0.0,31
+higher_75,mdd,0.5,no_storage,10000,water_priority,Virginia,420,400,192,208,20,720.0,338
+higher_75,mdd,0.5,no_storage,10000,water_priority,Washington,64,25,0,25,39,1404.0,0
+higher_75,mdd,0.5,no_storage,10000,water_priority,Wisconsin,1,1,1,0,0,0.0,1
+higher_75,mdd,0.5,no_storage,10000,water_priority,Wyoming,23,23,22,1,0,0.0,22
+higher_75,mdd,0.5,storage,10000,water_priority,Alabama,18,18,15,3,0,0.0,15
+higher_75,mdd,0.5,storage,10000,water_priority,Arizona,77,77,77,0,0,0.0,77
+higher_75,mdd,0.5,storage,10000,water_priority,California,115,115,112,3,0,0.0,115
+higher_75,mdd,0.5,storage,10000,water_priority,Colorado,18,18,18,0,0,0.0,18
+higher_75,mdd,0.5,storage,10000,water_priority,Connecticut,3,3,3,0,0,0.0,3
+higher_75,mdd,0.5,storage,10000,water_priority,Florida,17,17,17,0,0,0.0,17
+higher_75,mdd,0.5,storage,10000,water_priority,Georgia,76,76,67,9,0,0.0,67
+higher_75,mdd,0.5,storage,10000,water_priority,Idaho,1,1,1,0,0,0.0,1
+higher_75,mdd,0.5,storage,10000,water_priority,Illinois,92,92,89,3,0,0.0,89
+higher_75,mdd,0.5,storage,10000,water_priority,Indiana,2,2,2,0,0,0.0,2
+higher_75,mdd,0.5,storage,10000,water_priority,Iowa,76,76,76,0,0,0.0,76
+higher_75,mdd,0.5,storage,10000,water_priority,Kentucky,20,20,9,11,0,0.0,9
+higher_75,mdd,0.5,storage,10000,water_priority,Maryland,1,1,1,0,0,0.0,1
+higher_75,mdd,0.5,storage,10000,water_priority,Massachusetts,13,13,13,0,0,0.0,13
+higher_75,mdd,0.5,storage,10000,water_priority,Michigan,6,6,6,0,0,0.0,6
+higher_75,mdd,0.5,storage,10000,water_priority,Minnesota,10,10,10,0,0,0.0,10
+higher_75,mdd,0.5,storage,10000,water_priority,Missouri,12,12,12,0,0,0.0,12
+higher_75,mdd,0.5,storage,10000,water_priority,Montana,7,7,7,0,0,0.0,7
+higher_75,mdd,0.5,storage,10000,water_priority,Nebraska,49,49,47,2,0,0.0,47
+higher_75,mdd,0.5,storage,10000,water_priority,Nevada,42,42,42,0,0,0.0,42
+higher_75,mdd,0.5,storage,10000,water_priority,New Jersey,50,50,49,1,0,0.0,49
+higher_75,mdd,0.5,storage,10000,water_priority,New Mexico,5,5,2,3,0,0.0,2
+higher_75,mdd,0.5,storage,10000,water_priority,New York,50,50,41,9,0,0.0,41
+higher_75,mdd,0.5,storage,10000,water_priority,North Carolina,33,33,26,7,0,0.0,32
+higher_75,mdd,0.5,storage,10000,water_priority,North Dakota,48,48,33,15,0,0.0,33
+higher_75,mdd,0.5,storage,10000,water_priority,Ohio,29,29,28,1,0,0.0,28
+higher_75,mdd,0.5,storage,10000,water_priority,Oklahoma,15,15,8,7,0,0.0,8
+higher_75,mdd,0.5,storage,10000,water_priority,Oregon,79,79,56,23,0,0.0,63
+higher_75,mdd,0.5,storage,10000,water_priority,Pennsylvania,56,56,46,10,0,0.0,51
+higher_75,mdd,0.5,storage,10000,water_priority,South Carolina,25,25,21,4,0,0.0,25
+higher_75,mdd,0.5,storage,10000,water_priority,Tennessee,16,16,16,0,0,0.0,16
+higher_75,mdd,0.5,storage,10000,water_priority,Texas,270,270,260,10,0,0.0,270
+higher_75,mdd,0.5,storage,10000,water_priority,Utah,31,31,31,0,0,0.0,31
+higher_75,mdd,0.5,storage,10000,water_priority,Virginia,420,420,245,175,0,0.0,338
+higher_75,mdd,0.5,storage,10000,water_priority,Washington,64,25,0,25,39,1404.0,0
+higher_75,mdd,0.5,storage,10000,water_priority,Wisconsin,1,1,1,0,0,0.0,1
+higher_75,mdd,0.5,storage,10000,water_priority,Wyoming,23,23,22,1,0,0.0,22
+higher_75,avg,0.25,no_storage,10000,water_priority,Alabama,18,18,15,3,0,0.0,15
+higher_75,avg,0.25,no_storage,10000,water_priority,Arizona,77,77,76,1,0,0.0,77
+higher_75,avg,0.25,no_storage,10000,water_priority,California,115,115,89,26,0,0.0,115
+higher_75,avg,0.25,no_storage,10000,water_priority,Colorado,18,18,17,1,0,0.0,18
+higher_75,avg,0.25,no_storage,10000,water_priority,Connecticut,3,3,2,1,0,0.0,3
+higher_75,avg,0.25,no_storage,10000,water_priority,Florida,17,17,17,0,0,0.0,17
+higher_75,avg,0.25,no_storage,10000,water_priority,Georgia,76,76,67,9,0,0.0,67
+higher_75,avg,0.25,no_storage,10000,water_priority,Idaho,1,1,1,0,0,0.0,1
+higher_75,avg,0.25,no_storage,10000,water_priority,Illinois,92,92,38,54,0,0.0,89
+higher_75,avg,0.25,no_storage,10000,water_priority,Indiana,2,2,2,0,0,0.0,2
+higher_75,avg,0.25,no_storage,10000,water_priority,Iowa,76,54,43,11,22,792.0,76
+higher_75,avg,0.25,no_storage,10000,water_priority,Kentucky,20,20,7,13,0,0.0,9
+higher_75,avg,0.25,no_storage,10000,water_priority,Maryland,1,1,1,0,0,0.0,1
+higher_75,avg,0.25,no_storage,10000,water_priority,Massachusetts,13,10,4,6,3,108.0,13
+higher_75,avg,0.25,no_storage,10000,water_priority,Michigan,6,6,6,0,0,0.0,6
+higher_75,avg,0.25,no_storage,10000,water_priority,Minnesota,10,10,5,5,0,0.0,10
+higher_75,avg,0.25,no_storage,10000,water_priority,Missouri,12,12,12,0,0,0.0,12
+higher_75,avg,0.25,no_storage,10000,water_priority,Montana,7,7,7,0,0,0.0,7
+higher_75,avg,0.25,no_storage,10000,water_priority,Nebraska,49,49,29,20,0,0.0,47
+higher_75,avg,0.25,no_storage,10000,water_priority,Nevada,42,42,42,0,0,0.0,42
+higher_75,avg,0.25,no_storage,10000,water_priority,New Jersey,50,50,30,20,0,0.0,49
+higher_75,avg,0.25,no_storage,10000,water_priority,New Mexico,5,3,2,1,2,72.0,2
+higher_75,avg,0.25,no_storage,10000,water_priority,New York,50,50,30,20,0,0.0,41
+higher_75,avg,0.25,no_storage,10000,water_priority,North Carolina,33,12,3,9,21,756.0,32
+higher_75,avg,0.25,no_storage,10000,water_priority,North Dakota,48,11,9,2,37,1332.0,33
+higher_75,avg,0.25,no_storage,10000,water_priority,Ohio,29,29,22,7,0,0.0,28
+higher_75,avg,0.25,no_storage,10000,water_priority,Oklahoma,15,5,4,1,10,360.0,8
+higher_75,avg,0.25,no_storage,10000,water_priority,Oregon,79,57,32,25,22,792.0,63
+higher_75,avg,0.25,no_storage,10000,water_priority,Pennsylvania,56,32,7,25,24,864.0,51
+higher_75,avg,0.25,no_storage,10000,water_priority,South Carolina,25,25,16,9,0,0.0,25
+higher_75,avg,0.25,no_storage,10000,water_priority,Tennessee,16,15,2,13,1,36.0,16
+higher_75,avg,0.25,no_storage,10000,water_priority,Texas,270,270,166,104,0,0.0,270
+higher_75,avg,0.25,no_storage,10000,water_priority,Utah,31,31,20,11,0,0.0,31
+higher_75,avg,0.25,no_storage,10000,water_priority,Virginia,420,177,103,74,243,8748.0,338
+higher_75,avg,0.25,no_storage,10000,water_priority,Washington,64,6,0,6,58,2088.0,0
+higher_75,avg,0.25,no_storage,10000,water_priority,Wisconsin,1,1,0,1,0,0.0,1
+higher_75,avg,0.25,no_storage,10000,water_priority,Wyoming,23,19,10,9,4,144.0,22
+higher_75,avg,0.25,storage,10000,water_priority,Alabama,18,18,15,3,0,0.0,15
+higher_75,avg,0.25,storage,10000,water_priority,Arizona,77,77,77,0,0,0.0,77
+higher_75,avg,0.25,storage,10000,water_priority,California,115,115,97,18,0,0.0,115
+higher_75,avg,0.25,storage,10000,water_priority,Colorado,18,18,18,0,0,0.0,18
+higher_75,avg,0.25,storage,10000,water_priority,Connecticut,3,3,3,0,0,0.0,3
+higher_75,avg,0.25,storage,10000,water_priority,Florida,17,17,17,0,0,0.0,17
+higher_75,avg,0.25,storage,10000,water_priority,Georgia,76,76,67,9,0,0.0,67
+higher_75,avg,0.25,storage,10000,water_priority,Idaho,1,1,1,0,0,0.0,1
+higher_75,avg,0.25,storage,10000,water_priority,Illinois,92,92,66,26,0,0.0,89
+higher_75,avg,0.25,storage,10000,water_priority,Indiana,2,2,2,0,0,0.0,2
+higher_75,avg,0.25,storage,10000,water_priority,Iowa,76,76,76,0,0,0.0,76
+higher_75,avg,0.25,storage,10000,water_priority,Kentucky,20,20,8,12,0,0.0,9
+higher_75,avg,0.25,storage,10000,water_priority,Maryland,1,1,1,0,0,0.0,1
+higher_75,avg,0.25,storage,10000,water_priority,Massachusetts,13,13,7,6,0,0.0,13
+higher_75,avg,0.25,storage,10000,water_priority,Michigan,6,6,6,0,0,0.0,6
+higher_75,avg,0.25,storage,10000,water_priority,Minnesota,10,10,10,0,0,0.0,10
+higher_75,avg,0.25,storage,10000,water_priority,Missouri,12,12,12,0,0,0.0,12
+higher_75,avg,0.25,storage,10000,water_priority,Montana,7,7,7,0,0,0.0,7
+higher_75,avg,0.25,storage,10000,water_priority,Nebraska,49,49,32,17,0,0.0,47
+higher_75,avg,0.25,storage,10000,water_priority,Nevada,42,42,42,0,0,0.0,42
+higher_75,avg,0.25,storage,10000,water_priority,New Jersey,50,50,39,11,0,0.0,49
+higher_75,avg,0.25,storage,10000,water_priority,New Mexico,5,4,2,2,1,36.0,2
+higher_75,avg,0.25,storage,10000,water_priority,New York,50,50,37,13,0,0.0,41
+higher_75,avg,0.25,storage,10000,water_priority,North Carolina,33,22,8,14,11,396.0,32
+higher_75,avg,0.25,storage,10000,water_priority,North Dakota,48,33,26,7,15,540.0,33
+higher_75,avg,0.25,storage,10000,water_priority,Ohio,29,29,25,4,0,0.0,28
+higher_75,avg,0.25,storage,10000,water_priority,Oklahoma,15,11,8,3,4,144.0,8
+higher_75,avg,0.25,storage,10000,water_priority,Oregon,79,79,44,35,0,0.0,63
+higher_75,avg,0.25,storage,10000,water_priority,Pennsylvania,56,56,15,41,0,0.0,51
+higher_75,avg,0.25,storage,10000,water_priority,South Carolina,25,25,19,6,0,0.0,25
+higher_75,avg,0.25,storage,10000,water_priority,Tennessee,16,16,15,1,0,0.0,16
+higher_75,avg,0.25,storage,10000,water_priority,Texas,270,270,184,86,0,0.0,270
+higher_75,avg,0.25,storage,10000,water_priority,Utah,31,31,31,0,0,0.0,31
+higher_75,avg,0.25,storage,10000,water_priority,Virginia,420,286,154,132,134,4824.0,338
+higher_75,avg,0.25,storage,10000,water_priority,Washington,64,17,0,17,47,1692.0,0
+higher_75,avg,0.25,storage,10000,water_priority,Wisconsin,1,1,1,0,0,0.0,1
+higher_75,avg,0.25,storage,10000,water_priority,Wyoming,23,23,20,3,0,0.0,22
+higher_50,mdd,0.25,no_storage,3300,water_priority,Alabama,18,18,16,2,0,0.0,18
+higher_50,mdd,0.25,no_storage,3300,water_priority,Arizona,77,77,47,30,0,0.0,48
+higher_50,mdd,0.25,no_storage,3300,water_priority,California,115,115,96,19,0,0.0,115
+higher_50,mdd,0.25,no_storage,3300,water_priority,Colorado,18,18,18,0,0,0.0,18
+higher_50,mdd,0.25,no_storage,3300,water_priority,Connecticut,3,3,3,0,0,0.0,3
+higher_50,mdd,0.25,no_storage,3300,water_priority,Florida,17,17,17,0,0,0.0,17
+higher_50,mdd,0.25,no_storage,3300,water_priority,Georgia,76,76,71,5,0,0.0,76
+higher_50,mdd,0.25,no_storage,3300,water_priority,Idaho,1,1,1,0,0,0.0,1
+higher_50,mdd,0.25,no_storage,3300,water_priority,Illinois,92,92,63,29,0,0.0,92
+higher_50,mdd,0.25,no_storage,3300,water_priority,Indiana,2,2,2,0,0,0.0,2
+higher_50,mdd,0.25,no_storage,3300,water_priority,Iowa,76,76,62,14,0,0.0,75
+higher_50,mdd,0.25,no_storage,3300,water_priority,Kentucky,20,20,4,16,0,0.0,6
+higher_50,mdd,0.25,no_storage,3300,water_priority,Maryland,1,1,1,0,0,0.0,1
+higher_50,mdd,0.25,no_storage,3300,water_priority,Massachusetts,13,13,10,3,0,0.0,13
+higher_50,mdd,0.25,no_storage,3300,water_priority,Michigan,6,6,6,0,0,0.0,6
+higher_50,mdd,0.25,no_storage,3300,water_priority,Minnesota,10,10,9,1,0,0.0,10
+higher_50,mdd,0.25,no_storage,3300,water_priority,Missouri,12,12,12,0,0,0.0,12
+higher_50,mdd,0.25,no_storage,3300,water_priority,Montana,7,7,7,0,0,0.0,7
+higher_50,mdd,0.25,no_storage,3300,water_priority,Nebraska,49,49,35,14,0,0.0,47
+higher_50,mdd,0.25,no_storage,3300,water_priority,Nevada,42,42,42,0,0,0.0,42
+higher_50,mdd,0.25,no_storage,3300,water_priority,New Jersey,50,50,32,18,0,0.0,41
+higher_50,mdd,0.25,no_storage,3300,water_priority,New Mexico,5,2,2,0,3,108.0,5
+higher_50,mdd,0.25,no_storage,3300,water_priority,New York,50,50,28,22,0,0.0,40
+higher_50,mdd,0.25,no_storage,3300,water_priority,North Carolina,33,17,5,12,16,576.0,28
+higher_50,mdd,0.25,no_storage,3300,water_priority,North Dakota,48,26,14,12,22,792.0,19
+higher_50,mdd,0.25,no_storage,3300,water_priority,Ohio,29,29,26,3,0,0.0,29
+higher_50,mdd,0.25,no_storage,3300,water_priority,Oklahoma,15,11,8,3,4,144.0,9
+higher_50,mdd,0.25,no_storage,3300,water_priority,Oregon,79,79,45,34,0,0.0,71
+higher_50,mdd,0.25,no_storage,3300,water_priority,Pennsylvania,56,47,13,34,9,324.0,56
+higher_50,mdd,0.25,no_storage,3300,water_priority,South Carolina,25,25,20,5,0,0.0,25
+higher_50,mdd,0.25,no_storage,3300,water_priority,Tennessee,16,16,12,4,0,0.0,16
+higher_50,mdd,0.25,no_storage,3300,water_priority,Texas,270,270,198,72,0,0.0,270
+higher_50,mdd,0.25,no_storage,3300,water_priority,Utah,31,31,31,0,0,0.0,31
+higher_50,mdd,0.25,no_storage,3300,water_priority,Virginia,420,290,177,113,130,4680.0,346
+higher_50,mdd,0.25,no_storage,3300,water_priority,Washington,64,31,10,21,33,1188.0,59
+higher_50,mdd,0.25,no_storage,3300,water_priority,Wisconsin,1,1,1,0,0,0.0,1
+higher_50,mdd,0.25,no_storage,3300,water_priority,Wyoming,23,23,11,12,0,0.0,20
+higher_50,mdd,0.25,no_storage,10000,hybrid,Alabama,18,18,15,3,0,0.0,15
+higher_50,mdd,0.25,no_storage,10000,hybrid,Arizona,77,77,48,29,0,0.0,48
+higher_50,mdd,0.25,no_storage,10000,hybrid,California,115,115,105,10,0,0.0,115
+higher_50,mdd,0.25,no_storage,10000,hybrid,Colorado,18,18,18,0,0,0.0,18
+higher_50,mdd,0.25,no_storage,10000,hybrid,Connecticut,3,3,3,0,0,0.0,3
+higher_50,mdd,0.25,no_storage,10000,hybrid,Florida,17,17,17,0,0,0.0,17
+higher_50,mdd,0.25,no_storage,10000,hybrid,Georgia,76,76,73,3,0,0.0,73
+higher_50,mdd,0.25,no_storage,10000,hybrid,Idaho,1,1,1,0,0,0.0,1
+higher_50,mdd,0.25,no_storage,10000,hybrid,Illinois,92,92,80,12,0,0.0,86
+higher_50,mdd,0.25,no_storage,10000,hybrid,Indiana,2,2,2,0,0,0.0,2
+higher_50,mdd,0.25,no_storage,10000,hybrid,Iowa,76,76,71,5,0,0.0,71
+higher_50,mdd,0.25,no_storage,10000,hybrid,Kentucky,20,20,6,14,0,0.0,6
+higher_50,mdd,0.25,no_storage,10000,hybrid,Maryland,1,1,1,0,0,0.0,1
+higher_50,mdd,0.25,no_storage,10000,hybrid,Massachusetts,13,13,13,0,0,0.0,13
+higher_50,mdd,0.25,no_storage,10000,hybrid,Michigan,6,6,6,0,0,0.0,6
+higher_50,mdd,0.25,no_storage,10000,hybrid,Minnesota,10,10,10,0,0,0.0,10
+higher_50,mdd,0.25,no_storage,10000,hybrid,Missouri,12,12,12,0,0,0.0,12
+higher_50,mdd,0.25,no_storage,10000,hybrid,Montana,7,7,7,0,0,0.0,7
+higher_50,mdd,0.25,no_storage,10000,hybrid,Nebraska,49,49,42,7,0,0.0,47
+higher_50,mdd,0.25,no_storage,10000,hybrid,Nevada,42,42,42,0,0,0.0,42
+higher_50,mdd,0.25,no_storage,10000,hybrid,New Jersey,50,50,39,11,0,0.0,40
+higher_50,mdd,0.25,no_storage,10000,hybrid,New Mexico,5,5,2,3,0,0.0,2
+higher_50,mdd,0.25,no_storage,10000,hybrid,New York,50,50,33,17,0,0.0,34
+higher_50,mdd,0.25,no_storage,10000,hybrid,North Carolina,33,33,13,20,0,0.0,28
+higher_50,mdd,0.25,no_storage,10000,hybrid,North Dakota,48,43,14,29,5,180.0,14
+higher_50,mdd,0.25,no_storage,10000,hybrid,Ohio,29,29,28,1,0,0.0,28
+higher_50,mdd,0.25,no_storage,10000,hybrid,Oklahoma,15,13,9,4,2,72.0,9
+higher_50,mdd,0.25,no_storage,10000,hybrid,Oregon,79,79,53,26,0,0.0,62
+higher_50,mdd,0.25,no_storage,10000,hybrid,Pennsylvania,56,56,24,32,0,0.0,51
+higher_50,mdd,0.25,no_storage,10000,hybrid,South Carolina,25,25,21,4,0,0.0,23
+higher_50,mdd,0.25,no_storage,10000,hybrid,Tennessee,16,16,16,0,0,0.0,16
+higher_50,mdd,0.25,no_storage,10000,hybrid,Texas,270,270,201,69,0,0.0,270
+higher_50,mdd,0.25,no_storage,10000,hybrid,Utah,31,31,31,0,0,0.0,31
+higher_50,mdd,0.25,no_storage,10000,hybrid,Virginia,420,396,237,159,24,864.0,315
+higher_50,mdd,0.25,no_storage,10000,hybrid,Washington,64,23,4,19,41,1476.0,4
+higher_50,mdd,0.25,no_storage,10000,hybrid,Wisconsin,1,1,1,0,0,0.0,1
+higher_50,mdd,0.25,no_storage,10000,hybrid,Wyoming,23,23,13,10,0,0.0,13
+higher_50,mdd,0.25,no_storage,10000,water_priority_coc3,Alabama,18,18,15,3,0,0.0,15
+higher_50,mdd,0.25,no_storage,10000,water_priority_coc3,Arizona,77,77,48,29,0,0.0,48
+higher_50,mdd,0.25,no_storage,10000,water_priority_coc3,California,115,115,96,19,0,0.0,115
+higher_50,mdd,0.25,no_storage,10000,water_priority_coc3,Colorado,18,18,18,0,0,0.0,18
+higher_50,mdd,0.25,no_storage,10000,water_priority_coc3,Connecticut,3,3,3,0,0,0.0,3
+higher_50,mdd,0.25,no_storage,10000,water_priority_coc3,Florida,17,17,17,0,0,0.0,17
+higher_50,mdd,0.25,no_storage,10000,water_priority_coc3,Georgia,76,76,73,3,0,0.0,73
+higher_50,mdd,0.25,no_storage,10000,water_priority_coc3,Idaho,1,1,1,0,0,0.0,1
+higher_50,mdd,0.25,no_storage,10000,water_priority_coc3,Illinois,92,92,62,30,0,0.0,86
+higher_50,mdd,0.25,no_storage,10000,water_priority_coc3,Indiana,2,2,2,0,0,0.0,2
+higher_50,mdd,0.25,no_storage,10000,water_priority_coc3,Iowa,76,76,70,6,0,0.0,71
+higher_50,mdd,0.25,no_storage,10000,water_priority_coc3,Kentucky,20,20,6,14,0,0.0,6
+higher_50,mdd,0.25,no_storage,10000,water_priority_coc3,Maryland,1,1,1,0,0,0.0,1
+higher_50,mdd,0.25,no_storage,10000,water_priority_coc3,Massachusetts,13,13,9,4,0,0.0,13
+higher_50,mdd,0.25,no_storage,10000,water_priority_coc3,Michigan,6,6,6,0,0,0.0,6
+higher_50,mdd,0.25,no_storage,10000,water_priority_coc3,Minnesota,10,10,8,2,0,0.0,10
+higher_50,mdd,0.25,no_storage,10000,water_priority_coc3,Missouri,12,12,12,0,0,0.0,12
+higher_50,mdd,0.25,no_storage,10000,water_priority_coc3,Montana,7,7,7,0,0,0.0,7
+higher_50,mdd,0.25,no_storage,10000,water_priority_coc3,Nebraska,49,49,39,10,0,0.0,47
+higher_50,mdd,0.25,no_storage,10000,water_priority_coc3,Nevada,42,42,42,0,0,0.0,42
+higher_50,mdd,0.25,no_storage,10000,water_priority_coc3,New Jersey,50,50,33,17,0,0.0,40
+higher_50,mdd,0.25,no_storage,10000,water_priority_coc3,New Mexico,5,3,2,1,2,72.0,2
+higher_50,mdd,0.25,no_storage,10000,water_priority_coc3,New York,50,50,26,24,0,0.0,34
+higher_50,mdd,0.25,no_storage,10000,water_priority_coc3,North Carolina,33,21,9,12,12,432.0,28
+higher_50,mdd,0.25,no_storage,10000,water_priority_coc3,North Dakota,48,21,14,7,27,972.0,14
+higher_50,mdd,0.25,no_storage,10000,water_priority_coc3,Ohio,29,29,22,7,0,0.0,28
+higher_50,mdd,0.25,no_storage,10000,water_priority_coc3,Oklahoma,15,8,6,2,7,252.0,9
+higher_50,mdd,0.25,no_storage,10000,water_priority_coc3,Oregon,79,79,42,37,0,0.0,62
+higher_50,mdd,0.25,no_storage,10000,water_priority_coc3,Pennsylvania,56,46,12,34,10,360.0,51
+higher_50,mdd,0.25,no_storage,10000,water_priority_coc3,South Carolina,25,25,18,7,0,0.0,23
+higher_50,mdd,0.25,no_storage,10000,water_priority_coc3,Tennessee,16,16,10,6,0,0.0,16
+higher_50,mdd,0.25,no_storage,10000,water_priority_coc3,Texas,270,270,192,78,0,0.0,270
+higher_50,mdd,0.25,no_storage,10000,water_priority_coc3,Utah,31,31,31,0,0,0.0,31
+higher_50,mdd,0.25,no_storage,10000,water_priority_coc3,Virginia,420,239,156,83,181,6516.0,315
+higher_50,mdd,0.25,no_storage,10000,water_priority_coc3,Washington,64,14,4,10,50,1800.0,4
+higher_50,mdd,0.25,no_storage,10000,water_priority_coc3,Wisconsin,1,1,1,0,0,0.0,1
+higher_50,mdd,0.25,no_storage,10000,water_priority_coc3,Wyoming,23,23,9,14,0,0.0,13
+higher_50,mdd,0.25,no_storage,10000,water_priority_coc6,Alabama,18,18,15,3,0,0.0,15
+higher_50,mdd,0.25,no_storage,10000,water_priority_coc6,Arizona,77,77,48,29,0,0.0,48
+higher_50,mdd,0.25,no_storage,10000,water_priority_coc6,California,115,115,97,18,0,0.0,115
+higher_50,mdd,0.25,no_storage,10000,water_priority_coc6,Colorado,18,18,18,0,0,0.0,18
+higher_50,mdd,0.25,no_storage,10000,water_priority_coc6,Connecticut,3,3,3,0,0,0.0,3
+higher_50,mdd,0.25,no_storage,10000,water_priority_coc6,Florida,17,17,17,0,0,0.0,17
+higher_50,mdd,0.25,no_storage,10000,water_priority_coc6,Georgia,76,76,73,3,0,0.0,73
+higher_50,mdd,0.25,no_storage,10000,water_priority_coc6,Idaho,1,1,1,0,0,0.0,1
+higher_50,mdd,0.25,no_storage,10000,water_priority_coc6,Illinois,92,92,67,25,0,0.0,86
+higher_50,mdd,0.25,no_storage,10000,water_priority_coc6,Indiana,2,2,2,0,0,0.0,2
+higher_50,mdd,0.25,no_storage,10000,water_priority_coc6,Iowa,76,76,71,5,0,0.0,71
+higher_50,mdd,0.25,no_storage,10000,water_priority_coc6,Kentucky,20,20,6,14,0,0.0,6
+higher_50,mdd,0.25,no_storage,10000,water_priority_coc6,Maryland,1,1,1,0,0,0.0,1
+higher_50,mdd,0.25,no_storage,10000,water_priority_coc6,Massachusetts,13,13,10,3,0,0.0,13
+higher_50,mdd,0.25,no_storage,10000,water_priority_coc6,Michigan,6,6,6,0,0,0.0,6
+higher_50,mdd,0.25,no_storage,10000,water_priority_coc6,Minnesota,10,10,9,1,0,0.0,10
+higher_50,mdd,0.25,no_storage,10000,water_priority_coc6,Missouri,12,12,12,0,0,0.0,12
+higher_50,mdd,0.25,no_storage,10000,water_priority_coc6,Montana,7,7,7,0,0,0.0,7
+higher_50,mdd,0.25,no_storage,10000,water_priority_coc6,Nebraska,49,49,40,9,0,0.0,47
+higher_50,mdd,0.25,no_storage,10000,water_priority_coc6,Nevada,42,42,42,0,0,0.0,42
+higher_50,mdd,0.25,no_storage,10000,water_priority_coc6,New Jersey,50,50,36,14,0,0.0,40
+higher_50,mdd,0.25,no_storage,10000,water_priority_coc6,New Mexico,5,4,2,2,1,36.0,2
+higher_50,mdd,0.25,no_storage,10000,water_priority_coc6,New York,50,50,28,22,0,0.0,34
+higher_50,mdd,0.25,no_storage,10000,water_priority_coc6,North Carolina,33,24,10,14,9,324.0,28
+higher_50,mdd,0.25,no_storage,10000,water_priority_coc6,North Dakota,48,25,14,11,23,828.0,14
+higher_50,mdd,0.25,no_storage,10000,water_priority_coc6,Ohio,29,29,25,4,0,0.0,28
+higher_50,mdd,0.25,no_storage,10000,water_priority_coc6,Oklahoma,15,11,8,3,4,144.0,9
+higher_50,mdd,0.25,no_storage,10000,water_priority_coc6,Oregon,79,79,44,35,0,0.0,62
+higher_50,mdd,0.25,no_storage,10000,water_priority_coc6,Pennsylvania,56,54,14,40,2,72.0,51
+higher_50,mdd,0.25,no_storage,10000,water_priority_coc6,South Carolina,25,25,20,5,0,0.0,23
+higher_50,mdd,0.25,no_storage,10000,water_priority_coc6,Tennessee,16,16,15,1,0,0.0,16
+higher_50,mdd,0.25,no_storage,10000,water_priority_coc6,Texas,270,270,202,68,0,0.0,270
+higher_50,mdd,0.25,no_storage,10000,water_priority_coc6,Utah,31,31,31,0,0,0.0,31
+higher_50,mdd,0.25,no_storage,10000,water_priority_coc6,Virginia,420,280,176,104,140,5040.0,315
+higher_50,mdd,0.25,no_storage,10000,water_priority_coc6,Washington,64,17,4,13,47,1692.0,4
+higher_50,mdd,0.25,no_storage,10000,water_priority_coc6,Wisconsin,1,1,1,0,0,0.0,1
+higher_50,mdd,0.25,no_storage,10000,water_priority_coc6,Wyoming,23,23,11,12,0,0.0,13
+higher_50,mdd,0.25,storage,3300,water_priority,Alabama,18,18,17,1,0,0.0,18
+higher_50,mdd,0.25,storage,3300,water_priority,Arizona,77,77,47,30,0,0.0,48
+higher_50,mdd,0.25,storage,3300,water_priority,California,115,115,102,13,0,0.0,115
+higher_50,mdd,0.25,storage,3300,water_priority,Colorado,18,18,18,0,0,0.0,18
+higher_50,mdd,0.25,storage,3300,water_priority,Connecticut,3,3,3,0,0,0.0,3
+higher_50,mdd,0.25,storage,3300,water_priority,Florida,17,17,17,0,0,0.0,17
+higher_50,mdd,0.25,storage,3300,water_priority,Georgia,76,76,73,3,0,0.0,76
+higher_50,mdd,0.25,storage,3300,water_priority,Idaho,1,1,1,0,0,0.0,1
+higher_50,mdd,0.25,storage,3300,water_priority,Illinois,92,92,86,6,0,0.0,92
+higher_50,mdd,0.25,storage,3300,water_priority,Indiana,2,2,2,0,0,0.0,2
+higher_50,mdd,0.25,storage,3300,water_priority,Iowa,76,76,65,11,0,0.0,75
+higher_50,mdd,0.25,storage,3300,water_priority,Kentucky,20,20,6,14,0,0.0,6
+higher_50,mdd,0.25,storage,3300,water_priority,Maryland,1,1,1,0,0,0.0,1
+higher_50,mdd,0.25,storage,3300,water_priority,Massachusetts,13,13,13,0,0,0.0,13
+higher_50,mdd,0.25,storage,3300,water_priority,Michigan,6,6,6,0,0,0.0,6
+higher_50,mdd,0.25,storage,3300,water_priority,Minnesota,10,10,10,0,0,0.0,10
+higher_50,mdd,0.25,storage,3300,water_priority,Missouri,12,12,12,0,0,0.0,12
+higher_50,mdd,0.25,storage,3300,water_priority,Montana,7,7,7,0,0,0.0,7
+higher_50,mdd,0.25,storage,3300,water_priority,Nebraska,49,49,42,7,0,0.0,47
+higher_50,mdd,0.25,storage,3300,water_priority,Nevada,42,42,42,0,0,0.0,42
+higher_50,mdd,0.25,storage,3300,water_priority,New Jersey,50,50,40,10,0,0.0,41
+higher_50,mdd,0.25,storage,3300,water_priority,New Mexico,5,4,3,1,1,36.0,5
+higher_50,mdd,0.25,storage,3300,water_priority,New York,50,50,36,14,0,0.0,40
+higher_50,mdd,0.25,storage,3300,water_priority,North Carolina,33,31,9,22,2,72.0,28
+higher_50,mdd,0.25,storage,3300,water_priority,North Dakota,48,48,15,33,0,0.0,19
+higher_50,mdd,0.25,storage,3300,water_priority,Ohio,29,29,28,1,0,0.0,29
+higher_50,mdd,0.25,storage,3300,water_priority,Oklahoma,15,15,9,6,0,0.0,9
+higher_50,mdd,0.25,storage,3300,water_priority,Oregon,79,79,67,12,0,0.0,71
+higher_50,mdd,0.25,storage,3300,water_priority,Pennsylvania,56,56,30,26,0,0.0,56
+higher_50,mdd,0.25,storage,3300,water_priority,South Carolina,25,25,22,3,0,0.0,25
+higher_50,mdd,0.25,storage,3300,water_priority,Tennessee,16,16,16,0,0,0.0,16
+higher_50,mdd,0.25,storage,3300,water_priority,Texas,270,270,221,49,0,0.0,270
+higher_50,mdd,0.25,storage,3300,water_priority,Utah,31,31,31,0,0,0.0,31
+higher_50,mdd,0.25,storage,3300,water_priority,Virginia,420,420,244,176,0,0.0,346
+higher_50,mdd,0.25,storage,3300,water_priority,Washington,64,59,18,41,5,180.0,59
+higher_50,mdd,0.25,storage,3300,water_priority,Wisconsin,1,1,1,0,0,0.0,1
+higher_50,mdd,0.25,storage,3300,water_priority,Wyoming,23,23,19,4,0,0.0,20
+higher_50,mdd,0.25,storage,10000,hybrid,Alabama,18,18,15,3,0,0.0,15
+higher_50,mdd,0.25,storage,10000,hybrid,Arizona,77,77,48,29,0,0.0,48
+higher_50,mdd,0.25,storage,10000,hybrid,California,115,115,115,0,0,0.0,115
+higher_50,mdd,0.25,storage,10000,hybrid,Colorado,18,18,18,0,0,0.0,18
+higher_50,mdd,0.25,storage,10000,hybrid,Connecticut,3,3,3,0,0,0.0,3
+higher_50,mdd,0.25,storage,10000,hybrid,Florida,17,17,17,0,0,0.0,17
+higher_50,mdd,0.25,storage,10000,hybrid,Georgia,76,76,73,3,0,0.0,73
+higher_50,mdd,0.25,storage,10000,hybrid,Idaho,1,1,1,0,0,0.0,1
+higher_50,mdd,0.25,storage,10000,hybrid,Illinois,92,92,86,6,0,0.0,86
+higher_50,mdd,0.25,storage,10000,hybrid,Indiana,2,2,2,0,0,0.0,2
+higher_50,mdd,0.25,storage,10000,hybrid,Iowa,76,76,71,5,0,0.0,71
+higher_50,mdd,0.25,storage,10000,hybrid,Kentucky,20,20,6,14,0,0.0,6
+higher_50,mdd,0.25,storage,10000,hybrid,Maryland,1,1,1,0,0,0.0,1
+higher_50,mdd,0.25,storage,10000,hybrid,Massachusetts,13,13,13,0,0,0.0,13
+higher_50,mdd,0.25,storage,10000,hybrid,Michigan,6,6,6,0,0,0.0,6
+higher_50,mdd,0.25,storage,10000,hybrid,Minnesota,10,10,10,0,0,0.0,10
+higher_50,mdd,0.25,storage,10000,hybrid,Missouri,12,12,12,0,0,0.0,12
+higher_50,mdd,0.25,storage,10000,hybrid,Montana,7,7,7,0,0,0.0,7
+higher_50,mdd,0.25,storage,10000,hybrid,Nebraska,49,49,47,2,0,0.0,47
+higher_50,mdd,0.25,storage,10000,hybrid,Nevada,42,42,42,0,0,0.0,42
+higher_50,mdd,0.25,storage,10000,hybrid,New Jersey,50,50,40,10,0,0.0,40
+higher_50,mdd,0.25,storage,10000,hybrid,New Mexico,5,5,2,3,0,0.0,2
+higher_50,mdd,0.25,storage,10000,hybrid,New York,50,50,34,16,0,0.0,34
+higher_50,mdd,0.25,storage,10000,hybrid,North Carolina,33,33,28,5,0,0.0,28
+higher_50,mdd,0.25,storage,10000,hybrid,North Dakota,48,48,14,34,0,0.0,14
+higher_50,mdd,0.25,storage,10000,hybrid,Ohio,29,29,28,1,0,0.0,28
+higher_50,mdd,0.25,storage,10000,hybrid,Oklahoma,15,15,9,6,0,0.0,9
+higher_50,mdd,0.25,storage,10000,hybrid,Oregon,79,79,62,17,0,0.0,62
+higher_50,mdd,0.25,storage,10000,hybrid,Pennsylvania,56,56,51,5,0,0.0,51
+higher_50,mdd,0.25,storage,10000,hybrid,South Carolina,25,25,23,2,0,0.0,23
+higher_50,mdd,0.25,storage,10000,hybrid,Tennessee,16,16,16,0,0,0.0,16
+higher_50,mdd,0.25,storage,10000,hybrid,Texas,270,270,270,0,0,0.0,270
+higher_50,mdd,0.25,storage,10000,hybrid,Utah,31,31,31,0,0,0.0,31
+higher_50,mdd,0.25,storage,10000,hybrid,Virginia,420,420,311,109,0,0.0,315
+higher_50,mdd,0.25,storage,10000,hybrid,Washington,64,25,4,21,39,1404.0,4
+higher_50,mdd,0.25,storage,10000,hybrid,Wisconsin,1,1,1,0,0,0.0,1
+higher_50,mdd,0.25,storage,10000,hybrid,Wyoming,23,23,13,10,0,0.0,13
+higher_50,mdd,0.25,storage,10000,water_priority_coc3,Alabama,18,18,15,3,0,0.0,15
+higher_50,mdd,0.25,storage,10000,water_priority_coc3,Arizona,77,77,48,29,0,0.0,48
+higher_50,mdd,0.25,storage,10000,water_priority_coc3,California,115,115,100,15,0,0.0,115
+higher_50,mdd,0.25,storage,10000,water_priority_coc3,Colorado,18,18,18,0,0,0.0,18
+higher_50,mdd,0.25,storage,10000,water_priority_coc3,Connecticut,3,3,3,0,0,0.0,3
+higher_50,mdd,0.25,storage,10000,water_priority_coc3,Florida,17,17,17,0,0,0.0,17
+higher_50,mdd,0.25,storage,10000,water_priority_coc3,Georgia,76,76,73,3,0,0.0,73
+higher_50,mdd,0.25,storage,10000,water_priority_coc3,Idaho,1,1,1,0,0,0.0,1
+higher_50,mdd,0.25,storage,10000,water_priority_coc3,Illinois,92,92,82,10,0,0.0,86
+higher_50,mdd,0.25,storage,10000,water_priority_coc3,Indiana,2,2,2,0,0,0.0,2
+higher_50,mdd,0.25,storage,10000,water_priority_coc3,Iowa,76,76,71,5,0,0.0,71
+higher_50,mdd,0.25,storage,10000,water_priority_coc3,Kentucky,20,20,6,14,0,0.0,6
+higher_50,mdd,0.25,storage,10000,water_priority_coc3,Maryland,1,1,1,0,0,0.0,1
+higher_50,mdd,0.25,storage,10000,water_priority_coc3,Massachusetts,13,13,13,0,0,0.0,13
+higher_50,mdd,0.25,storage,10000,water_priority_coc3,Michigan,6,6,6,0,0,0.0,6
+higher_50,mdd,0.25,storage,10000,water_priority_coc3,Minnesota,10,10,10,0,0,0.0,10
+higher_50,mdd,0.25,storage,10000,water_priority_coc3,Missouri,12,12,12,0,0,0.0,12
+higher_50,mdd,0.25,storage,10000,water_priority_coc3,Montana,7,7,7,0,0,0.0,7
+higher_50,mdd,0.25,storage,10000,water_priority_coc3,Nebraska,49,49,44,5,0,0.0,47
+higher_50,mdd,0.25,storage,10000,water_priority_coc3,Nevada,42,42,42,0,0,0.0,42
+higher_50,mdd,0.25,storage,10000,water_priority_coc3,New Jersey,50,50,39,11,0,0.0,40
+higher_50,mdd,0.25,storage,10000,water_priority_coc3,New Mexico,5,5,2,3,0,0.0,2
+higher_50,mdd,0.25,storage,10000,water_priority_coc3,New York,50,50,33,17,0,0.0,34
+higher_50,mdd,0.25,storage,10000,water_priority_coc3,North Carolina,33,30,12,18,3,108.0,28
+higher_50,mdd,0.25,storage,10000,water_priority_coc3,North Dakota,48,48,14,34,0,0.0,14
+higher_50,mdd,0.25,storage,10000,water_priority_coc3,Ohio,29,29,28,1,0,0.0,28
+higher_50,mdd,0.25,storage,10000,water_priority_coc3,Oklahoma,15,15,9,6,0,0.0,9
+higher_50,mdd,0.25,storage,10000,water_priority_coc3,Oregon,79,79,59,20,0,0.0,62
+higher_50,mdd,0.25,storage,10000,water_priority_coc3,Pennsylvania,56,56,24,32,0,0.0,51
+higher_50,mdd,0.25,storage,10000,water_priority_coc3,South Carolina,25,25,21,4,0,0.0,23
+higher_50,mdd,0.25,storage,10000,water_priority_coc3,Tennessee,16,16,16,0,0,0.0,16
+higher_50,mdd,0.25,storage,10000,water_priority_coc3,Texas,270,270,214,56,0,0.0,270
+higher_50,mdd,0.25,storage,10000,water_priority_coc3,Utah,31,31,31,0,0,0.0,31
+higher_50,mdd,0.25,storage,10000,water_priority_coc3,Virginia,420,363,224,139,57,2052.0,315
+higher_50,mdd,0.25,storage,10000,water_priority_coc3,Washington,64,25,4,21,39,1404.0,4
+higher_50,mdd,0.25,storage,10000,water_priority_coc3,Wisconsin,1,1,1,0,0,0.0,1
+higher_50,mdd,0.25,storage,10000,water_priority_coc3,Wyoming,23,23,13,10,0,0.0,13
+higher_50,mdd,0.25,storage,10000,water_priority_coc6,Alabama,18,18,15,3,0,0.0,15
+higher_50,mdd,0.25,storage,10000,water_priority_coc6,Arizona,77,77,48,29,0,0.0,48
+higher_50,mdd,0.25,storage,10000,water_priority_coc6,California,115,115,103,12,0,0.0,115
+higher_50,mdd,0.25,storage,10000,water_priority_coc6,Colorado,18,18,18,0,0,0.0,18
+higher_50,mdd,0.25,storage,10000,water_priority_coc6,Connecticut,3,3,3,0,0,0.0,3
+higher_50,mdd,0.25,storage,10000,water_priority_coc6,Florida,17,17,17,0,0,0.0,17
+higher_50,mdd,0.25,storage,10000,water_priority_coc6,Georgia,76,76,73,3,0,0.0,73
+higher_50,mdd,0.25,storage,10000,water_priority_coc6,Idaho,1,1,1,0,0,0.0,1
+higher_50,mdd,0.25,storage,10000,water_priority_coc6,Illinois,92,92,84,8,0,0.0,86
+higher_50,mdd,0.25,storage,10000,water_priority_coc6,Indiana,2,2,2,0,0,0.0,2
+higher_50,mdd,0.25,storage,10000,water_priority_coc6,Iowa,76,76,71,5,0,0.0,71
+higher_50,mdd,0.25,storage,10000,water_priority_coc6,Kentucky,20,20,6,14,0,0.0,6
+higher_50,mdd,0.25,storage,10000,water_priority_coc6,Maryland,1,1,1,0,0,0.0,1
+higher_50,mdd,0.25,storage,10000,water_priority_coc6,Massachusetts,13,13,13,0,0,0.0,13
+higher_50,mdd,0.25,storage,10000,water_priority_coc6,Michigan,6,6,6,0,0,0.0,6
+higher_50,mdd,0.25,storage,10000,water_priority_coc6,Minnesota,10,10,10,0,0,0.0,10
+higher_50,mdd,0.25,storage,10000,water_priority_coc6,Missouri,12,12,12,0,0,0.0,12
+higher_50,mdd,0.25,storage,10000,water_priority_coc6,Montana,7,7,7,0,0,0.0,7
+higher_50,mdd,0.25,storage,10000,water_priority_coc6,Nebraska,49,49,46,3,0,0.0,47
+higher_50,mdd,0.25,storage,10000,water_priority_coc6,Nevada,42,42,42,0,0,0.0,42
+higher_50,mdd,0.25,storage,10000,water_priority_coc6,New Jersey,50,50,40,10,0,0.0,40
+higher_50,mdd,0.25,storage,10000,water_priority_coc6,New Mexico,5,5,2,3,0,0.0,2
+higher_50,mdd,0.25,storage,10000,water_priority_coc6,New York,50,50,34,16,0,0.0,34
+higher_50,mdd,0.25,storage,10000,water_priority_coc6,North Carolina,33,33,13,20,0,0.0,28
+higher_50,mdd,0.25,storage,10000,water_priority_coc6,North Dakota,48,48,14,34,0,0.0,14
+higher_50,mdd,0.25,storage,10000,water_priority_coc6,Ohio,29,29,28,1,0,0.0,28
+higher_50,mdd,0.25,storage,10000,water_priority_coc6,Oklahoma,15,15,9,6,0,0.0,9
+higher_50,mdd,0.25,storage,10000,water_priority_coc6,Oregon,79,79,61,18,0,0.0,62
+higher_50,mdd,0.25,storage,10000,water_priority_coc6,Pennsylvania,56,56,28,28,0,0.0,51
+higher_50,mdd,0.25,storage,10000,water_priority_coc6,South Carolina,25,25,21,4,0,0.0,23
+higher_50,mdd,0.25,storage,10000,water_priority_coc6,Tennessee,16,16,16,0,0,0.0,16
+higher_50,mdd,0.25,storage,10000,water_priority_coc6,Texas,270,270,227,43,0,0.0,270
+higher_50,mdd,0.25,storage,10000,water_priority_coc6,Utah,31,31,31,0,0,0.0,31
+higher_50,mdd,0.25,storage,10000,water_priority_coc6,Virginia,420,408,240,168,12,432.0,315
+higher_50,mdd,0.25,storage,10000,water_priority_coc6,Washington,64,25,4,21,39,1404.0,4
+higher_50,mdd,0.25,storage,10000,water_priority_coc6,Wisconsin,1,1,1,0,0,0.0,1
+higher_50,mdd,0.25,storage,10000,water_priority_coc6,Wyoming,23,23,13,10,0,0.0,13
